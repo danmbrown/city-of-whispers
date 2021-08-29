@@ -1,4 +1,6 @@
-# Hello, World!
+# City of Whispers
+_A tabletop roleplaying game about intrigue in a fantasy city._
+_By Dan Brown_
 
 [Moves](Moves.md)
 

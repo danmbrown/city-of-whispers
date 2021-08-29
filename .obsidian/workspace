@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Moves.md",
+            "file": "index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Moves.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,13 +99,13 @@
   },
   "active": "954e053413835ce4",
   "lastOpenFiles": [
+    "index.md",
     "Moves.md",
     "Advancement.md",
     "Gen.md",
     "Lists.md",
     "Magistrate.md",
     "Rules.md",
-    "index.md",
     "Playbooks/Overview.md",
     "Playbooks/_Overview.md",
     "Playbooks/Apparatus.md"
