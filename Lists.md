@@ -188,13 +188,23 @@ If you need a rumor, roll 2d20 and 2d6. The d20s describe the actor and their ac
 
 #### Details (d6)
 
-| d6 | Item | Person | Group | Location | Event |
-| :-: | :-- | :-- | :-- | :-- | :-- |
-| 1 | Magic artifact | Person | Group | Location | Event |
-| 2 | Royal object | Person | Group | Location | Event |
-| 3 | Mystic weapon | Person | Group | Location | Event |
-| 4 | Sacred scroll | Person | Group | Location | Event |
-| 5 | Item | Person | Group | Location | Event |
-| 6 | Item | Person | Group | Location | Event |
+| d6 | Item | Person | Group |
+| :-: | :-- | :-- | :-- |
+| 1 | Magic artifact | You | Your faction |
+| 2 | Royal object | A family member | A splinter group from your faction |
+| 3 | Mystic weapon | A disgraced noble | The Assassins' Guild |
+| 4 | Sacred scroll | A mysterious merchant | The Thieves' Guild |
+| 5 | Ancient idol | An innocent foundling | The Merchant's Collective |
+| 6 | Mundane goblet | A rebellious aristocrat  | The Bureaucracy |
+
+
+| d6 | Location | Event |
+| :-: | :-- | :-- |
+| 1 | Location | Event |
+| 1 | Location | Event |
+| 1 | Location | Event |
+| 1 | Location | Event |
+| 1 | Location | Event |
+| 1 | Location | Event |
 
 
