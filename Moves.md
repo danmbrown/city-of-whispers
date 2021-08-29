@@ -3,10 +3,11 @@
 ### Transit (Environs)
 When you travel to another neighborhood, and it is new to you or you need to get there unnoticed or you need to get there fast, roll +Environs. (If you’re entering a place you’re not allowed in, you must Take a Big Risk.)
 
-**12+** You arrive uneventfully, or pick 1 and clear 1 Heat.
-**10+** Pick 1.
-**7 - 9** Pick 2.
+- **12+** You arrive uneventfully, or pick 1 Consequence and clear 1 Heat.
+- **10+** Pick 1 Consequence.
+- **7 - 9** Pick 2 Consequences.
 
+#### Consequences
 - You alert a rival faction or enemy along the way
 - You end up on the wrong side of the neighborhood
 - You had to make an unscheduled stop
@@ -16,9 +17,9 @@ When you travel to another neighborhood, and it is new to you or you need to get
 ### Steer Clear (Environs)
 When you lay low or maneuver to avoid getting into a dangerous situation, roll +Environs. If you’re already in a dangerous situation, or have been noticed by a threat, instead Take a Big Risk.
 
-**12+** You may either clear 1 Heat or avoid a dangerous situation
-**10+** The situation passes, but it costs you. The Magistrate will tell you what.
-**7 - 9** Mark Heat to let the situation pass uneventfully, or get swept up and take +1 forward to Take a Big Risk.
+- **12+** You may either clear 1 Heat or avoid a dangerous situation
+- **10+** The situation passes, but it costs you. The Magistrate will tell you what.
+- **7 - 9** Mark Heat to let the situation pass uneventfully, or get swept up and take +1 forward to Take a Big Risk.
 
 ### Get Your Bearings (Environs)
 When you take a moment to get the lay of the land, you may ask one question. If you pick a reaction or have a connection to the neighborhood, you may ask a second question. If you use anything you learn you may take +1 to either Travel or Steer Clear.
@@ -39,9 +40,9 @@ When you take a moment to get the lay of the land, you may ask one question. If 
 ### Ear to the Ground (Lore)
 When you listen out for interesting information, name something you’re especially interested in -- a public figure, a faction, a neighborhood, an event, etc. -- and roll +Lore.
 
-**12+** The Magistrate will tell you a rumor related to the named topic. Mark Heat to get a second rumor of the Magistrate’s choice.
-**10+** You may mark Heat to hear a rumor related to the named tag, or the Magistrate will tell you an unrelated rumor.
-**7 - 9** You hear a rumor unrelated to the named tag, but pick 1 Setback.
+- **12+** The Magistrate will tell you a rumor related to the named topic. Mark Heat to get a second rumor of the Magistrate’s choice.
+- **10+** You may mark Heat to hear a rumor related to the named tag, or the Magistrate will tell you an unrelated rumor.
+- **7 - 9** You hear a rumor unrelated to the named tag, but pick 1 Setback.
 
 #### Setbacks
 - Someone notices you snooping around
@@ -51,9 +52,9 @@ When you listen out for interesting information, name something you’re especia
 ### Appraise Circumstances (Lore)
 When you take time to study the situation to see what’s really going on, roll +Lore.
 
-**12+** Ask three questions and clear one Heat.
-**10+** Ask three questions.
-**7 - 9** Ask one question. Or mark Heat to ask two.
+- **12+** Ask three questions and clear one Heat.
+- **10+** Ask three questions.
+- **7 - 9** Ask one question. Or mark Heat to ask two.
 
 #### Questions
 - What is significant about this?
@@ -76,9 +77,9 @@ When you work your connections to get information, a service, a rare item, or ac
   
 Note: If coercing someone, use Apply Pressure instead. If bargaining, use Negotiate.
 
-**12+** Get exactly what you want, or clear 1 Heat and pick 1 Compromise.
-**10+** Mark 1 heat to get exactly what you want. Otherwise pick 1 Compromise.
-**7 - 9** Pick 2 or mark Heat to pick 1 Compromise.
+- **12+** Get exactly what you want, or clear 1 Heat and pick 1 Compromise.
+- **10+** Mark 1 heat to get exactly what you want. Otherwise pick 1 Compromise.
+- **7 - 9** Pick 2 or mark Heat to pick 1 Compromise.
 
 #### Compromises
 - It’s not quite right.
@@ -90,9 +91,9 @@ Note: If coercing someone, use Apply Pressure instead. If bargaining, use Negoti
 ### Observe Someone (Network)
 When you observe a person’s behavior, movements, or mannerisms to learn something about them, roll +Network.
 
-**12+** Ask two questions, add them as a Tie. The Magistrate will tell you what you know about them. If you already have a Tie with them, you may ask a third question.
-**10+** Ask two questions. Mark Heat to add them as a Tie. If you do, the Magistrate will tell you what you know about them. If you already have a Tie with them, you may mark Heat to ask another question.
-**7 - 9** Ask one question. Mark Heat to ask another question.
+- **12+** Ask two questions, add them as a Tie. The Magistrate will tell you what you know about them. If you already have a Tie with them, you may ask a third question.
+- **10+** Ask two questions. Mark Heat to add them as a Tie. If you do, the Magistrate will tell you what you know about them. If you already have a Tie with them, you may mark Heat to ask another question.
+- **7 - 9** Ask one question. Mark Heat to ask another question.
 
 #### Questions
 - Where were they immediately before this?
@@ -106,9 +107,9 @@ When you observe a person’s behavior, movements, or mannerisms to learn someth
 ### Meet Someone New (Network)
 When you meet someone new and want to explore a possible connection, describe how you size them up and roll +Network.
 
-**12+** Pick two Shared Experiences. You may take +1 forward to any Social Interaction move.
-**10+** Pick one Shared Experience and one Doubt. If you answer one of their Questions, you may take +1 forward to any Social Interaction move.
-**7 - 9** Pick one Shared Experience and one Doubt. If you answer two of their Questions, you may take +1 forward to any Social Interaction move.
+- **12+** Pick two Shared Experiences. You may take +1 forward to any Social Interaction move.
+- **10+** Pick one Shared Experience and one Doubt. If you answer one of their Questions, you may take +1 forward to any Social Interaction move.
+- **7 - 9** Pick one Shared Experience and one Doubt. If you answer two of their Questions, you may take +1 forward to any Social Interaction move.
 
 #### Shared Experiences
 - You have a mutual friend or enemy.
@@ -134,16 +135,16 @@ When you meet someone new and want to explore a possible connection, describe ho
 ### Set Up a Scheme (Network)
 When you set up a scheme to regularly bring in cash or resources, describe the montage for setting it up and what you expect it to produce. Roll +Network. Subtract 1 for each scheme you already have going.
 
-On a hit, the scheme’s Productivity starts at -1.
-**7-9** Mark Heat or start Productivity at -2.
-**6-** You fail to get the scheme off the ground or the scheme’s Productivity starts at -3; either way, someone catches wind of your little operation.
+- On a hit, the scheme’s Productivity starts at -1.
+- **7-9** Mark Heat or start Productivity at -2.
+- **6-** You fail to get the scheme off the ground or the scheme’s Productivity starts at -3; either way, someone catches wind of your little operation.
 
 ### Run the Scheme
 When you check in on your scheme, roll +Productivity. You may do this once per session.
 
-**12+** Collect two assets, pick 1 Success. You may have a maximum of two assets.
-**10+** Collect a assets and increase productivity (Max +3). You may have a maximum of two assets.
-**7-9** Reduce productivity to collect an asset, or do nothing. You may have a maximum of two assets.
+- **12+** Collect two assets, pick 1 Success. You may have a maximum of two assets.
+- **10+** Collect a assets and increase productivity (Max +3). You may have a maximum of two assets.
+- **7-9** Reduce productivity to collect an asset, or do nothing. You may have a maximum of two assets.
 
 #### Success
 - Your business is noticed by a local crime lord who demands protection
@@ -222,12 +223,10 @@ When you offer something of value in exchange for something important, name your
 
 If they have any reason not to comply or find value in your offer, they pick a strong response.
 
-Otherwise, roll +Influence.
+Otherwise, roll +Influence. On a hit, they find your offer enticing.
 
-On a hit, they find your offer enticing.
-
-**10+** They pick a weak response.
-**7 - 9** They pick a strong response.
+- **10+** They pick a weak response.
+- **7 - 9** They pick a strong response.
 
 #### Strong Response
 
@@ -249,12 +248,10 @@ When you plead with someone to act by changing their mind using wit or reason or
 
 If they fear reprisal or cost for acting, you may Apply Pressure or Negotiate, or roll Convince/Provoke at a disadvantage.
 
-Otherwise, roll +Influence
+Otherwise, roll +Influence. On a hit they acknowledge your perspective or are moved by your words.
 
-On a hit they acknowledge your perspective or are moved by your words.
-
-**10+** They are convinced; they pick a Reaction.
-**7 - 9** They are merely intrigued; they pick two Reactions or pick one and a Consequence.
+- **10+** They are convinced; they pick a Reaction.
+- **7 - 9** They are merely intrigued; they pick two Reactions or pick one and a Consequence.
 
 #### Reactions
 -   Act until it costs them, hurts them, or they get a better offer
@@ -278,23 +275,25 @@ On a hit they acknowledge your perspective or are moved by your words.
 ### Use Magic
 When you tap into your connection to magic, describe what you hope to accomplish through your aesthetic. The Magistrate will assign a complexity. If the complexity is equal to or less than your max, roll +1 if you have a connection to the neighborhood or -2 if you do not. You may not use secrets or facts to buff this roll. 
 
-**12+** You achieve your goal flawlessly.
-**10+** Pick 1.
-**7-9** Pick 1 and the spell backfires.
+- **12+** You achieve your goal flawlessly.
+- **10+** Pick 1 Consequence.
+- **7-9** Pick 1 Consequence and the spell backfires.
 
+#### Consequences
 - Lesser effect in Area and/or Duration
 - Lesser effect in Scale and/or Intensity
 - The spell affects targets beyond the one intended
 - The spell has an unexpected side effect (if you make this permanent, you do not need to roll Backfire)
 - The spell has the opposite effect (if you pick this, you do not need to roll Backfire)
 
-### Backfire
+### Backfire (lower is better)
 When the spell backfires, roll +complexity. **Note**: Rolling lower is better.
 
-**10+** Pick 1 and mark two Heat.
-**7 - 9** Pick 2.
-**6-** The magic dissipates harmlessly.
+- **10+** Pick 1 Outcome and mark two Heat.
+- **7 - 9** Pick 2 Outcomes.
+- **6-** The magic dissipates harmlessly.
 
+#### Outcomes
 - Take yourself out of the scene; How do you become incapacitated?
 - Harm allies; What happens to them?
 - Cause collateral damage: What happens to buildings and property around you?
@@ -302,9 +301,9 @@ When the spell backfires, roll +complexity. **Note**: Rolling lower is better.
 ### Take a Big Risk
 When you do something dangerous, felonious, violent, or imprudent describe your desired outcome, mark Heat and roll + most relevant attribute. Outcomes should align with the fiction. You probably can’t defeat a trained warrior in one-on-one combat even if you roll a **10+**.
 
-**12+** You succeed in what you set out to do, and you may pick a second outcome from the consequences list below or clear 1 Heat.
-**10+** You succeed in what you set out to do. You may mark Heat to pick another outcome from the consequences list below.
-**7 - 9** You succeed but the Magistrate will tell you the cost; Or the magistrate will offer you a hard choice.
+- **12+** You succeed in what you set out to do, and you may pick a second outcome from the consequences list below or clear 1 Heat.
+- **10+** You succeed in what you set out to do. You may mark Heat to pick another outcome from the consequences list below.
+- **7 - 9** You succeed but the Magistrate will tell you the cost; Or the magistrate will offer you a hard choice.
 
 #### Consequences
 - Learn something about someone present
@@ -345,18 +344,18 @@ To acquire resources, including materials, expertise, and personnel, a faction m
 
 When a faction works to acquire a rare or expensive resource, roll +aspects.
 
-**11+** The faction acquires the resource, adding that resource to its aspects.
-**8 - 10** The faction acquires the resource, but must rewrite one of its aspects.
-**7-** The faction doesn’t acquire the resource OR acquires the resource, but also a complicating aspect. Ask the Magistrate what it is.
+- **11+** The faction acquires the resource, adding that resource to its aspects.
+- **8 - 10** The faction acquires the resource, but must rewrite one of its aspects.
+- **7-** The faction doesn’t acquire the resource OR acquires the resource, but also a complicating aspect. Ask the Magistrate what it is.
 
 ### Complete Project
 When the faction starts a new project, ask the Magistrate what expertise, resources, or materials it needs. The Magistrate must specify at least three resources required for the project to succeed. The faction will need to Secure Resource to have at least one available.   
 
 When the faction dedicates effort to completing a project (and has at least one required resource) roll +aspects.
 
-**11+** The faction completes the project and adds the project to its list of aspects.
-**8 - 10** The faction completes the project in part, but must acquire another of the specified resources before it can roll again.
-**7-** The faction completes the project in part, but must acquire two more of the specified resources before it can roll again.
+- **11+** The faction completes the project and adds the project to its list of aspects.
+- **8 - 10** The faction completes the project in part, but must acquire another of the specified resources before it can roll again.
+- **7-** The faction completes the project in part, but must acquire two more of the specified resources before it can roll again.
 
 *Update the map to show the new project.*
 
@@ -367,18 +366,18 @@ If there is no dominant faction when another faction moves in to take control, t
 
 If there is a dominant faction, that faction may use aspects appropriate for defending and repelling the encroaching faction. Other factions may come to its aid, adding +1 to the roll. The **defending** faction rolls +aspects.
 
-**11+** The defending faction repels the encroaching faction.
-**8 - 10** The defending faction repels the encroaching faction, but it is no longer dominant.
-**7-** The defending faction may offer the neighborhood to the encroaching faction in exchange for adding a complicating aspect to the faction. If the encroaching faction refuses, the defending faction may give up the neighborhood and take a beneficial aspect OR may sacrifice an aspect to repel the encroaching faction.
+- **11+** The defending faction repels the encroaching faction.
+- **8 - 10** The defending faction repels the encroaching faction, but it is no longer dominant.
+- **7-** The defending faction may offer the neighborhood to the encroaching faction in exchange for adding a complicating aspect to the faction. If the encroaching faction refuses, the defending faction may give up the neighborhood and take a beneficial aspect OR may sacrifice an aspect to repel the encroaching faction.
 
 *Update the map to show the new political divisions.*
 
 ### Mind the Whispers
 When a faction sends out agents and spies to a neighborhood to gather information, roll +aspects.
 
-**11+** The faction may ask two questions.
-**8 - 10** The faction may ask one question or two questions if they sacrifice an aspect.
-**7-** The faction may ask one question if they take a complicating aspect.
+- **11+** The faction may ask two questions.
+- **8 - 10** The faction may ask one question or two questions if they sacrifice an aspect.
+- **7-** The faction may ask one question if they take a complicating aspect.
 
 #### Questions
 * Where can we find [resource]?
@@ -391,16 +390,16 @@ When a faction sends out agents and spies to a neighborhood to gather informatio
 ### Spread a Rumor
 When a faction’s network spreads a rumor, say what it is and roll +aspects. The faction may make use of aspects that help perpetuate or reinforce the rumor.
 
-**11+** The rumor spreads.
-**8 - 10** The rumor spreads. Rewrite an aspect to make sure no important details change.
-**7-** The rumor gets mangled. The Magistrate will rewrite the rumor.
+- **11+** The rumor spreads.
+- **8 - 10** The rumor spreads. Rewrite an aspect to make sure no important details change.
+- **7-** The rumor gets mangled. The Magistrate will rewrite the rumor.
 
 ### Eliminate Threat
 When a faction attempts to remove a complicating aspect from itself or a neighborhood it owns, the Magistrate will tell you what resources you need to deal with it. If you have them, roll +aspects. The faction may use any beneficial aspects of itself or the neighborhood, so long as it has at least the resource(s) specified by the Magistrate.
 
-**11+** The complication is eliminated, and faction may add a new aspect of its choice.
-**8 - 10** The complication is eliminated and the faction uses up the resource.
-**7-** The complication remains but is reduced. The Magistrate rewrites the complication to reduce its scope, scale, or power.
+- **11+** The complication is eliminated, and faction may add a new aspect of its choice.
+- **8 - 10** The complication is eliminated and the faction uses up the resource.
+- **7-** The complication remains but is reduced. The Magistrate rewrites the complication to reduce its scope, scale, or power.
 
 *Update the map to show the status of the threat.*
 
