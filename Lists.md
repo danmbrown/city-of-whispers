@@ -1,6 +1,7 @@
 ## Secrets
+Every "secret" consists of a Tie (a person the character knows) and an area of insight -- what they know about that person. When using a secret about a person, it must relate to the area of insight.
 
-### Area of Insight
+### Area of Insight (d10)
 1. Romantic liaisons
 1. Family circumstances
 1. Criminal connections
@@ -9,11 +10,15 @@
 1. Immoral activities
 1. Illicit past
 1. Vices
+2. Corrupt influences
 
 
 ## Factions
+Every character belongs to a faction. The nature of that connection can be strong or tenuous. Regardless, the player decides the actions of that faction using [Faction Moves](Moves.md#Faction-Moves).
 
-### Type
+Factions are described with a Type, a Status, and a Complication. These descriptors influence the fiction, but have no mechanical bearing. Factions also have one or more Aspects that describe advantages or assets. These aspects may be used when rolling [Faction Moves](Moves.md#Faction-Moves).
+
+### Type (d8)
 1. Sect - United by religion or creed
 2. Family - United by familiar commitments
 3. Enclave - United by ethnic or cultural commonalities
@@ -23,7 +28,7 @@
 8. Mission - United by a cause or calling
 9. Rank - United by common station or position
 
-### Status
+### Status (d8)
 1. Fragmenting or Splintering
 1. Dissolving or Shrinking
 1. Shifting or Redefining
@@ -33,18 +38,7 @@
 1. Stagnating or Becoming Irrelevant
 1. Unfocusing or Dispersing
 
-### Source of Power
-1. Command of esoteric magic
-2. Access to a deity
-3. Command of unique or powerful technology
-4. Government placements or influence
-5. Popular among the people
-6. Backed by nobility
-7. Backed by aristocracy
-8. Charismatic leader
-9. Command of information
-
-### Complications
+### Complications (d10)
 1. Power is dwindling
 2. Membership is dwindling
 3. Losing confidence in leadership
@@ -56,17 +50,16 @@
 9. Held knowledge is out of date or incorrect
 10. 
 
-### Modus Operandi
-1. Expand or acquire territory
-1. Expand or acquire influence or power
-1. Expand membership
-1. Expand or acquire wealth
-1. Acquire rarities, artifacts, or treasures
-1. Foment unrest
-1. Control commodity 
-3. Acquire information
-
-### Tags
+### Aspects (d20)
+1. Command of esoteric magic
+2. Access to a deity
+3. Command of unique or powerful technology
+4. Government placements or influence
+5. Popular among the people
+6. Backed by nobility
+7. Backed by aristocracy
+8. Charismatic leader
+9. Command of information
 1. Loyal membership
 2. Channels of communication
 3. Trained guards, soldiers, or mercenaries

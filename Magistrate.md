@@ -26,8 +26,6 @@
 -   Threaten a powerful person's interest
 -   Attract the attention of the city's denizens
 -   Reveal a Tie
-
--   
 -   Use a monster, danger, or location move
 -   Reveal an unwelcome truth
 -   Show signs of an approaching threat
