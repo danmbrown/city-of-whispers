@@ -1,4 +1,14 @@
-## Secrets
+[Home](index.md)
+
+# Lists
+These tables give players and the Magistrate the tools for building the connective tissue of the city -- the factions that exert control, the neighborhoods that form the topography, and the rumors that fuel the entire contraption.
+
+- [Secrets](#secrets)
+- [Factions](#factions)
+- [Neighborhoods](#neighborhoods)
+- [Rumors](#rumors)
+
+## <a id="secrets"></a>Secrets
 Every "secret" consists of a Tie (a person the character knows) and an area of insight -- what they know about that person. When using a secret about a person, it must relate to the area of insight.
 
 ### Area of Insight (d10)
@@ -13,7 +23,7 @@ Every "secret" consists of a Tie (a person the character knows) and an area of i
 2. Corrupt influences
 
 
-## Factions
+## <a id="factions"></a>Factions
 Every character belongs to a faction. The nature of that connection can be strong or tenuous. Regardless, the player decides the actions of that faction using [Faction Moves](Moves.md#Faction-Moves).
 
 Factions are described with a Type, a Status, and a Complication. These descriptors influence the fiction, but have no mechanical bearing. Factions also have one or more Aspects that describe advantages or assets. These aspects may be used when rolling [Faction Moves](Moves.md#Faction-Moves).
@@ -72,7 +82,7 @@ Factions are described with a Type, a Status, and a Complication. These descript
 10. 
 
 
-## Neighborhoods
+## <a id="neighborhoods"></a>Neighborhoods
 ### Type
 
 
@@ -86,4 +96,4 @@ Factions are described with a Type, a Status, and a Complication. These descript
 
 ### Aspects
 
-## Rumors
+## <a id="rumors"></a>Rumors

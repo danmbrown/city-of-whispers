@@ -1,5 +1,6 @@
-# Basic Moves
 [Index](index.md)
+
+# Basic Moves
 
 - [City Moves](#City-Moves)
 - [Social Interaction Moves](#Social-Interaction-Moves)
