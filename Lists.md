@@ -186,7 +186,15 @@ If you need a rumor, roll 2d20 and 2d6. The d20s describe the actor and their ac
 | 19 | Hide in/a (1-3 Item) (4-5 Location) (6 Person) |
 | 20 | Guard (1-2 Item) (3 Location) (4-6) Person |
 
+#### Details (d6)
+
 | d6 | Item | Person | Group | Location | Event |
 | :-: | :-- | :-- | :-- | :-- | :-- |
+| 1 | Magic artifact | Person | Group | Location | Event |
+| 2 | Royal object | Person | Group | Location | Event |
+| 3 | Mystic weapon | Person | Group | Location | Event |
+| 4 | Sacred scroll | Person | Group | Location | Event |
+| 5 | Item | Person | Group | Location | Event |
+| 6 | Item | Person | Group | Location | Event |
 
 
