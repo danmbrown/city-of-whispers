@@ -1,5 +1,5 @@
 # Secrets
-[[Basic Moves#Secrets Moves]]
+[[Moves#Secrets Moves]]
 ## Area of Insight
 1. Romantic liaisons
 1. Family circumstances
@@ -10,7 +10,7 @@
 1. Illicit past
 1. Vices
 # Factions
-[[Basic Moves#Faction Moves]]
+[[Moves#Faction Moves]]
 ## Type
 1. Sect - United by religion or creed
 2. Family - United by familiar commitments

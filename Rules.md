@@ -32,9 +32,9 @@ Describe what the city demands that you do to...
 
 # The World
 # Magic
-[[Basic Rules#Magic]]
+[[Rules#Magic]]
 # Secrets
-[[Basic Moves#Secrets Moves]]
+[[Moves#Secrets Moves]]
 When you learn a secret, write down who it involves (a person or faction) and what it is about (area of insight).
 
 
