@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "381a59a6eb58ca76",
+    "type": "split",
+    "children": [
+      {
+        "id": "954e053413835ce4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Basic Moves.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29c54737f4b3a126",
+    "type": "split",
+    "children": [
+      {
+        "id": "eba76eb7536a382c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2341874209e59ae5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "650ecef3908d537a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 184
+  },
+  "right": {
+    "id": "122356faad7f5d4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c0afac339bed90a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66975810d8bc6c4f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Basic Moves.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "52330de02d8c3197",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "954e053413835ce4",
+  "lastOpenFiles": [
+    "Basic Moves.md",
+    "Playbooks/_Overview.md",
+    "Playbooks/Conduit.md",
+    "Playbooks/Clamor.md",
+    "Playbooks/Apparatus.md",
+    "Lists.md",
+    "Advancement.md",
+    "Magistrate.md",
+    "Cities, Neighborhoods, Factions, and Characters.md",
+    "Basic Rules.md"
+  ]
+}
