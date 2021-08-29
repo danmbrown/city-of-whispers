@@ -9,10 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "Lists.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "78fd9c899d54469a"
+      },
+      {
+        "id": "251df098abdff2cd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Lists.md",
+            "mode": "preview"
+          }
+        },
+        "group": "78fd9c899d54469a"
       }
     ],
     "direction": "vertical"
@@ -68,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,10 +112,10 @@
   },
   "active": "954e053413835ce4",
   "lastOpenFiles": [
+    "Lists.md",
     "index.md",
     "Rules.md",
     "Moves.md",
-    "Lists.md",
     "Magistrate.md",
     "Playbooks/_Overview.md",
     "Advancement.md",

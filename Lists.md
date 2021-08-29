@@ -83,7 +83,17 @@ Factions are described with a Type, a Status, and a Complication. These descript
 
 
 ## <a id="neighborhoods"></a>Neighborhoods
+
 ### Type
+A neighborhood may have multiple functions but generally only one Standing. Roll up to three times on the table to determine the various functions of the neighborhood.
+
+| d10 | Function | Standing |
+| :-: | :-- | :-- |
+| 1-2 | Residential | Noble / Aristocratic |
+| 3-4 | Commercial | Middle Class |
+| 5-6 | Industrial | Working Class |
+| 7-8 | Religious | Impoverished |
+| 9-10 | Government | Transitioning  |
 
 
 ### Status
@@ -97,3 +107,61 @@ Factions are described with a Type, a Status, and a Complication. These descript
 ### Aspects
 
 ## <a id="rumors"></a>Rumors
+
+### Actors (d20)
+
+| d20 | Actor |
+| :-: | :-- |
+| 1 | Your faction |
+| 2 | A rival faction |
+| 3 | A friendly faction |
+| 4 | A neutral faction |
+| 5 | An unknown group |
+| 6 | A religious group |
+| 7 | A mercenary group |
+| 8 | A friend |
+| 9 | An enemy |
+| 10 | A rival |
+| 11 | Another faction member |
+| 12 | An anonymous person |
+| 13 | A stranger |
+| 14 | A masked vigilante |
+| 15 | An anonymous official |
+| 16 | A force outside the city |
+| 17 | The city guard/government |
+| 18 | An intelligent monster |
+| 19 | A magical force |
+| 20 | A natural force |
+
+### Position (d6)
+
+| d6 | Position |
+| :-: | :-- |
+| 1-2 | Did |
+| 3-4 | Will |
+| 5-6 | Might |
+
+### Action (d20 + d6)
+| d20 | Action (d6) |
+| :-: | :-- |
+| 1 | Steal (Item) |
+| 2 | Study (1-3 Item) (4-5 Location) (6 Event) |
+| 3 | Infiltrate (1-3 Location) (4 Group) (5-6 Event) |
+| 4 | Attack (1-2 Location) (3-5 Group) (6 Person) |
+| 5 | Destroy (1-3 Location) (4-6) Item |
+| 6 | Capture (Person) |
+| 7 | Assassinate (Person) |
+| 8 | Challenge (1-4 Person) (5-6 Group) |
+| 9 | Blackmail (1-3 Group) (4-6 Person) |
+| 10 | Seek (1 Location) (2-3 Item) (4-5 Person) (6 Group) |
+| 11 | Arrive at (1-4 Location) (5-6 Event) |
+| 12 | Depart from (1-4 Location) (5-6 Event) |
+| 13 | Disappear to (Location) |
+| 14 | Acquire (Item) |
+| 15 | Join (1-3 Group) (4 Person) (5-6 Event) |
+| 16 | Sabotage (Event) |
+| 17 | Discover (1-3 Item) (4-5 Location) (6 Person) |
+| 18 | Ally with (1-3 Person) (4-6 Group) |
+| 19 | Hide in/a (1-3 Item) (4-5 Location) (6 Person) |
+| 20 | Guard (1-2 Item) (3 Location) (4-6) Person |
+
