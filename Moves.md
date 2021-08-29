@@ -8,7 +8,7 @@
 - [Faction Moves](#Faction-Moves)
 
 
-## City Moves
+## <a id="City-Moves"></a>City Moves
 ### Transit (Environs)
 When you travel to another neighborhood, and it is new to you or you need to get there unnoticed or you need to get there fast, roll +Environs. (If you’re entering a place you’re not allowed in, you must Take a Big Risk.)
 
@@ -182,7 +182,7 @@ When you meet a Demand made by the city, take an Advance.
 ### Retire
 When you meet the last Demand, describe your epilogue.
 
-## Social Interaction Moves
+## <a id="Social-Interaction-Moves"></a>Social Interaction Moves
 You may not mark Histories or City Demands to affect this roll, but you may use Secrets.
 
 ### Apply Pressure
@@ -280,7 +280,7 @@ Otherwise, roll +Influence. On a hit they acknowledge your perspective or are mo
 -   Change your reputation with them
 -   Become a loyal follower, perhaps to a fault
 
-## Risky Moves
+## <a id="Risky-Moves"></a>Risky Moves
 ### Use Magic
 When you tap into your connection to magic, describe what you hope to accomplish through your aesthetic. The Magistrate will assign a complexity. If the complexity is equal to or less than your max, roll +1 if you have a connection to the neighborhood or -2 if you do not. You may not use secrets or facts to buff this roll. 
 
@@ -330,7 +330,7 @@ When you do something dangerous, felonious, violent, or imprudent describe your 
 - Remove one person from the scene
 - Take something from someone
 
-## Secrets Moves
+## <a id="Secrets-Moves"></a>Secrets Moves
 ### Use a Secret
 When you use a secret to gain the edge, ask the GM what will happen if you reveal it. If you choose to reveal it, you may roll an additional die and use the highest values.
 
@@ -346,7 +346,7 @@ Then, pick 2, or lower your result by one tier to pick 1.
 - They start a rumor about you
 
 
-## Faction Moves
+## <a id="Faction-Moves"></a>Faction Moves
 
 ### Secure Resource
 To acquire resources, including materials, expertise, and personnel, a faction may make use of its existing aspects so long as they’re relevant to the acquisition. If the faction is operating in a neighborhood it controls with aspects that help the acquisition, it may include those aspects when rolling.
