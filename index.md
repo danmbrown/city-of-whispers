@@ -12,7 +12,6 @@ _By Dan Brown_
 
 ### Playbooks
 
-- [_Overview](_Overview.md)
 - [Apparatus](Playbooks/Apparatus.md)
 - [Clamor](Playbooks/Clamor.md)
 - [Conduit](Playbooks/Conduit.md)
