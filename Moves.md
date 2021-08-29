@@ -1,4 +1,4 @@
-[Index](index.md)
+[Home](index.md)
 
 # Basic Moves
 

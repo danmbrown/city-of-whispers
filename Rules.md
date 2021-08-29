@@ -1,10 +1,11 @@
-## About the Game
+[Home](index.md)
+
 ## Characters
 ### Attributes
-* Environs
-* Lore
-* Network
-* Sway
+- Environs
+- Lore
+- Network
+- Sway
 
 ### Heat
 Your character generates heat by taking risky actions during the game. Heat is a score, like an attribute score, that you sometimes roll with or add to your Sway.
