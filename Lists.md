@@ -200,11 +200,11 @@ If you need a rumor, roll 2d20 and 2d6. The d20s describe the actor and their ac
 
 | d6 | Location | Event |
 | :-: | :-- | :-- |
-| 1 | Location | Event |
-| 1 | Location | Event |
-| 1 | Location | Event |
-| 1 | Location | Event |
-| 1 | Location | Event |
-| 1 | Location | Event |
+| 1 | A secret entrance | A disgraced aristocrat's wedding |
+| 2 | A well-traveled public garden | A noble's coming-of-age ceremony |
+| 3 | A hero's monument | A sit-down between competing crime lords |
+| 4 | A bustling marketplace | A corrupt politician's rally |
+| 5 | A government building | A festival parade |
+| 6 | A noble's house | The arrival of an important personage |
 
 
