@@ -7,12 +7,13 @@ _By Dan Brown_
 - [Moves](Moves.md)
 - [Rules](Rules.md)
 - [Lists](Lists.md)
-- [For the Magistrate](Magistrate.md)
 - [Character and City Generation](Gen.md)
 - [Character Advancement](Advacement.md)
 
-### Playbooks
+### For the Magistrate
+- [For the Magistrate](Magistrate.md)
 
+### Playbooks
 - [Apparatus](Playbooks/Apparatus.md)
 - [Clamor](Playbooks/Clamor.md)
 - [Conduit](Playbooks/Conduit.md)
