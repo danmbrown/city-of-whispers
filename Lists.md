@@ -1,6 +1,6 @@
-# Secrets
-[[Moves#Secrets Moves]]
-## Area of Insight
+## Secrets
+
+### Area of Insight
 1. Romantic liaisons
 1. Family circumstances
 1. Criminal connections
@@ -9,9 +9,11 @@
 1. Immoral activities
 1. Illicit past
 1. Vices
-# Factions
-[[Moves#Faction Moves]]
-## Type
+
+
+## Factions
+
+### Type
 1. Sect - United by religion or creed
 2. Family - United by familiar commitments
 3. Enclave - United by ethnic or cultural commonalities
@@ -21,7 +23,7 @@
 8. Mission - United by a cause or calling
 9. Rank - United by common station or position
 
-## Status
+### Status
 1. Fragmenting or Splintering
 1. Dissolving or Shrinking
 1. Shifting or Redefining
@@ -31,7 +33,7 @@
 1. Stagnating or Becoming Irrelevant
 1. Unfocusing or Dispersing
 
-## Source of Power
+### Source of Power
 1. Command of esoteric magic
 2. Access to a deity
 3. Command of unique or powerful technology
@@ -42,8 +44,7 @@
 8. Charismatic leader
 9. Command of information
 
-
-## Complications
+### Complications
 1. Power is dwindling
 2. Membership is dwindling
 3. Losing confidence in leadership
@@ -55,7 +56,7 @@
 9. Held knowledge is out of date or incorrect
 10. 
 
-## Modus Operandi
+### Modus Operandi
 1. Expand or acquire territory
 1. Expand or acquire influence or power
 1. Expand membership
@@ -65,7 +66,7 @@
 1. Control commodity 
 3. Acquire information
 
-## Tags
+### Tags
 1. Loyal membership
 2. Channels of communication
 3. Trained guards, soldiers, or mercenaries
@@ -78,11 +79,11 @@
 10. 
 
 
-# Neighborhoods
-## Type
+## Neighborhoods
+### Type
 
 
-## Status
+### Status
 1. Gentrifying and bustling
 1. Expanding and thriving
 1. Depressed and decaying
@@ -90,6 +91,6 @@
 1. Recovering and burgeoning
 1. Distressed and derelict
 
-## Aspects
+### Aspects
 
-# Rumors
+## Rumors

@@ -1,12 +1,12 @@
-# About the Game
-# Characters
-## Attributes
+## About the Game
+## Characters
+### Attributes
 * Environs
 * Lore
 * Network
 * Sway
 
-## Heat
+### Heat
 Your character generates heat by taking risky actions during the game. Heat is a score, like an attribute score, that you sometimes roll with or add to your Sway.
 ## Ties and Secrets
 Someone is a Tie when your character knows something about them, when they have leverage on them. A Secret is a specific piece of information your character has about a Tie.
@@ -30,13 +30,15 @@ Describe what the city demands that you do to...
 * build something new in this neighborhood
 * remove something ailing this neighborhood
 
-# The World
-# Magic
+## The World
+
+## Magic
 [[Rules#Magic]]
-# Secrets
+
+## Secrets
 [[Moves#Secrets Moves]]
 When you learn a secret, write down who it involves (a person or faction) and what it is about (area of insight).
 
 
-# Clearing Heat
+## Clearing Heat
 

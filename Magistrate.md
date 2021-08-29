@@ -1,8 +1,10 @@
-# Agenda
+## Agenda
 -   Portray a cosmopolitan metropolis
 -   Fill the characters’ lives with schemes and intrigue
 -   Play to find out what happens
-# Principles
+
+
+## Principles
 -   Draw maps, leave blanks
 -   Address the characters, not the players
 -   Embrace the fantastic
@@ -15,11 +17,10 @@
 -   Think dangerous
 -   Begin and end with the fiction
 -   Think offscreen, too
-
 -   Imply machinations behind the scenes
 
 
-# Moves
+## Moves
 -   Reveal a rival
 -   Disrupt someone's routine
 -   Threaten a powerful person's interest

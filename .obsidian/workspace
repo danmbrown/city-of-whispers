@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "Advancement.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Advancement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "954e053413835ce4",
   "lastOpenFiles": [
+    "Advancement.md",
+    "Gen.md",
+    "Lists.md",
+    "Magistrate.md",
+    "Rules.md",
+    "Moves.md",
     "index.md",
     "Playbooks/Overview.md",
     "Playbooks/_Overview.md",
-    "Playbooks/Apparatus.md",
-    "Cities, Neighborhoods, Factions, and Characters.md",
-    "Basic Moves.md",
-    "Basic Rules.md",
-    "Untitled.md",
-    "Playbooks/Conduit.md",
-    "Playbooks/Clamor.md"
+    "Playbooks/Apparatus.md"
   ]
 }
