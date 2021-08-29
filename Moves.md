@@ -1,7 +1,12 @@
 # Basic Moves
-[Index](Index.md)
+[Index](index.md)
 
 - [City Moves](#City Moves)
+- [Social Interaction Moves](#Social Interaction Moves)
+- [Risky Moves](#Risky Moves)
+- [Secrets Moves](#Secrets Moves)
+- [Faction Moves](#Faction Moves)
+
 
 ## City Moves
 ### Transit (Environs)
