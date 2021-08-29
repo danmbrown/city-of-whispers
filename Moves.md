@@ -12,12 +12,14 @@ When you travel to another neighborhood, and it is new to you or you need to get
 - You had to make an unscheduled stop
 - Your arrival or departure is noticed by someone
 - It took you longer to get there than expected
+
 ### Steer Clear (Environs)
 When you lay low or maneuver to avoid getting into a dangerous situation, roll +Environs. If you’re already in a dangerous situation, or have been noticed by a threat, instead Take a Big Risk.
 
 **12+** You may either clear 1 Heat or avoid a dangerous situation
 **10+** The situation passes, but it costs you. The Magistrate will tell you what.
 **7 - 9** Mark Heat to let the situation pass uneventfully, or get swept up and take +1 forward to Take a Big Risk.
+
 ### Get Your Bearings (Environs)
 When you take a moment to get the lay of the land, you may ask one question. If you pick a reaction or have a connection to the neighborhood, you may ask a second question. If you use anything you learn you may take +1 to either Travel or Steer Clear.
 
