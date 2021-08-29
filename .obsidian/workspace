@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Basic Moves.md",
-            "mode": "preview"
+            "file": "index.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic Moves.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
   },
   "active": "954e053413835ce4",
   "lastOpenFiles": [
+    "Untitled.md",
     "Basic Moves.md",
     "Playbooks/_Overview.md",
     "Playbooks/Conduit.md",
@@ -107,7 +108,6 @@
     "Lists.md",
     "Advancement.md",
     "Magistrate.md",
-    "Cities, Neighborhoods, Factions, and Characters.md",
-    "Basic Rules.md"
+    "Cities, Neighborhoods, Factions, and Characters.md"
   ]
 }
