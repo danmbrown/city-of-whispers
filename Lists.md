@@ -91,22 +91,42 @@ A neighborhood may have multiple functions but generally only one Standing. Roll
 | :-: | :-- | :-- |
 | 1-2 | Residential | Nobility / Aristocracy |
 | 3-4 | Commercial | Owners and Professionals |
-| 5-6 | Industrial | Crafters |
+| 5-6 | Industrial | Crafters and Traders |
 | 7-8 | Religious | Working Class |
 | 9-10 | Government | Working Class  |
 
 
-### Status (d6)
-1. Expanding and thriving
-1. Gentrifying and bustling
-1. Recovering and burgeoning
-1. Depressed and decaying
-1. Distressed and derelict
-1. Ravaged and ruined
+### Status (d10)
 
-### Aspects
+| d10 | Neighborhood Status |
+| :-: | --- |
+| 1-3 | Thriving and bustling |
+| 4-5 | Gentrifying and shifting |
+| 6 | Recovering |
+| 7-8 | Declining |
+| 9 | Depressed or Decaying |
+| 10 | Derelict or Ruined |
+
+### Aspects (d20)
+
+1. Narrow alleyways
+2. Extensive underground network
+3. Large main thoroughfare
+4. Vehicles and mounts prohibited
+5. Integrated with natural surroundings
+6. Layered and terraced
+7. Outdoor public spaces
+8. Large park
+9. Two parallel arteries with park in between
+10. Local public transportation system
+11. Converted buildings
+12. Surrounded by walls
+13. Public works
+
+
 
 ## <a id="rumors"></a>Rumors
+If you need a rumor, roll 2d20 and 2d6. The d20s describe the actor and their action. The d6s indicate the position of the actor -- whether the action is done or will be done or might be done. The second d6 adds detail to the action.
 
 ### Actors (d20)
 
@@ -166,5 +186,7 @@ A neighborhood may have multiple functions but generally only one Standing. Roll
 | 19 | Hide in/a (1-3 Item) (4-5 Location) (6 Person) |
 | 20 | Guard (1-2 Item) (3 Location) (4-6) Person |
 
+| d6 | Item | Person | Group | Location | Event |
+| :-: | :-- | :-- | :-- | :-- | :-- |
 
 
