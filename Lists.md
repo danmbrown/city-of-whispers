@@ -85,24 +85,24 @@ Factions are described with a Type, a Status, and a Complication. These descript
 ## <a id="neighborhoods"></a>Neighborhoods
 
 ### Type
-A neighborhood may have multiple functions but generally only one Standing. Roll up to three times on the table to determine the various functions of the neighborhood.
+A neighborhood may have multiple functions but generally only one Standing. Roll up to three times on the table to determine the various functions of the neighborhood. The Standing indicates the majority social class in the neighborhood, though the Status might indicate transitioning.
 
 | d10 | Function | Standing |
 | :-: | :-- | :-- |
-| 1-2 | Residential | Noble / Aristocratic |
-| 3-4 | Commercial | Middle Class |
-| 5-6 | Industrial | Working Class |
-| 7-8 | Religious | Impoverished |
-| 9-10 | Government | Transitioning  |
+| 1-2 | Residential | Nobility / Aristocracy |
+| 3-4 | Commercial | Owners and Professionals |
+| 5-6 | Industrial | Crafters |
+| 7-8 | Religious | Working Class |
+| 9-10 | Government | Working Class  |
 
 
-### Status
-1. Gentrifying and bustling
+### Status (d6)
 1. Expanding and thriving
-1. Depressed and decaying
-1. Ravaged and ruined
+1. Gentrifying and bustling
 1. Recovering and burgeoning
+1. Depressed and decaying
 1. Distressed and derelict
+1. Ravaged and ruined
 
 ### Aspects
 
@@ -142,6 +142,7 @@ A neighborhood may have multiple functions but generally only one Standing. Roll
 | 5-6 | Might |
 
 ### Action (d20 + d6)
+
 | d20 | Action (d6) |
 | :-: | :-- |
 | 1 | Steal (Item) |
@@ -164,4 +165,6 @@ A neighborhood may have multiple functions but generally only one Standing. Roll
 | 18 | Ally with (1-3 Person) (4-6 Group) |
 | 19 | Hide in/a (1-3 Item) (4-5 Location) (6 Person) |
 | 20 | Guard (1-2 Item) (3 Location) (4-6) Person |
+
+
 
