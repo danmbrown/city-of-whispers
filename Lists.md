@@ -3,10 +3,27 @@
 # Lists
 These tables give players and the Magistrate the tools for building the connective tissue of the city -- the factions that exert control, the neighborhoods that form the topography, and the rumors that fuel the entire contraption.
 
+- [Backdrops](#backdrops)
 - [Secrets](#secrets)
 - [Factions](#factions)
 - [Neighborhoods](#neighborhoods)
 - [Rumors](#rumors)
+
+## <a id="backdrops"></a>Backdrops
+To set up your campaign, it may be useful to identify a backdrop, a recent event or happening that frames the action and position of the city. Roll a d8 three times to determine your backdrop.
+
+| d8 | Direction | Type | Event |
+| :-: | :-- | :-- | :-- |
+| 1 | Emerging | Political | Conflict |
+| 2 | Simmering | Social | Upheaval |
+| 3 | Widespread | Magical | Transition |
+| 4 | Secret | Criminal | Invasion |
+| 5 | Waning | Military | Disaster |
+| 6 | Recovering from | Commercial | Stagnation |
+| 7 | Collapsing | Natural | Collapse |
+| 8 | Devastating | Religious | Boom |
+
+
 
 ## <a id="secrets"></a>Secrets
 Every "secret" consists of a Tie (a person the character knows) and an area of insight -- what they know about that person. When using a secret about a person, it must relate to the area of insight.
