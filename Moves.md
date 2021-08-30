@@ -293,14 +293,13 @@ When you do not roll as well as you would like and you use a secret to gain the 
 > If the player had rolled a 5 with the first die and a 2 with the new die, Miabella would have a 9 for the Negotiate move, but will have revealed the secret. Donatella would attack. One way to resolve this is that Donatella uses violence to reinforce her power over Miabella, and reveals the location anyway.
 
 ### Reveal a Secret
-When you reveal a secret to someone, lose the Tie if it's about them. Otherwise, mark Heat. 
-Then, pick 2, or lower your result by one tier to pick 1.
+When you reveal a secret to someone, lose the Tie if it's about them. Otherwise, mark Heat. Then, pick 2, or lower your result by one tier to pick 1.
 
 - They flee
-- They deny the truth of the secret
-- They demand recompense or swear revenge
+- They sincerely deny the truth of the secret, leaving you in doubt
 - They attack
-- They beg for your discretion
+- They offer you a bribe for your discretion
+- They make a threat and demand your discretion
 - They start a rumor about you
 
 
