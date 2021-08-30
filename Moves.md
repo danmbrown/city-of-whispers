@@ -198,7 +198,7 @@ On a hit, they believe you pose a credible threat. If they also face another cre
 Otherwise, if they’re capable of carrying out your request:
 
 **10+** They pick a weak response and a consequence
-**7 - 9** They pick a strong response and a consequence; or a weak response and two consequences
+**7 - 9** They pick a strong response and a consequence
 
 #### Strong Responses 
 How they respond to your threat
@@ -281,6 +281,29 @@ Otherwise, roll +Influence. On a hit they acknowledge your perspective or are mo
 -   Change your reputation with them
 -   Become a loyal follower, perhaps to a fault
 
+## <a id="Secrets-Moves"></a>Secrets Moves
+### Use a Secret
+When you do not roll as well as you would like and you use a secret to gain the edge, ask the Magistrate what will happen if you reveal it. (The Magistrate may choose from the list in **Reveal A Secret** or one of the Strong Responses in the move.) Say what sacrifice you're willing to make to keep it. Then, pick up one or both dice you rolled, add another die and re-roll. If the new die is highest, make your sacrifice. Otherwise, the secret is revealed. Use the two highest values for your move.
+
+> #### Example of "Use a Secret"
+> Miabella is negotiating with the pirate Donatella for the secret location of the treasure under the city. Miabella offers to split the treasure with Donatella in exchange for the location. Miabella (Influence 0) rolls a 2 and a 4. Miabella knows the pirate Donatella has a secret love. The player says she might use this secret to suggest Donatella's love would appreciate the influx of cash. The Magistrate says that Miabella senses that revealing she knows Donatella's love will cause the pirate to attack. The player says that in lieu of revealing the secret, Miabella will give up any treasure she finds in the expedition. 
+> 
+> The player re-rolls the die showing 2 to get a 3 and rolls a new die, which shows a 5. Miabella uses 9 (4 from previous roll + 5 from new roll) for the Negotiate move and must sacrifice any treasure recovered on the expedition. Given the 7-9 result, Donatella would also select one of the Strong Responses for Negotiate. 
+> 
+> If the player had rolled a 5 with the first die and a 2 with the new die, Miabella would have a 9 for the Negotiate move, but will have revealed the secret. Donatella would attack. One way to resolve this is that Donatella uses violence to reinforce her power over Miabella, and reveals the location anyway.
+
+### Reveal a Secret
+When you reveal a secret to someone, lose the Tie if it's about them. Otherwise, mark Heat. 
+Then, pick 2, or lower your result by one tier to pick 1.
+
+- They flee
+- They deny the truth of the secret
+- They demand recompense or swear revenge
+- They attack
+- They beg for your discretion
+- They start a rumor about you
+
+
 ## <a id="Risky-Moves"></a>Risky Moves
 ### Use Magic
 When you tap into your connection to magic, describe what you hope to accomplish through your aesthetic. The Magistrate will assign a complexity. If the complexity is equal to or less than your max, roll +1 if you have a connection to the neighborhood or -2 if you do not. You may not use secrets or facts to buff this roll. 
@@ -331,20 +354,6 @@ When you do something dangerous, felonious, violent, or imprudent describe your 
 - Remove one person from the scene
 - Take something from someone
 
-## <a id="Secrets-Moves"></a>Secrets Moves
-### Use a Secret
-When you use a secret to gain the edge, ask the GM what will happen if you reveal it. If you choose to reveal it, you may roll an additional die and use the highest values.
-
-### Reveal a Secret
-When you reveal a secret to someone, lose the Tie if it's about them. Otherwise, mark Heat. 
-Then, pick 2, or lower your result by one tier to pick 1.
-
-- They flee
-- They deny the truth of the secret
-- They demand recompense or swear revenge
-- They attack
-- They beg for your discretion
-- They start a rumor about you
 
 
 ## <a id="Faction-Moves"></a>Faction Moves
