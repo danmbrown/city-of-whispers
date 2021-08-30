@@ -10,9 +10,9 @@ These tables give players and the Magistrate the tools for building the connecti
 - [Rumors](#rumors)
 
 ## <a id="backdrops"></a>Backdrops
-To set up your campaign, it may be useful to identify a backdrop, a recent event or happening that frames the action and position of the city. Roll a d8 three times to determine your backdrop.
+To set up your campaign, it may be useful to identify a backdrop, a recent event or happening that frames the action and position of the city. Roll a d8 three times, combining one word from each list.
 
-| d8 | Direction | Type | Event |
+| d8 | A | B | C |
 | :-: | :-- | :-- | :-- |
 | 1 | Emerging | Political | Conflict |
 | 2 | Simmering | Social | Upheaval |
@@ -20,7 +20,7 @@ To set up your campaign, it may be useful to identify a backdrop, a recent event
 | 4 | Secret | Criminal | Invasion |
 | 5 | Waning | Military | Disaster |
 | 6 | Recovering from | Commercial | Stagnation |
-| 7 | Collapsing | Natural | Collapse |
+| 7 | Reversing | Natural | Collapse |
 | 8 | Devastating | Religious | Boom |
 
 
