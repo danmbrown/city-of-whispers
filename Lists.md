@@ -47,13 +47,15 @@ Factions are described with a Type, a Status, and a Complication. These descript
 
 ### Type (d8)
 1. Sect - United by religion or creed
-2. Family - United by familiar commitments
+2. Family - United by familial commitments
 3. Enclave - United by ethnic or cultural commonalities
-5. Caucus - United by political views
-6. Company - United by a business interest
+5. Cabal - United by political views
+6. Company - Contracted to contribute to an enterprise
 7. Guild - United by a craft
 8. Mission - United by a cause or calling
 9. Rank - United by common station or position
+10. Syndicate - United by a corrupt business interest
+
 
 ### Status (d8)
 1. Fragmenting or Splintering
