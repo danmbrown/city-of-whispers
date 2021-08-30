@@ -239,14 +239,12 @@ Otherwise, roll +Influence. On a hit, they find your offer enticing.
 - **7 - 9** They pick a strong response.
 
 #### Strong Response
-
 -   Demand more compensation
 -   Demand alternative compensation
 -   Also demand a favor from you
 -   Offer something less important
 
 #### Weak Response
-
 -   Accept offer
 -   Demand explanation
 -   Demand time or resources to comply
@@ -261,12 +259,11 @@ If they fear reprisal or cost for acting, you may Apply Pressure or Negotiate, o
 Otherwise, roll +Influence. On a hit they acknowledge your perspective or are moved by your words.
 
 - **10+** They are convinced; they pick a Reaction.
-- **7 - 9** They are merely intrigued; they pick two Reactions or pick one and a Consequence.
+- **7 - 9** They are merely intrigued; they pick one Reaction and one Consequence.
 
 #### Reactions
 -   Act until it costs them, hurts them, or they get a better offer
--   Demand compensation (money, favor, etc.) to act
--   Demand resources to act
+-   Demand resources or compensation (money, favor, etc.) to act
 -   Demand someone trustworthy vouch for you
 -   Demand ensuring their safety
 -   Avoid acting, but offer to stick around till it’s done
@@ -274,7 +271,6 @@ Otherwise, roll +Influence. On a hit they acknowledge your perspective or are mo
 -   Comply but in a diminished, indirect, or malicious way
 
 #### Consequences
-
 -   Remain suspicious or skeptical of you
 -   Demand to be left alone
 -   Reveal your intentions to someone else
@@ -283,7 +279,7 @@ Otherwise, roll +Influence. On a hit they acknowledge your perspective or are mo
 
 ## <a id="Secrets-Moves"></a>Secrets Moves
 ### Use a Secret
-When you do not roll as well as you would like and you use a secret to gain the edge, ask the Magistrate what will happen if you reveal it. (The Magistrate may choose from the list in **Reveal A Secret** or one of the Strong Responses in the move.) Say what sacrifice you're willing to make to keep it. Then, pick up one or both dice you rolled, add another die and re-roll. If the new die is highest, make your sacrifice. Otherwise, the secret is revealed. Use the two highest values for your move.
+When you do not roll as well as you would like and you use a secret to gain the edge, ask the Magistrate what will happen if you reveal it. (The Magistrate may choose from the list in **Reveal A Secret** or one of the Strong Responses in the move.) Say what sacrifice you're willing to make to keep it. Then, pick up one of the dice you rolled, add another die and re-roll. If the new die is highest, make your sacrifice. Otherwise, the secret is revealed. Use the two highest values for your move.
 
 > #### Example of "Use a Secret"
 > Miabella is negotiating with the pirate Donatella for the secret location of the treasure under the city. Miabella offers to split the treasure with Donatella in exchange for the location. Miabella (Influence 0) rolls a 2 and a 4. Miabella knows the pirate Donatella has a secret love. The player says she might use this secret to suggest Donatella's love would appreciate the influx of cash. The Magistrate says that Miabella senses that revealing she knows Donatella's love will cause the pirate to attack. The player says that in lieu of revealing the secret, Miabella will give up any treasure she finds in the expedition. 
