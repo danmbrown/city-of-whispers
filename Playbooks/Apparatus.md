@@ -1,3 +1,4 @@
+[Home](index.md) | [List of Playbooks](Index.md#Playbooks)
 # Apparatus
 Favored Attribute: Network
 

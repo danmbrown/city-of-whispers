@@ -47,6 +47,7 @@ Exploring the city’s grim secrets and iniquitous aspects; Managing political a
 ### For the Magistrate
 - [For the Magistrate](Magistrate.md)
 
+<a id="Playbooks"></a>
 ### Playbooks
 The exact nature of your occupation is immaterial to the city. The city only concerns itself with how you contribute to its vitality. Do you produce goods for others to consume? Do you hold essential knowledge? Do you encourge denizens to meet and transact? Do you exert a modicum of order over the denizens? Then you do not just live in the city, you are part of it.
 

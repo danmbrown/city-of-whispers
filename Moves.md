@@ -1,4 +1,4 @@
-[Home](index.md)
+[Home](index.md) | [List of Moves](ListofMoves.md)
 
 # Basic Moves
 
