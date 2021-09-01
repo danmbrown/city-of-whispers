@@ -1,18 +1,24 @@
 # Clamor
-![[_Overview#^abd641]]
-
 Favored Attribute: Lore
 
-## Quotes
+> *The city is your laboratory, and you study everything that comes through it -- a dilettante whose curiosity is matched only by your persistence.*
 
 ## Moves
-#### Perceptive (Improvement to Appraise Circumstances)
-When you Appraise Circumstances involving a faction or a neighborhood, on a hit you may rewrite one of the target's tags.
-#### Inquisitive (Improvement to Sample the Sights & Sounds)
 
-#### Like the Back of Your Hand (Alternate Attribute)
+### Perceptive 
+*(Improvement to Appraise Circumstances)*
+
+When you Appraise Circumstances involving a faction or a neighborhood, on a hit you may rewrite one of the target's tags.
+
+### Inquisitive 
+*(Improvement to Sample the Sights & Sounds)*
+
+### Like the Back of Your Hand 
+*(Alternate Attribute)*
+
 When you Get Your Bearings, you may roll with Lore instead of Environs.
-#### Generalist
+
+### Generalist
 When you recall an obscure fact or bit of trivia, roll +Lore. On a hit, the information is correct and relevant. Take +1 forward to the next move using that information. On 7-9, pick one compromise.
 
 **Compromises**
@@ -20,6 +26,8 @@ When you recall an obscure fact or bit of trivia, roll +Lore. On a hit, the info
 - You got one small piece of the information wrong.
 - You remember an important part of the information too late.
 - You mixed up two aspects of the information.
+
+
 #### Laboratory
 Note on the map where the laboratory is, and pick two aspects that describe it:
 - Secret

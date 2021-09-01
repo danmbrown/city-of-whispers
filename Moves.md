@@ -8,8 +8,9 @@
 - [Secrets Moves](#Secrets-Moves)
 - [Faction Moves](#Faction-Moves)
 
+<a id="City-Moves"></a>
+## City Moves
 
-## <a id="City-Moves"></a>City Moves
 ### Transit (Environs)
 When you travel to another neighborhood, and it is new to you or you need to get there unnoticed or you need to get there fast, roll +Environs. (If you’re entering a place you’re not allowed in, you must Take a Big Risk.)
 
@@ -166,7 +167,7 @@ When you check in on your scheme, roll +Productivity. You may do this once per s
 You may spend an asset to:
 - Avoid marking Heat
 - Roll Social Interaction moves with advantage
-- Take +1 to a Network move for each resource spent
+- Take +1 to a Network move for each asset spent
 - Repair an item
 
 

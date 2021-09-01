@@ -7,3 +7,9 @@ When you do not roll as well as you would like and you use a secret to gain the 
 > The player re-rolls the die showing 2 to get a 3 and rolls a new die, which shows a 5. The secret remains safe. Miabella uses 9 (4 from previous roll + 5 from new roll) for the Negotiate move and must sacrifice any treasure recovered on the expedition. Given the 7-9 result, Donatella would also select one of the Strong Responses for Negotiate. 
 > 
 > If the player had rolled a 5 with the first die and a 2 with the new die, Miabella would have a 9 for the Negotiate move, but will have revealed the secret. Donatella would attack. One way to resolve this is that Donatella uses violence to reinforce her power over Miabella, and reveals the location expecting Miabella to bring all the treasure to her.
+
+
+
+
+#### Informants
+You have a network of people who provide useful information on the goings on of the city. When you use a move that gains information (Appraise Circumstances, Get Something, or Observe Someone) you may mark your Informants as if marking a History or Demand. When you do, describe the informant and increase your result by one tier. Every time you mark an Informant, roll -Informants marked. On a hit, you don't raise any suspicion. On a 10+, you may clear one mark. You may reset the informants marks by spending one resource. 

@@ -1,9 +1,7 @@
 # Pillar
-![[_Overview#^3cd500]]
-
 Favored Attribute: Sway
 
-## Quotes
+> *The city is chaos, a swarming mass without form or direction, unless you command them and direct them.*
 
 ## Moves
 ##### Improvement to Apply Pressure
