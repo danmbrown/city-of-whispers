@@ -6,12 +6,16 @@ Favored Attribute: Environs
 ## Moves
 
 ### Distinct Group (Required)
-In addition to your faction, you belong to another faction representing a distinct ethnic, religious, ideological, or cultural group.
+In addition to your faction, you belong to another group representing a distinct ethnicity, religion, creed, ideology, or culture.
 
-### Improvement to Steer Clear
-When you Steer Clear in a neighborhood belonging to your group, roll with advantage.
+### Safe House
+When you Steer Clear in a neighborhood controlled by your group, you may roll with advantage.
+If in a neighborhood controlled by any other group, you may instead mark Heat to enter a building that's protected by someone from yours.
 
-### Improvement to Sample the Sights & Sounds
+### 
+*(Improvement to Sample the Sights & Sounds)*
+
+
 
 ### Improvement to Meet Someone New
 You may pick "You are from the same outside group" as a Shared Experience. If you do, you do not need to answer any questions.

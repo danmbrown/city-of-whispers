@@ -22,9 +22,19 @@ When you Observe Someone, you may ask "Who are they connected to?" regardless of
 When you put your Ear to the Ground you may roll with Network.
 
 ### The Big Picture
+When you Get Your Bearings you may always ask "How does this neighborhood connect to ____________?" regardless of the other questions you ask.
 
+### Well-Placed Connection
+You know someone in a high place among the local authorities. Your starting Favor with that person is -1. Whenever you like, but no more than once per session, roll with Favor. You may spend an Asset to roll with +1. On a hit, hold 1. On 7-9, reduce Favor by one.
 
-### Another Move
+Spend hold 1-for-1 to:
+- Increase Favor by 1 
+- Add an aspect to any neighborhood
+- Clear 1 Heat
+- Add a Tie with an Insight related to the well-placed connection
+
+If Favor reaches -3, the well-placed connection demands something in return for maintaining the alliance. Something big.
+
 
 ## Ties & Secrets
 Pick two people with whom you have a Tie. For each, pick what you know about them from the [[Lists#Area of Insight]]

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Playbooks/Remnant.md",
+            "file": "Playbooks/Conduit.md",
             "mode": "source"
           }
         }
@@ -22,6 +22,17 @@
           "state": {
             "file": "ListofMoves.md",
             "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "edbbd828dfa909e2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Moves.md",
+            "mode": "source"
           }
         }
       }
@@ -79,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Playbooks/Remnant.md",
+                "file": "Playbooks/Conduit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,15 +121,15 @@
   },
   "active": "954e053413835ce4",
   "lastOpenFiles": [
-    "Playbooks/Remnant.md",
-    "Playbooks/Pillar.md",
-    "Playbooks/Foundry.md",
-    "Playbooks/Crossroads.md",
     "Playbooks/Conduit.md",
     "Playbooks/Clamor.md",
     "Playbooks/Apparatus.md",
-    "index.md",
-    "Playbooks/_Overview.md",
-    "Playbooks/Wellspring.md"
+    "Playbooks/Remnant.md",
+    "Moves.md",
+    "ListofMoves.md",
+    "Playbooks/Pillar.md",
+    "Playbooks/Foundry.md",
+    "Playbooks/Crossroads.md",
+    "index.md"
   ]
 }
