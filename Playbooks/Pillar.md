@@ -1,4 +1,4 @@
-[Home](../index.md)
+[Home](../index.md) | [List of Playbooks](../index.md#Playbooks)
 
 # Pillar
 Favored Attribute: Sway
