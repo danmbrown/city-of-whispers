@@ -13,7 +13,7 @@
             "mode": "source"
           }
         },
-        "group": "78fd9c899d54469a"
+        "group": "7140c32453efad28"
       },
       {
         "id": "251df098abdff2cd",
@@ -25,7 +25,7 @@
             "mode": "preview"
           }
         },
-        "group": "78fd9c899d54469a"
+        "group": "7140c32453efad28"
       }
     ],
     "direction": "vertical"
@@ -113,6 +113,7 @@
   "active": "954e053413835ce4",
   "lastOpenFiles": [
     "Moves.md",
+    "Untitled.md",
     "Lists.md",
     "index.md",
     "Rules.md",
@@ -120,7 +121,6 @@
     "Playbooks/_Overview.md",
     "Advancement.md",
     "Gen.md",
-    "Playbooks/Overview.md",
-    "Playbooks/Apparatus.md"
+    "Playbooks/Overview.md"
   ]
 }

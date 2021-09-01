@@ -50,9 +50,9 @@ When you take a moment to get the lay of the land, you may ask one question. If 
 ### Ear to the Ground (Lore)
 When you listen out for interesting information, name something you’re especially interested in -- a public figure, a faction, a neighborhood, an event, etc. -- and roll +Lore.
 
-- **12+** The Magistrate will tell you a rumor related to the named topic. Mark Heat to get a second rumor of the Magistrate’s choice.
-- **10+** You may mark Heat to hear a rumor related to the named tag, or the Magistrate will tell you an unrelated rumor.
-- **7 - 9** You hear a rumor unrelated to the named tag, but pick 1 Setback.
+- **12+** The Magistrate will tell you a rumor related to the named subject. Mark Heat to get a second rumor of the Magistrate’s choice.
+- **10+** You may mark Heat to hear a rumor related to the named subject, or the Magistrate will tell you an interesting but unrelated rumor.
+- **7 - 9** You hear a rumor unrelated to the named subject, but pick 1 Setback.
 
 #### Setbacks
 - Someone notices you snooping around
@@ -67,7 +67,6 @@ When you take time to study the situation to see what’s really going on, roll 
 - **7 - 9** Ask one question. Or mark Heat to ask two.
 
 #### Questions
-- What is significant about this?
 - What here is useful or valuable to me?
 - What is the biggest threat to me?
 - What changed here recently?
@@ -99,10 +98,10 @@ Note: If coercing someone, use Apply Pressure instead. If bargaining, use Negoti
 - They ask for a favor.
 
 ### Observe Someone (Network)
-When you observe a person’s behavior, movements, or mannerisms to learn something about them, roll +Network.
+When you observe a specific person’s behavior, movements, or mannerisms to learn something about them, roll +Network.
 
-- **12+** Ask two questions, add them as a Tie. The Magistrate will tell you what you know about them. If you already have a Tie with them, you may ask a third question.
-- **10+** Ask two questions. Mark Heat to add them as a Tie. If you do, the Magistrate will tell you what you know about them. If you already have a Tie with them, you may mark Heat to ask another question.
+- **12+** Ask two questions, add them as a Tie. The Magistrate will tell you what Insight you know about them. If you already have a Tie with them, you may ask a third question.
+- **10+** Ask two questions. Mark Heat to add them as a Tie. If you do, the Magistrate will tell you what Insight you know about them. If you already have a Tie with them, you may mark Heat to ask another question.
 - **7 - 9** Ask one question. Mark Heat to ask another question.
 
 #### Questions
@@ -183,7 +182,8 @@ When you meet a Demand made by the city, take an Advance.
 ### Retire
 When you meet the last Demand, describe your epilogue.
 
-## <a id="Social-Interaction-Moves"></a>Social Interaction Moves
+<a id="Social-Interaction-Moves"></a>
+## Social Interaction Moves
 You may not mark Histories or City Demands to affect this roll, but you may use Secrets.
 
 ### Apply Pressure
@@ -193,14 +193,14 @@ If they have a clear reason to think your threat is not credible, they may choos
 
 Otherwise, they hold some amount of doubt about your credibility, roll +Influence.
 
-On a hit, they believe you pose a credible threat. If they also face another credible threat from another party, they pick a strong response and a consequence.
+On a hit, they believe you pose a credible threat. If they also face another credible threat from another party, they pick a strong reaction and a consequence.
 
 Otherwise, if they’re capable of carrying out your request:
 
-**10+** They pick a weak response and a consequence
-**7 - 9** They pick a strong response and a consequence
+**10+** They pick a weak reaction and a consequence
+**7 - 9** They pick a strong reaction and a consequence
 
-#### Strong Responses 
+#### Strong Reactions 
 How they respond to your threat
 -   Make counter-offer (Do you accept?)
 -   Make counter-threat (Is their threat credible?)
@@ -210,7 +210,7 @@ How they respond to your threat
 
 If you meet any counter or demand, they comply.
 
-#### Weak Responses 
+#### Weak Reactions 
 How they respond to your threat
 -   Comply with request
 -   Buy time
@@ -231,20 +231,20 @@ How they will act long-term
 ### Negotiate
 When you offer something of value in exchange for something important, name your request and your offer.
 
-If they have any reason not to comply or find value in your offer, they pick a strong response.
+If they have any reason not to comply or find value in your offer, they pick a strong reaction.
 
 Otherwise, roll +Influence. On a hit, they find your offer enticing.
 
-- **10+** They pick a weak response.
-- **7 - 9** They pick a strong response.
+- **10+** They pick a weak reaction.
+- **7 - 9** They pick a strong reaction.
 
-#### Strong Response
+#### Strong Reaction
 -   Demand more compensation
 -   Demand alternative compensation
 -   Also demand a favor from you
 -   Offer something less important
 
-#### Weak Response
+#### Weak Reaction
 -   Accept offer
 -   Demand explanation
 -   Demand time or resources to comply
@@ -277,29 +277,39 @@ Otherwise, roll +Influence. On a hit they acknowledge your perspective or are mo
 -   Change your reputation with them
 -   Become a loyal follower, perhaps to a fault
 
-## <a id="Secrets-Moves"></a>Secrets Moves
+<a id="Secrets-Moves"></a>
+## Secrets Moves
+
 ### Use a Secret
-When you do not roll as well as you would like and you use a secret to gain the edge, ask the Magistrate what will happen if you reveal it. (The Magistrate may choose from the list in **Reveal A Secret** or one of the Strong Responses in the move.) Say what sacrifice you're willing to make to keep it. Then, pick up one of the dice you rolled, add another die and re-roll. If the new die is highest, make your sacrifice. Otherwise, the secret is revealed. Use the two highest values for your move.
+If you do not roll as well as you would like, you may opt to leverage your secret knowledge to your advantage. Describe how you use the secret without revealing it, then roll three dice and use the two highest values for your move. But if any of the dice show 1 or 2, the secret is revealed.
 
 > #### Example of "Use a Secret"
-> Miabella is negotiating with the pirate Donatella for the secret location of the treasure under the city. Miabella offers to split the treasure with Donatella in exchange for the location. Miabella (Influence 0) rolls a 2 and a 4. Miabella knows the pirate Donatella has a secret love. The player says she might use this secret to suggest Donatella's love would appreciate the influx of cash. The Magistrate says that Miabella senses that revealing she knows Donatella's love will cause the pirate to attack. The player says that in lieu of revealing the secret, Miabella will give up any treasure she finds in the expedition. 
+> Miabella is negotiating with the pirate Donatella for the secret location of the treasure under the city. Miabella offers to split the treasure with Donatella in exchange for the location. Miabella (Influence 0) rolls a 2 and a 4. 
+>
+> Miabella knows the pirate Donatella has a secret forbidden love named Arvel. The player opts to use this knowledge to influence Donatella, implying that certain members of the elite, including Arvel, would appreciate uncovering this essential part of the city's history.
+>
+> The player rolls three dice and gets a 1 + 4 + 5. This gives Miabella a 9 on the **Negotiate** move, but the secret is revealed. According to the **Reveal a Secret** move, Miabella loses the Tie with Donatella.
+>
+> The Magistrate gets to pick two Reactions for Donatella. From Negotiate, Donatella selects *Demand more compensation* and from  Reveal a Secret, Donatella selects *They deny the truth, leaving you in doubt*.
 > 
-> The player re-rolls the die showing 2 to get a 3 and rolls a new die, which shows a 5. Miabella uses 9 (4 from previous roll + 5 from new roll) for the Negotiate move and must sacrifice any treasure recovered on the expedition. Given the 7-9 result, Donatella would also select one of the Strong Responses for Negotiate. 
-> 
-> If the player had rolled a 5 with the first die and a 2 with the new die, Miabella would have a 9 for the Negotiate move, but will have revealed the secret. Donatella would attack. One way to resolve this is that Donatella uses violence to reinforce her power over Miabella, and reveals the location anyway.
+> Says Donatella, "You think you know so much. My love for Arvel is long buried. I will tell you the location, but for your impudence, we will split the treasure 70-30."
 
 ### Reveal a Secret
-When you reveal a secret to someone, lose the Tie if it's about them. Otherwise, mark Heat. Then, pick 2, or lower your result by one tier to pick 1.
+When you reveal a secret to someone, lose the Tie if it's about them. Otherwise, mark Heat. 
 
+- With a Social Interaction Move, resolve the original move, but pick one additional Reaction, from the list below.
+- In other circumstances, pick one Reaction from the list below.
+
+#### Reactions
 - They flee
 - They sincerely deny the truth of the secret, leaving you in doubt
 - They attack
-- They offer you a bribe for your discretion
-- They make a threat and demand your discretion
+- They make you an offer or threat for your discretion
 - They start a rumor about you
 
+<a id="Risky-Moves"></a>
+## Risky Moves
 
-## <a id="Risky-Moves"></a>Risky Moves
 ### Use Magic
 When you tap into your connection to magic, describe what you hope to accomplish through your aesthetic. The Magistrate will assign a complexity. If the complexity is equal to or less than your max, roll +1 if you have a connection to the neighborhood or -2 if you do not. You may not use secrets or facts to buff this roll. 
 
@@ -351,7 +361,8 @@ When you do something dangerous, felonious, violent, or imprudent describe your 
 
 
 
-## <a id="Faction-Moves"></a>Faction Moves
+<a id="Faction-Moves"></a>
+## Faction Moves
 
 ### Secure Resource
 To acquire resources, including materials, expertise, and personnel, a faction may make use of its existing aspects so long as they’re relevant to the acquisition. If the faction is operating in a neighborhood it controls with aspects that help the acquisition, it may include those aspects when rolling.
