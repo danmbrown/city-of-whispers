@@ -1,4 +1,5 @@
-[Home](index.md) | [List of Playbooks](Index.md#Playbooks)
+[Home](../index.md) | [List of Playbooks](../Index.md#Playbooks)
+
 # Remnant
 Favored Attribute: Environs
 
