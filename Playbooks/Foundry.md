@@ -7,14 +7,18 @@ Favored Attribute: Environs
 ## Quotes
 
 ## Moves
-##### Improvement to Appraise Circumstances
-When you Appraise Circumstances, you may always ask "What here is useful or valuable to me?"
-##### Improvement to Sample the Sights & Sounds
-##### Improvement to Meet Someone New
+### Improvement to Get Your Bearings
+
+### Improvement to Negotiate
+
+### Improvement to Meet Someone New
 They want what you have to offer.
-##### Shift Attribute
+
+### Shift Attribute
 When you Get Something, you may roll with Environs
-##### Start with a Scheme
-You have an establishment with a Productivity of 0. Describe what it does and give it a name.
+
+### Producer
+You have a scheme (Productivity 0) that produces goods. What does it produce? What's it called?
+
 ## Secrets
 ## Recuperation

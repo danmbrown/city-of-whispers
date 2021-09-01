@@ -18,7 +18,7 @@ When you observe someone you may always ask, "What do you crave?"
 
 When you Apply Pressure and offer someone a way to indulge themselves, they will accept your offer.
 
-##### Den of Vice.
+### Den of Vice
 You have a den of vice. What does it serve? What is the clientele like? You have a scheme with Productivity 0. Select one disadvantage:
 
 **Disadvantages**
@@ -26,7 +26,9 @@ You have a den of vice. What does it serve? What is the clientele like? You have
 - Limited Labor (you can only earn max one asset when you Run the Scheme)
 - Contraband (cross off one of the options under Use Asset)
 
-##### Entourage
+### Entourage
 You are surrounded by supporters, fans, frequent patrons, and others who hold you in high esteem, or think they can get something from you.
+
+
 ## Secrets
 ## Recuperation

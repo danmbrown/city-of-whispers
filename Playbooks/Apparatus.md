@@ -19,9 +19,10 @@ When you Observe Someone, you may ask "Who are they connected to?" regardless of
 ### An Eye on the Machine 
 *(Alternate Attribute)*
 
-When you Appraise Circumstances you may roll with Network.
+When you put your Ear to the Ground you may roll with Network.
 
 ### The Big Picture
+
 
 ### Another Move
 
