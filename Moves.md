@@ -199,11 +199,12 @@ When you threaten someone to get them to violate their duty, responsibility, or 
 
 If they have a clear reason to think your threat is not credible, they may choose to go along with you or not. They may also pick a consequence.
 
-Otherwise, they hold some amount of doubt about your credibility, roll +Influence.
+Otherwise, they think you *might* pose a threat: roll +Influence.
 
-On a hit, they believe you pose a credible threat. If they also face another credible threat from another party, they pick a strong reaction and a consequence.
+On a hit, they do believe you pose a credible threat:
 
-Otherwise, if they’re capable of carrying out your request:
+- If they face a credible threat from another party as well, they pick a **strong reaction** and a **consequence**.
+- Otherwise:
 
 **10+** They pick a weak reaction and a consequence
 **7 - 9** They pick a strong reaction and a consequence
