@@ -15,9 +15,9 @@ When you Steer Clear in a neighborhood controlled by your group, you may roll wi
 If in a neighborhood controlled by any other group, you may instead mark Heat to enter a building that's protected by someone from yours.
 
 ### 
-*(Improvement to Sample the Sights & Sounds)*
+*(Improvement to Observe Someone)*
 
-
+Are you an ally?
 
 ### Improvement to Meet Someone New
 You may pick "You are from the same outside group" as a Shared Experience. If you do, you do not need to answer any questions.

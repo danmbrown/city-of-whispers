@@ -43,7 +43,11 @@ You speak a local dialect specific to trading or commerce. Pick two descriptors 
 ## Ties & Secrets
 Pick two people with whom you have a Tie. For each, pick what you know about them from the [[Lists#Area of Insight]]
 
-- 
+- Tolith, an information broker
+- Virion, a younger relative
+- Sylmar, a former lover
+- Kendel, a confidant
+- Aelrin, a high ranked customer
 
 
 ## Recuperation

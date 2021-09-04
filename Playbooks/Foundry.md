@@ -6,6 +6,7 @@ Favored Attribute: Environs
 > *You contribute to the lifeblood of the city, producing goods and services for the use or benefit, enjoyment or satisfaction of others. *
 
 ## Moves
+
 ### Tools of the Trade (Required)
 You are a builder or craftsperson or professional who provides a good or service to the city. What is it? You have **tools** related to your craft with three uses. You may mark a use to Use Asset.
 
@@ -32,10 +33,18 @@ When you **Get Something** related to this scheme -- materials or information --
 Select one Drawback:
 
 **Drawbacks**
-- Extortion -- Need to pay someone off (spend one asset before you Run the Scheme)
+- Expensive (spend one asset before you Run the Scheme)
 - Limited Labor (productivity maxes out at +1)
-- Contraband (cross off one of the options under Use Asset)
-- Scrutiny (pick a Success on any hit)
+- Idiosyncratic or quirky (cross off one of the options under Use Asset)
+- Borderline illegal/immoral (pick a Success on any hit)
 
-## Secrets
+## Ties & Secrets
+Pick two people with whom you have a Tie. For each, pick what you know about them from the [[Lists#Area of Insight]]
+
+- Ardreth, a supplier
+- Katar, an enthusiastic customer
+- Artin, your cousin
+- Vasati, your former mentor
+- Saphielle, your apprentice
+
 ## Recuperation

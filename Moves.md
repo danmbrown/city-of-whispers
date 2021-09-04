@@ -3,6 +3,8 @@
 # Basic Moves
 
 - [City Moves](#City-Moves)
+- [Scheme Moves](#Scheme-Moves)
+- [City Connection Moves](#Connection-Moves)
 - [Social Interaction Moves](#Social-Interaction-Moves)
 - [Risky Moves](#Risky-Moves)
 - [Secrets Moves](#Secrets-Moves)
@@ -141,6 +143,8 @@ When you meet someone new and want to explore a possible connection, describe ho
 - Who can vouch for you?
 - Tell me something about yourself few people know.
 
+<a id="Scheme-Moves"></a>
+## Scheme Moves
 
 ### Set Up a Scheme (Network)
 When you set up a scheme to regularly bring in cash or resources, describe the montage for setting it up and what you expect it to produce. Roll +Network. Subtract 1 for each scheme you already have going.
@@ -170,6 +174,9 @@ You may spend an asset to:
 - Take +1 to a Network move for each asset spent
 - Repair an item
 
+
+<a id="Connection-Moves"></a>
+## City Connection Moves
 
 ### Recall Neighborhood Connection
 Once per session, you may mark a History to bump a die roll result one tier. By marking a history, you add that neighborhood to the list of neighborhoods your character is connected to.
