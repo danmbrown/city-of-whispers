@@ -7,20 +7,25 @@ Favored Attribute: Sway
 
 ## Moves
 
-### Master of Desire
+### Master of Fancies
 *(Improvement to Observe Someone)*
-When you Observe Someone you may always ask, "What do you crave?"
+
+When you **Observe Someone** you may always ask one of these questions:
+
+- "What entertains you?"
+- "What horrifies you?"
+- "What do you crave?"
+- "What gets your attention?"
 
 ### Irresistible Offer
 *(Alternate Attribute)*
 
 When you Get Something, you may roll with Sway instead of Network.
 
-###
+### Perform
 *(Improvement to Apply Pressure)*
 
-
-
+You can act, sing, play an instrument, or otherwise entertain a live audience. What do you do? How did you cultivate this talent? You have a **Shtick** with five uses. When you perform for someone describe what it looks like, mark a Shtick and make your next roll involving that person with advantage.
 
 ### Den of Amusement
 You own, run, or manage a club where people go to relax or escape. Where is it located? What does it serve? What is the clientele like? You have a scheme with Productivity +1.

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Playbooks/Foundry.md",
+            "file": "Playbooks/Conduit.md",
             "mode": "source"
           }
         }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Playbooks/Foundry.md",
+                "file": "Playbooks/Conduit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +124,15 @@
   },
   "active": "32b82a63066a6254",
   "lastOpenFiles": [
+    "Playbooks/Conduit.md",
+    "Playbooks/Crossroads.md",
     "Playbooks/Foundry.md",
     "Playbooks/Pillar.md",
     "Playbooks/Wellspring.md",
     "Playbooks/Vault.md",
     "Playbooks/Remnant.md",
-    "Playbooks/Crossroads.md",
     "Moves.md",
     "Playbooks/Apparatus.md",
-    "Playbooks/Clamor.md",
-    "Playbooks/Conduit.md"
+    "Playbooks/Clamor.md"
   ]
 }

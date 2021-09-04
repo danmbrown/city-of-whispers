@@ -31,14 +31,14 @@ On a hit, you know where to find them. On a 7-9, pick 1.
 - They need convincing to help you.
 
 ### "Trade Tongue"
-You speak a local dialect specific to trading or commerce. Pick two descriptors for the dialect. When you Observe Someone, you may freely ask, "Do they speak the Trade Tongue?" When interacting with someone who speaks the Trade Tongue, roll with advantage.
+You speak a local dialect specific to trading or commerce. Pick two descriptors for the dialect. When you **Observe Someone**, you may freely ask, "Do they speak the Trade Tongue?" When interacting with someone who speaks the Trade Tongue, roll with advantage.
 
 **Descriptors**
 - Secret (people don't know about it)
-- Hidden (it may be spoken without others easily recognizing it)
+- Hidden (it may be used without others easily recognizing it)
 - Incomplete (it covers only rudimentary trading or commercial concepts)
 - Offensive (if they hear it, they judge you harshly)
-- 
+- Proximity (it requires speakers to be a certain distance from each other)
 
 ## Ties & Secrets
 Pick two people with whom you have a Tie. For each, pick what you know about them from the [[Lists#Area of Insight]]
