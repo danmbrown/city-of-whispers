@@ -19,7 +19,7 @@ When you Meet Someone New, in lieu of answering a question you may instead offer
 When you Negotiate, they pick two Weak Responses.
 
 ### Create a Diversion
-When you Reveal a Secret
+When you spread a rumor to create a distraction after you Reveal a Secret, roll +Network. On a hit, you may avoid marking Heat. On a 10+, you may offer them two Reactions to pick from.
 
 ### Know Someone
 When you need someone in your current neighborhood with a particular skill, expertise, or knowledge, roll +Network.
@@ -40,5 +40,10 @@ You speak a local dialect specific to trading or commerce. Pick two descriptors 
 - Offensive (if they hear it, they judge you harshly)
 - 
 
-## Secrets
+## Ties & Secrets
+Pick two people with whom you have a Tie. For each, pick what you know about them from the [[Lists#Area of Insight]]
+
+- 
+
+
 ## Recuperation

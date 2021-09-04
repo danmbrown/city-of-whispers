@@ -296,10 +296,10 @@ If you do not roll as well as you would like, you may opt to leverage your secre
 > Says Donatella, "You think you know so much. My love for Arvel is long buried. I will tell you the location, but for your impudence, we will split the treasure 70-30."
 
 ### Reveal a Secret
-When you reveal a secret to someone, lose the Tie if it's about them. Otherwise, mark Heat. 
+When you reveal a secret to someone, mark Heat. Lose the Tie if it's about the person you're talking to. 
 
-- With a Social Interaction Move, resolve the original move, but pick one additional Reaction from the list below.
-- In other circumstances, pick one Reaction from the list below.
+- With a Social Interaction Move, resolve the original move, but they may pick one additional Reaction from the list below.
+- In other circumstances, they may pick one Reaction from the list below.
 
 #### Reactions
 - They flee
