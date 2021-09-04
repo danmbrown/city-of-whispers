@@ -8,15 +8,18 @@ Favored Attribute: Network
 
 ## Moves
 ### Wealth and Influence (Required)
-Start every session with one asset marked.
+Start every session with one Asset marked. If you already have an Asset marked, you may instead clear one Heat.
 
-### Improvement to Ear to the Ground
+### 
+*(Improvement to Ear to the Ground)*
 
-### Improvement to Get Something
+### 
+*(Improvement to Get Something)*
 
 ### Minions
 
 ### Investing in the Future
+
 
 
 ## Secrets

@@ -14,7 +14,11 @@
 ## City Moves
 
 ### Transit (Environs)
-When you travel to another neighborhood, and it is new to you or you need to get there unnoticed or you need to get there fast, roll +Environs. (If you’re entering a place you’re not allowed in, you must Take a Big Risk.)
+When you travel to another neighborhood, and it is new to you or you need to get there unnoticed or you need to get there fast, roll +Environs unless you have a connection with that neighborhood.
+
+If you have a connection to the destination neighborhood, you may pick a Consequence or mark Heat to arrive uneventfully.
+
+If you’re entering a place you’re not allowed in, you must Take a Big Risk.
 
 - **12+** You arrive uneventfully, or pick 1 Consequence and clear 1 Heat.
 - **10+** Pick 1 Consequence.
@@ -28,7 +32,11 @@ When you travel to another neighborhood, and it is new to you or you need to get
 - It took you longer to get there than expected
 
 ### Steer Clear (Environs)
-When you lay low or maneuver to avoid getting into a dangerous situation, roll +Environs. If you’re already in a dangerous situation, or have been noticed by a threat, instead Take a Big Risk.
+When you lay low or maneuver to avoid getting into a dangerous situation, roll +Environs unless you have a connection to the neighborhood. 
+
+If you have a connection to the neighborhood, you may mark Heat to let the situation pass uneventfully.
+
+If you’re already in a dangerous situation, or have been noticed by a threat, instead Take a Big Risk.
 
 - **12+** You may either clear 1 Heat or avoid a dangerous situation
 - **10+** The situation passes, but it costs you. The Magistrate will tell you what.
@@ -51,7 +59,7 @@ When you take a moment to get the lay of the land, you may ask one question. If 
 - You had to retrace your steps; ask the Magistrate whose attention you attracted
 
 ### Ear to the Ground (Lore)
-When you listen out for interesting information, name something you’re especially interested in -- a public figure, a faction, a neighborhood, an event, etc. -- and roll +Lore.
+When you listen out for interesting information, name something you’re especially interested in -- a public figure, a faction, a neighborhood, an event, etc. -- and roll +Lore. If you have a connection to the neighborhood, you may roll with advantage.
 
 - **12+** The Magistrate will tell you a rumor related to the named subject. Mark Heat to get a second rumor of the Magistrate’s choice.
 - **10+** You may mark Heat to hear a rumor related to the named subject, or the Magistrate will tell you an interesting but unrelated rumor.
@@ -63,7 +71,7 @@ When you listen out for interesting information, name something you’re especia
 - You’re stuck in this location for a while
 
 ### Appraise Circumstances (Lore)
-When you take time to study the situation to see what’s really going on, roll +Lore.
+When you take time to study the situation to see what’s really going on, roll +Lore. If you have a connection to the neighborhood, you may roll with advantage.
 
 - **12+** Ask three questions and clear one Heat.
 - **10+** Ask three questions.
@@ -78,6 +86,7 @@ When you take time to study the situation to see what’s really going on, roll 
 
 ### Sample the Sights & Sounds 
 When you try something new -- for example, tasting food, listening to music, seeing artwork -- describe your experience. If someone invited you to try it, take +1 forward to your next Social Interaction move. If not, you may add a fact about the experience. You may also pick 1 to clear one Heat:
+
 - Your reaction offends the people around you
 - You become obsessed with it
 - You have an adverse physiological response to it
@@ -85,9 +94,9 @@ When you try something new -- for example, tasting food, listening to music, see
 - You interrupt someone nearby to urge them to try it
 
 ### Get Something (Network)
-When you work your connections to get information, a service, a rare item, or access to a restricted location, say what you need and roll +Network.  
+When you work your connections to get information, a service, a rare item, or access to a restricted location, say what you need and roll +Network. If you have a connection with the neighborhood, you may roll with advantage.
   
-Note: If coercing someone, use Apply Pressure instead. If bargaining, use Negotiate.
+If coercing someone, use Apply Pressure instead. If bargaining, use Negotiate.
 
 - **12+** Get exactly what you want, or clear 1 Heat and pick 1 Compromise.
 - **10+** Mark 1 heat to get exactly what you want. Otherwise pick 1 Compromise.
@@ -101,7 +110,7 @@ Note: If coercing someone, use Apply Pressure instead. If bargaining, use Negoti
 - They ask for a favor.
 
 ### Observe Someone (Network)
-When you observe a specific person’s behavior, movements, or mannerisms to learn something about them, roll +Network.
+When you observe a specific person’s behavior, movements, or mannerisms to learn something about them, roll +Network. If you have a Tie with them, you may roll with advantage.
 
 - **12+** Ask two questions, add them as a Tie. The Magistrate will tell you what Insight you know about them. If you already have a Tie with them, you may ask a third question.
 - **10+** Ask two questions. Mark Heat to add them as a Tie. If you do, the Magistrate will tell you what Insight you know about them. If you already have a Tie with them, you may mark Heat to ask another question.

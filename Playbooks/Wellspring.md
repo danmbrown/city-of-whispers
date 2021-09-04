@@ -9,18 +9,38 @@ Favored Attribute: Lore
 ## Moves
 
 ### Niche (Required)
-You have a special area of knowledge. 
+Pick a special area of knowledge.
+
+When you apply this knowledge to a problem, roll +Lore. If the problem clearly belongs to the area of knowledge, roll with advantage. On a hit, the Magistrate will give you a piece of information about the problem that is useful or interesting. On 10+, clear one Heat.
+
+**Areas of Knowledge**
+- Religion or Occult
+- History
+- Law
+- Arts and Culture
+- Commerce and Trade
+- Life Sciences
+- Physical Sciences
+- Engineering
+- Healing and Surgery
 
 ### Improve Ear to the Ground
-When you put your Ear to the Ground, the GM will always tell you something about your niche, regardless of your roll.
+When you put your **Ear to the Ground**, the GM will always tell you something about your niche, regardless of your roll.
 
 ### Improve Get Something
-You have a **Curriculum Vitae** track of 3 boxes. When you Get Something related to your niche, you may mark a box instead of a History or Demand to bump your result one tier. When you do, describe a flashback about your ongoing research in that area.
+You have a **Curriculum Vitae** track of 3 boxes. When you **Get Something** related to your niche, you may mark a box instead of a History or Demand to bump your result one tier. When you do, describe a flashback about your ongoing research in that area.
 
-### 
+### Sage for Hire
+When you offer your services to someone, ask them what answer or solution they need. Establish a Project track with 5 boxes. Mark Heat to mark 2 boxes at the outset. When you have time to pursue the Project, roll +Lore. On a hit, mark the Project. On 7-9, ask the Magistrate what it cost you to make progress. When you complete the Project, select the reward:
+
+**Rewards**
+- Clear Heat track
+- Mark 2 Assets (max 2)
+- Establish a Tie with the client
+- Clear one marked History
 
 ### Hidden Truth
-You know a secret about the city itself or the world at large. You may use this secret as you would any other secret. When you use it, mark one segment of a 4-segment clock. When all segments are marked, the revealed secret makes a change to the world.
+You know a secret related to your niche about the city itself or the world at large. No more than once per session, you may use this secret as you would any other secret. When you use it, mark one segment of a 4-segment clock. When all segments are marked, the revealed secret makes a change to the world.
 
 ## Secrets
 ## Recuperation
