@@ -6,10 +6,11 @@
       {
         "id": "32b82a63066a6254",
         "type": "leaf",
+        "dimension": 33.420365535248045,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Playbooks/Crossroads.md",
+            "file": "Playbooks/Conduit.md",
             "mode": "source"
           }
         }
@@ -17,10 +18,23 @@
       {
         "id": "251df098abdff2cd",
         "type": "leaf",
+        "dimension": 25.326370757180154,
         "state": {
           "type": "markdown",
           "state": {
             "file": "ListofMoves.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "0a2470f003478826",
+        "type": "leaf",
+        "dimension": 41.253263707571804,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Moves.md",
             "mode": "source"
           }
         }
@@ -79,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Playbooks/Crossroads.md",
+                "file": "Moves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,17 +122,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "32b82a63066a6254",
+  "active": "0a2470f003478826",
   "lastOpenFiles": [
+    "Moves.md",
+    "Playbooks/Conduit.md",
+    "ListofMoves.md",
+    "Playbooks/Clamor.md",
     "Playbooks/Crossroads.md",
     "Playbooks/Apparatus.md",
-    "Playbooks/Conduit.md",
-    "Playbooks/Clamor.md",
     "Playbooks/Vault.md",
     "Playbooks/Remnant.md",
     "Playbooks/Pillar.md",
-    "Playbooks/Foundry.md",
-    "Playbooks/Wellspring.md",
-    "Moves.md"
+    "Playbooks/Foundry.md"
   ]
 }

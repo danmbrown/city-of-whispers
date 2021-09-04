@@ -18,7 +18,8 @@ When you Meet Someone New, in lieu of answering a question you may instead offer
 
 When you Negotiate, they pick two Weak Responses.
 
-### 
+### Create a Diversion
+When you Reveal a Secret
 
 ### Know Someone
 When you need someone in your current neighborhood with a particular skill, expertise, or knowledge, roll +Network.
@@ -30,7 +31,7 @@ On a hit, you know where to find them. On a 7-9, pick 1.
 - They need convincing to help you.
 
 ### "Trade Tongue"
-You speak a local dialect specific to trading or commerce. Pick two descriptors for the dialect. When you Observe Someone, you may freely ask, "Do they speak the Trade Tongue?"
+You speak a local dialect specific to trading or commerce. Pick two descriptors for the dialect. When you Observe Someone, you may freely ask, "Do they speak the Trade Tongue?" When interacting with someone who speaks the Trade Tongue, roll with advantage.
 
 **Descriptors**
 - Secret (people don't know about it)

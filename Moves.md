@@ -153,7 +153,7 @@ When you set up a scheme to regularly bring in cash or resources, describe the m
 When you check in on your scheme, roll +Productivity. You may do this once per session.
 
 - **12+** Collect two assets, pick 1 Success. You may have a maximum of two assets.
-- **10+** Collect a assets and increase productivity (Max +3). You may have a maximum of two assets.
+- **10+** Collect 1 asset and increase productivity (Max +3). You may have a maximum of two assets.
 - **7-9** Reduce productivity to collect an asset, or do nothing. You may have a maximum of two assets.
 
 #### Success
@@ -298,7 +298,7 @@ If you do not roll as well as you would like, you may opt to leverage your secre
 ### Reveal a Secret
 When you reveal a secret to someone, lose the Tie if it's about them. Otherwise, mark Heat. 
 
-- With a Social Interaction Move, resolve the original move, but pick one additional Reaction, from the list below.
+- With a Social Interaction Move, resolve the original move, but pick one additional Reaction from the list below.
 - In other circumstances, pick one Reaction from the list below.
 
 #### Reactions
