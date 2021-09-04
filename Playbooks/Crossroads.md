@@ -11,8 +11,8 @@ Favored Attribute: Sway
 *(Improvement to Observe Someone)*
 When you Observe Someone you may always ask, "What do you crave?"
 
-### 
-*(Improvement to Get Something)*
+### Irresistible Offer
+*(Alternate Attribute)*
 
 When you Get Something, you may roll with Sway instead of Network.
 
@@ -23,9 +23,13 @@ When you Get Something, you may roll with Sway instead of Network.
 
 
 ### Den of Amusement
-You own, run, or manage a club where people go to relax or escape. What does it serve? What is the clientele like? You have a scheme with Productivity 0. Select one disadvantage:
+You own, run, or manage a club where people go to relax or escape. Where is it located? What does it serve? What is the clientele like? You have a scheme with Productivity +1.
 
-**Disadvantages**
+When you Meet Someone New, you may add "They are a customer" to the list of Shared Experiences. If you pick this, you may also add them as a Tie.
+
+Select one drawback:
+
+**Drawbacks**
 - Extortion -- Need to pay someone off (spend one asset before you Run the Scheme)
 - Limited Labor (productivity maxes out at +1)
 - Contraband (cross off one of the options under Use Asset)

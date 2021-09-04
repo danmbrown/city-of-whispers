@@ -7,16 +7,16 @@ Favored Attribute: Network
 
 
 ## Moves
-##### Wealth and Influence (Required)
+### Wealth and Influence (Required)
 Start every session with one asset marked.
 
-##### Improvement to Ear to the Ground
+### Improvement to Ear to the Ground
 
-##### Improvement to Get Something
+### Improvement to Get Something
 
-##### Minions
+### Minions
 
-##### Investing in the Future
+### Investing in the Future
 
 
 ## Secrets

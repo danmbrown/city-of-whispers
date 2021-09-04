@@ -6,7 +6,7 @@ Favored Attribute: Sway
 > *The city is chaos, a swarming mass without form or direction, unless you command them and direct them.*
 
 ## Moves
-### Improvement to Apply Pressure
+### Improvement to Transit
 
 ### Improvement to Appraise Circumstances
 You can always ask, "What's the worst thing that can happen here?"
