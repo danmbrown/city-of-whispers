@@ -3,7 +3,7 @@
 # Crossroads
 Favored Attribute: Sway
 
->*The city overwhelms its inhabitants and you offer them an escape, providing temporary confections, more permanent remedies to what ails them, or otherwise idle distractions.*
+>*The city overwhelms its inhabitants and you offer them an escape, providing idle distractions and temporary confections, or more permanent remedies to what ails them.*
 
 ## Moves
 
@@ -12,15 +12,18 @@ Favored Attribute: Sway
 When you Observe Someone you may always ask, "What do you crave?"
 
 ### 
-*(Improvement to )*
+*(Improvement to Get Something)*
 
+When you Get Something, you may roll with Sway instead of Network.
 
 ###
 *(Improvement to Apply Pressure)*
 
 
-### Den of Vice
-You own, run, or manage a den of vice. What does it serve? What is the clientele like? You have a scheme with Productivity 0. Select one disadvantage:
+
+
+### Den of Amusement
+You own, run, or manage a club where people go to relax or escape. What does it serve? What is the clientele like? You have a scheme with Productivity 0. Select one disadvantage:
 
 **Disadvantages**
 - Extortion -- Need to pay someone off (spend one asset before you Run the Scheme)
