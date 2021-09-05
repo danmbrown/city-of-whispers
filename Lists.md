@@ -87,30 +87,23 @@ Factions are described with a Type, a Status, and a Complication. These descript
 9. Held knowledge is out of date or incorrect
 10. Loss of control over resource
 
-### Aspects (d20)
-1. Command of esoteric magic
-2. Access to a deity
-3. Command of unique or powerful technology
-4. Government placements or influence
-5. Popular among the people
-6. Backed by nobility
-7. Backed by aristocracy
-8. Charismatic leader
-9. Command of information
-1. Loyal membership
-2. Channels of communication
-3. Trained guards, soldiers, or mercenaries
-4. Wealth
-5. Well-fortified headquarters
-6. Offices distributed throughout the city
-7. Beasts of burden
-8. Abundant commodity
-9. Armaments
-10. 
+### Aspects (d6 + d10)
 
+|  | 1-2 | 3-4 | 5-6 |
+| :-: | --- | --- | --- |
+| 1 | Command of esoteric magic | Access to a deity | Command of unique or powerful technology |
+| 2 | Government placements or influence | Popular among the people | Backed by nobility |
+| 3 | Backed by aristocracy | Charismatic leader | Command of information |
+| 4 | Loyal membership | Channels of communication | Trained guards, soldiers, or mercenaries |
+| 5 | Wealth | Well-fortified headquarters | Offices distributed throughout the city |
+| 6 | Beasts of burden | Abundant commodity | Armaments |
+| 7 | Anonymous leadership | Hierarchical command structure | Loosely-organized cells |
+| 8 | Anonymous membership | Long history | Secretive |
+| 9 | Unique information |  |  |
+| 10 |  |  |  |
 
-
-## <a id="neighborhoods"></a>Neighborhoods
+<a id="neighborhoods"></a>
+## Neighborhoods
 
 ### Type
 A neighborhood may have multiple functions but generally only one Standing. Roll up to three times on the table to determine the various functions of the neighborhood. The Standing indicates the majority social class in the neighborhood, though the Status might indicate transitioning.
