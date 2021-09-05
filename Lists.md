@@ -10,7 +10,13 @@ These tables give players and the Magistrate the tools for building the connecti
 - [Rumors](#rumors)
 
 ## <a id="backdrops"></a>Backdrops
-To set up your campaign, it may be useful to identify a backdrop, a recent event or happening that frames the action and position of the city. Roll a d8 three times, combining one word from each list.
+To set up your campaign, it may be useful to identify a backdrop, a recent event or happening that frames the action and position of the city. 
+
+Either before you create the city or afterward, roll a d8 three times, combining one word from each list. Discuss the resulting phrase and tease out what it means for your campaign.
+
+If you've already created the city, go around the table and have each person suggest one change or addition based on the backdrop.
+
+If you haven't yet created the city, as you add elements, have the Magistrate ask what effect the backdrop has on the element you add.
 
 | d8 | A | B | C |
 | :-: | :-- | :-- | :-- |
@@ -37,7 +43,8 @@ Every "secret" consists of a Tie (a person the character knows) and an area of i
 1. Immoral activities
 1. Illicit past
 1. Vices
-2. Corrupt influences
+2. Beliefs outside mainstream
+3. Corrupt influences
 
 
 ## <a id="factions"></a>Factions
@@ -45,16 +52,17 @@ Every character belongs to a faction. The nature of that connection can be stron
 
 Factions are described with a Type, a Status, and a Complication. These descriptors influence the fiction, but have no mechanical bearing. Factions also have one or more Aspects that describe advantages or assets. These aspects may be used when rolling [Faction Moves](Moves.md#Faction-Moves).
 
-### Type (d8)
+### Type (d10)
 1. Sect - United by religion or creed
 2. Family - United by familial commitments
 3. Enclave - United by ethnic or cultural commonalities
 5. Cabal - United by political views
-6. Company - Contracted to contribute to an enterprise
+6. Company - Partnership in a commercial enterprise
 7. Guild - United by a craft
 8. Mission - United by a cause or calling
 9. Rank - United by common station or position
-10. Syndicate - United by a corrupt business interest
+10. Syndicate - Allied through corrupt business interest
+11. Union - United by common occupation
 
 
 ### Status (d8)
@@ -68,7 +76,7 @@ Factions are described with a Type, a Status, and a Complication. These descript
 1. Unfocusing or Dispersing
 
 ### Complications (d10)
-1. Power is dwindling
+1. Influence is dwindling
 2. Membership is dwindling
 3. Losing confidence in leadership
 4. Infighting among leadership
@@ -77,7 +85,7 @@ Factions are described with a Type, a Status, and a Complication. These descript
 7. Regimented bureaucracy
 8. Overwhelming demand for services
 9. Held knowledge is out of date or incorrect
-10. 
+10. Loss of control over resource
 
 ### Aspects (d20)
 1. Command of esoteric magic
@@ -99,6 +107,7 @@ Factions are described with a Type, a Status, and a Complication. These descript
 8. Abundant commodity
 9. Armaments
 10. 
+
 
 
 ## <a id="neighborhoods"></a>Neighborhoods
@@ -141,6 +150,8 @@ A neighborhood may have multiple functions but generally only one Standing. Roll
 11. Converted buildings
 12. Surrounded by walls
 13. Public works
+14. Ruins
+15. 
 
 
 
