@@ -1,6 +1,6 @@
 The exact nature of your occupation is immaterial to the city. The city only concerns itself with how you contribute to its vitality. Do you produce goods for others to consume? Do you hold essential knowledge? Do you encourge denizens to meet and transact? Do you exert a modicum of order over the denizens? Then you do not just live in the city, you are part of it.
 
-### [[Playbooks/Apparatus|Apparatus, The Watcher]]
+### [[Skyline|Apparatus, The Watcher]]
 
 The city is a great machine, an intricate connection of cogs and wheels ever ticking through infinite calculations. It would be easy to lose track of everything going on, but not for you. ^8b3fe9
 
@@ -24,7 +24,7 @@ You contribute to the lifeblood of the city, producing goods and services for th
 
 The city is chaos, a swarming mass without form or direction, unless you command them and direct them. ^3cd500
 
-### [[Playbooks/Remnant|Remnant, The Outsider]]
+### [[_Remnant (OLD)|Remnant, The Outsider]]
 
 The city is a maelstrom to the senses, utterly foreign to you in its ways and norms and traditions.  ^80cf5c
 

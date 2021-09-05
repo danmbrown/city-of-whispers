@@ -1,6 +1,7 @@
 [Home](../index.md) | [List of Playbooks](../index.md#Playbooks)
 
 # Conduit
+## The Connector
 Favored Attribute: Network
 
 > *The city is the greatest marketplace in the world for goods and information but without you, people wouldn't find each other to make such exchanges.*

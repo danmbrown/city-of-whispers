@@ -1,6 +1,7 @@
 [Home](../index.md) | [List of Playbooks](../index.md#Playbooks)
 
 # Wellspring
+## The Maven
 Favored Attribute: Lore
 
 >*The city is a vast library of knowledge, and a small piece of it is yours, but yours alone.*

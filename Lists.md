@@ -99,7 +99,7 @@ Factions are described with a Type, a Status, and a Complication. These descript
 | 6 | Beasts of burden | Abundant commodity | Armaments |
 | 7 | Anonymous leadership | Hierarchical command structure | Loosely-organized cells |
 | 8 | Anonymous membership | Long history | Secretive |
-| 9 | Unique information |  |  |
+| 9 | Unique information | Traditional |  |
 | 10 |  |  |  |
 
 <a id="neighborhoods"></a>

@@ -1,6 +1,7 @@
 [Home](../index.md) | [List of Playbooks](../index.md#Playbooks)
 
 # Clamor
+## The Dabbler
 Favored Attribute: Lore
 
 > *The city is your laboratory, and you study everything that comes through it -- a dilettante whose curiosity is matched only by your persistence.*

@@ -19,8 +19,12 @@ Craftsperson
 3. XX Persuaders - Person who changes people's minds
 
 
+The city's excrement
+Someone who maintains the infrastructure of the city
+
+
 ### Apparatus, The Watcher
-[[Playbooks/Apparatus]]
+[[Skyline]]
 The city is a great machine, an intricate connection of cogs and wheels ever ticking through infinite calculations. It would be easy to lose track of everything going on, but not for you.
 ### Clamor, The Dabbler
 [[Playbooks/Clamor]]
@@ -38,7 +42,6 @@ You contribute to the lifeblood of the city, producing goods and services for th
 [[Playbooks/Pillar]]
 The city is chaos, a swarming mass without form or direction, unless you command them and direct them.
 ### Remnant, The Outsider
-[[Playbooks/Remnant]]
 The city is a maelstrom to the senses, utterly foreign to you in its ways and norms and traditions. 
 ### Vault, The Patron
 [[Playbooks/Vault]]

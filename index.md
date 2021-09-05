@@ -49,14 +49,19 @@ Exploring the city’s grim secrets and iniquitous aspects; Managing political a
 
 <a id="Playbooks"></a>
 ### Playbooks
-The exact nature of your occupation is immaterial to the city. The city only concerns itself with how you contribute to its vitality. Do you produce goods for others to consume? Do you hold essential knowledge? Do you encourge denizens to meet and transact? Do you exert a modicum of order over the denizens? Then you do not just live in the city, you are part of it.
+The exact nature of your occupation is immaterial to the city. The city only concerns itself with how you contribute to its vitality. 
 
-- [Apparatus](Playbooks/Apparatus.md)
-- [Clamor](Playbooks/Clamor.md)
-- [Conduit](Playbooks/Conduit.md)
-- [Crossroads](Playbooks/Crossroads.md)
-- [Foundry](Playbooks/Foundry.md)
-- [Pillar](Playbooks/Pillar.md)
-- [Remnant](Playbooks/Remnant.md)
-- [Vault](Playbooks/Vault.md)
-- [Wellspring](Playbooks/Wellspring.md)
+Do you produce goods for others to consume? Do you hold essential knowledge? Do you encourage denizens to meet and transact? Do you exert a modicum of order over the denizens? 
+
+Yes? Then you do not just live in the city, you are part of it.
+
+- [Apparatus](Apparatus.md), The Sustainer
+- [Clamor](Playbooks/Clamor.md), The Dabbler
+- [Conduit](Playbooks/Conduit.md), The Connector
+- [Crossroads](Playbooks/Crossroads.md), The Painkiller
+- [Foundry](Playbooks/Foundry.md), The Producer
+- [Pillar](Playbooks/Pillar.md), The Enforcer
+- [Remnant](Remnant.md), The Discarded
+- [Skyline](Skyline.md), The Watcher
+- [Vault](Playbooks/Vault.md), The Patron
+- [Wellspring](Playbooks/Wellspring.md), The Maven

@@ -1,6 +1,7 @@
 [Home](../index.md) | [List of Playbooks](../index.md#Playbooks)
 
 # Vault
+## The Patron
 Favored Attribute: Network
 
 >*The city hums with activity, but without your patronage, it would come to a screeching halt.*

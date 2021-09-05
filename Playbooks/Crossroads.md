@@ -1,6 +1,7 @@
 [Home](../index.md) | [List of Playbooks](../index.md#Playbooks)
 
 # Crossroads
+## The Painkiller
 Favored Attribute: Sway
 
 >*The city overwhelms its inhabitants and you offer them an escape, providing idle distractions and temporary confections, or more permanent remedies to what ails them.*
