@@ -137,22 +137,18 @@ A neighborhood may have multiple functions but generally only one Standing. Roll
 
 ### Aspects (d20)
 
-1. Narrow alleyways
-2. Extensive underground network
-3. Large main thoroughfare
-4. Vehicles and mounts prohibited
-5. Integrated with natural surroundings
-6. Layered and terraced
-7. Outdoor public spaces
-8. Large park
-9. Two parallel arteries with park in between
-10. Local public transportation system
-11. Converted buildings
-12. Surrounded by walls
-13. Public works
-14. Ruins
-15. 
-
+| d10 | 1-2 | 3-4 | 5-6 |
+| :-: | --- | --- | --- |
+| 1 | Narrow alleyways | Converted buildings | Circles |
+| 2 | Extensive underground network | Surrounded by walls |  |
+| 3 | Large main thoroughfare | Pubic works |  |
+| 4 | Vehicles and mounts prohibited | Ruins |  |
+| 5 | Integrated with natural surroundings | Twisty streest |  |
+| 6 | Layered and terraced | Organized around landmark or monument |  |
+| 7 | Outdoor public spaces | Surrounded by water |  |
+| 8 | Large park or garden | Recently flooded |  |
+| 9 | Two parallel arteries with park in between | Museum or library |  |
+| 10 | Local public transportation system | Dead-end streets |  |
 
 
 ## <a id="rumors"></a>Rumors
