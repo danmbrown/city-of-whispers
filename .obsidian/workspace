@@ -12,20 +12,7 @@
             "file": "Lists.md",
             "mode": "source"
           }
-        },
-        "group": "e31c51ebe2cba55c"
-      },
-      {
-        "id": "480e4c2691aaac09",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Lists.md",
-            "mode": "preview"
-          }
-        },
-        "group": "e31c51ebe2cba55c"
+        }
       }
     ],
     "direction": "vertical"

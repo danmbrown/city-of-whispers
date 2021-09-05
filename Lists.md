@@ -135,20 +135,20 @@ A neighborhood may have multiple functions but generally only one Standing. Roll
 | 9 | Depressed or Decaying |
 | 10 | Derelict or Ruined |
 
-### Aspects (d20)
+### Aspects (d6 + d10)
 
-| d10 | 1-2 | 3-4 | 5-6 |
+|  | 1-2 | 3-4 | 5-6 |
 | :-: | --- | --- | --- |
 | 1 | Narrow alleyways | Converted buildings | Circles |
-| 2 | Extensive underground network | Surrounded by walls |  |
-| 3 | Large main thoroughfare | Pubic works |  |
-| 4 | Vehicles and mounts prohibited | Ruins |  |
-| 5 | Integrated with natural surroundings | Twisty streest |  |
-| 6 | Layered and terraced | Organized around landmark or monument |  |
-| 7 | Outdoor public spaces | Surrounded by water |  |
-| 8 | Large park or garden | Recently flooded |  |
-| 9 | Two parallel arteries with park in between | Museum or library |  |
-| 10 | Local public transportation system | Dead-end streets |  |
+| 2 | Tunnels | Surrounded by walls | Tall buildings |
+| 3 | Large main thoroughfare | Pubic works | Stadium or theater |
+| 4 | Vehicles and mounts prohibited | Ruins | Critters and pests |
+| 5 | Integrated with natural surroundings | Twisty streets | Greenery |
+| 6 | Layered and terraced | Organized around landmark or monument | Plaza or courtyard |
+| 7 | Outdoor public spaces | Surrounded by water | Stairs or ramps |
+| 8 | Large park or garden | Recently flooded | Bridges or overpasses |
+| 9 | Two parallel arteries with park in between | Museum or library | Aqueduct |
+| 10 | Local public transportation system | Dead-end streets | Fortifications |
 
 
 ## <a id="rumors"></a>Rumors
@@ -210,7 +210,7 @@ If you need a rumor, roll 2d20 and 2d6. The d20s describe the actor and their ac
 | 17 | Discover (1-3 Item) (4-5 Location) (6 Person) |
 | 18 | Ally with (1-3 Person) (4-6 Group) |
 | 19 | Hide in/a (1-3 Item) (4-5 Location) (6 Person) |
-| 20 | Guard (1-2 Item) (3 Location) (4-6) Person |
+| 20 | Guard (1-2 Item) (3 Location) (4-6 Person) |
 
 #### Details (d6)
 
