@@ -55,13 +55,13 @@ Do you produce goods for others to consume? Do you hold essential knowledge? Do 
 
 Yes? Then you do not just live in the city, you are part of it.
 
-- [Apparatus](Apparatus.md), The Sustainer
+- [Apparatus](Playbooks/Apparatus.md), The Sustainer
 - [Clamor](Playbooks/Clamor.md), The Dabbler
 - [Conduit](Playbooks/Conduit.md), The Connector
 - [Crossroads](Playbooks/Crossroads.md), The Painkiller
 - [Foundry](Playbooks/Foundry.md), The Producer
 - [Pillar](Playbooks/Pillar.md), The Enforcer
-- [Remnant](Remnant.md), The Discarded
-- [Skyline](Skyline.md), The Watcher
+- [Remnant](Playbooks/Remnant.md), The Discarded
+- [Skyline](Playbooks,Skyline.md), The Watcher
 - [Vault](Playbooks/Vault.md), The Patron
 - [Wellspring](Playbooks/Wellspring.md), The Maven
