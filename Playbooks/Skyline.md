@@ -4,7 +4,7 @@
 ## The Watcher
 Favored Attribute: Network
 
->*The city is a great machine, an intricate connection of cogs and wheels ever ticking through infinite calculations. It would be easy to lose track of everything going on, but not for you.*
+>*The city is a great chessboard, an ever-shifting flow of moves and counter-moves: strategem, maneuvers, and gambits. It would be easy to lose track of everything going on, but not for you.*
 
 
 ## Moves
@@ -17,15 +17,15 @@ You have a 4-segment clock called Prep. When you **Get Something**, you may mark
 ### See the Connections 
 *(Improvement to Observe Someone)*
 
-When you Observe Someone, you may ask "Who are they connected to?" regardless of what you roll.
+When you **Observe Someone**, you may ask "Who are they connected to?" regardless of what you roll.
 
 ### An Eye on the Machine 
 *(Alternate Attribute)*
 
-When you put your Ear to the Ground you may roll with Network.
+When you put your **Ear to the Ground** you may roll with Network.
 
 ### The Big Picture
-When you Get Your Bearings you may always ask "How does this neighborhood connect to ____________?" regardless of the other questions you ask.
+When you **Get Your Bearings** you may always ask "How does this neighborhood connect to ____________?" regardless of the other questions you ask.
 
 ### Well-Placed Connection
 You know someone in a high place among the local authorities. Your starting Favor with that person is -1. Whenever you like, but no more than once per session, roll with Favor. You may spend an Asset to roll with +1. On a hit, hold 1. On 7-9, reduce Favor by one.

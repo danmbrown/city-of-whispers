@@ -31,7 +31,7 @@ You can act, sing, play an instrument, or otherwise entertain a live audience. W
 ### Den of Amusement
 You own, run, or manage a club where people go to relax or escape. Where is it located? What does it serve? What is the clientele like? You have a scheme with Productivity +1.
 
-When you Meet Someone New, you may add "They are a customer" to the list of Shared Experiences. If you pick this, you may also add them as a Tie.
+When you **Meet Someone New**, you may add "They are a customer" to the list of Shared Experiences. If you pick this, you may also add them as a Tie.
 
 Select one drawback:
 

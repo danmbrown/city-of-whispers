@@ -25,10 +25,14 @@ When you apply this knowledge to a problem, roll +Lore. If the problem clearly b
 - Engineering
 - Healing and Surgery
 
-### Improve Ear to the Ground
-When you put your **Ear to the Ground**, the GM will always tell you something about your niche, regardless of your roll.
+### Studied Awareness
+*(Improve Ear to the Ground)*
 
-### Improve Get Something
+When you put your **Ear to the Ground**, the GM will always tell you something about the community focused on your niche, regardless of your roll.
+
+### Academic Background
+*(Improve Get Something)*
+
 You have a **Curriculum Vitae** track of 3 boxes. When you **Get Something** related to your niche, you may mark a box instead of a History or Demand to bump your result one tier. When you do, describe a flashback about your ongoing research in that area.
 
 ### Sage for Hire

@@ -1,7 +1,7 @@
 [Home](../index.md) | [List of Playbooks](../index.md#Playbooks)
 
 # Pillar
-## The Leader
+## The Enforcer
 Favored Attribute: Sway
 
 > *The city is chaos, a swarming mass without form or direction, unless you command them and direct them.*
