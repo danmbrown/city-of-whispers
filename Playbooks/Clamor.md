@@ -11,15 +11,16 @@ Favored Attribute: Lore
 ### Perceptive 
 *(Improvement to Appraise Circumstances)*
 
-When you Appraise Circumstances involving a faction or a neighborhood, on a hit you may rewrite one of the target's tags.
+When you **Appraise Circumstances** involving a faction or a neighborhood, on a hit you may rewrite one of the target's tags.
 
 ### Inquisitive 
 *(Improvement to Sample the Sights & Sounds)*
 
-### Like the Back of Your Hand 
-*(Alternate Attribute)*
+When 
 
-When you Get Your Bearings, you may roll with Lore instead of Environs.
+
+### 
+
 
 ### Generalist
 When you recall an obscure fact or bit of trivia, roll +Lore. On a hit, the information is correct and relevant. Take +1 forward to the next move using that information. On 7-9, pick one compromise.
@@ -39,7 +40,7 @@ Note on the map where the laboratory is, and pick two aspects that describe it:
 - Remote
 - Ill-Equipped
 
-When you conduct an experiment or do research or build something in your laboratory, add a fact about your work and roll +Aspects. On a hit, the fact is, in fact, not true. On 10+, pick a consequence.
+When you conduct an experiment or do research or build something in your laboratory, add a fact about your work and roll +Aspects (lower is better). On a hit, the fact is, in fact, not true. On 10+, pick a consequence.
 
 **Consequences**
 - The work has a temporary effect on you

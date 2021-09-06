@@ -16,7 +16,7 @@
 ### Transit (Environs)
 When you travel to another neighborhood, and it is new to you or you need to get there unnoticed or you need to get there fast, roll +Environs unless you have a connection with that neighborhood.
 
-If you have a connection to the destination neighborhood, you may pick a Consequence or mark Heat to arrive uneventfully.
+If you have a connection to the destination neighborhood, you may pick a Consequence or mark Heat to get there.
 
 If you’re entering a place you’re not allowed in, you must Take a Big Risk.
 
@@ -42,14 +42,14 @@ If you’re already in a dangerous situation, or have been noticed by a threat, 
 - **10+** The situation passes, but it costs you. The Magistrate will tell you what.
 - **7 - 9** Mark Heat to let the situation pass uneventfully, or get swept up and take +1 forward to Take a Big Risk.
 
-### Get Your Bearings (Environs)
-When you take a moment to get the lay of the land, you may ask one question. If you pick a reaction or have a connection to the neighborhood, you may ask a second question. If you use anything you learn you may take +1 to either Travel or Steer Clear.
+### Get Your Bearings
+When you take a moment to get the lay of the land, you may ask one question. If you pick a reaction or have a connection to the neighborhood, you may ask a second question. If you use anything you learn you may take +1 to either **Transit** or **Steer Clear**.
 
 #### Questions
 - Where is the best place to hide?
+- Where is [specific person or establishment or landmark] located?
 - Where is the best source of __________?
-- Where should I be looking for the greatest threat?
-- Where should I be looking for the best opportunity?
+- What direction should I avoid?
 - What is the best way through this area?
 
 #### Reactions
@@ -85,7 +85,7 @@ When you take time to study the situation to see what’s really going on, roll 
 - What happened here recently?
 
 ### Sample the Sights & Sounds 
-When you try something new -- for example, tasting food, listening to music, seeing artwork -- describe your experience. If someone invited you to try it, take +1 forward to your next Social Interaction move. If not, you may add a fact about the experience. You may also pick 1 to clear one Heat:
+When you try something new -- for example, tasting food, listening to music, seeing artwork -- describe your experience. If someone invited you to try it, take +1 forward to your next Social Interaction with them. If not, you may add a fact about the experience. You may also pick 1 to clear one Heat:
 
 - Your reaction offends the people around you
 - You become obsessed with it

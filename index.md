@@ -62,6 +62,6 @@ Yes? Then you do not just live in the city, you are part of it.
 - [Foundry](Playbooks/Foundry.md), The Producer
 - [Pillar](Playbooks/Pillar.md), The Enforcer
 - [Remnant](Playbooks/Remnant.md), The Discarded
-- [Skyline](Playbooks,Skyline.md), The Watcher
+- [Skyline](Playbooks/Skyline.md), The Watcher
 - [Vault](Playbooks/Vault.md), The Patron
 - [Wellspring](Playbooks/Wellspring.md), The Maven
