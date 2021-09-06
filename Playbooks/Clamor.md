@@ -39,12 +39,16 @@ Note on the map where the laboratory is, and pick two aspects that describe it:
 - Unsafe
 - Remote
 - Ill-Equipped
+- Infested
 
-When you conduct an experiment or do research or build something in your laboratory, add a fact about your work and roll +Aspects (lower is better). On a hit, the fact is, in fact, not true. On 10+, pick a consequence.
+When you conduct an experiment or do research or build something in your laboratory, **write a belief** about your work and roll +Aspects (lower is better). On a hit, the belief is, in fact, not true. On 10+, pick a consequence.
+
+You may spend 2 Assets to remove one aspect from the laboratory.
 
 **Consequences**
 - The work has a temporary effect on you
 - Add the aspect Damaged to your laboratory
+- Add another aspect to your laboratory
 - Mark Heat
 
 ## Ties & Secrets

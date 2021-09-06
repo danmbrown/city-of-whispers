@@ -85,7 +85,7 @@ When you take time to study the situation to see what’s really going on, roll 
 - What happened here recently?
 
 ### Sample the Sights & Sounds 
-When you try something new -- for example, tasting food, listening to music, seeing artwork -- describe your experience. If someone invited you to try it, take +1 forward to your next Social Interaction with them. If not, you may add a fact about the experience. You may also pick 1 to clear one Heat:
+When you try something new -- for example, tasting food, listening to music, seeing artwork -- describe your experience. If someone invited you to try it, take +1 forward to your next Social Interaction with them. If not, you may **add a belief** about the experience. You may also pick 1 to clear one Heat:
 
 - Your reaction offends the people around you
 - You become obsessed with it

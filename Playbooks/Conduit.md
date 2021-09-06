@@ -12,15 +12,15 @@ Favored Attribute: Network
 ### Connector 
 *(Improvement to Meet Someone New)*
 
-When you Meet Someone New, in lieu of answering a question you may instead offer to facilitate an introduction to someone important to them.
+When you **Meet Someone New**, in lieu of answering a question you may instead offer to facilitate an introduction to someone important to them.
 
 ### Smooth Talker
 *(Improvement to Negotiate)*
 
-When you Negotiate, they pick two Weak Responses.
+When you **Negotiate**, they pick two Weak Responses.
 
 ### Create a Diversion
-When you spread a rumor to create a distraction after you Reveal a Secret, roll +Network. On a hit, you may avoid marking Heat. On a 10+, you may offer them two Reactions to pick from.
+When you spread a rumor to create a distraction after you **Reveal a Secret**, roll +Network. On a hit, you may avoid marking Heat. On a 10+, you may limit the Reactions they can pick from: offer them two.
 
 ### Know Someone
 When you need someone in your current neighborhood with a particular skill, expertise, or knowledge, roll +Network.
@@ -31,7 +31,7 @@ On a hit, you know where to find them. On a 7-9, pick 1.
 - Their expertise has been compromised.
 - They need convincing to help you.
 
-### "Trade Tongue"
+### Trade Tongue
 You speak a local dialect specific to trading or commerce. Pick two descriptors for the dialect. When you **Observe Someone**, you may freely ask, "Do they speak the Trade Tongue?" When interacting with someone who speaks the Trade Tongue, roll with advantage.
 
 **Descriptors**
