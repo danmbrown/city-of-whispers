@@ -33,7 +33,7 @@ You know shortcuts through the city. When you **Transit**, you may pick a Conseq
 When you **Get Your Bearings**, you may always ask one of the questions from the **Appraise Circumstances** list.
 
 ### Old City Knowledge
-You are familiar with previous incarnations of the city. **Write a belief** about an older version of the city. When you use this belief, you may immediately replace it with another.
+You are familiar with previous incarnations of the city. **Write a belief** about an older version of the city. When this belief is proven wrong, you may immediately replace it with another.
 
 ### Crew (Group)
 You manage or work with a crew responsible for the Municipal Works. Their responsibility matches your Municipal Works Expertise. Identify their territory (3  adjacent neighborhoods). When you call on your crew to provide support, describe what you need them to do to help you out. You may take +1 forward if it's in their territory and +1 forward if it aligns with their expertise. Otherwise, mark 1 Heat to get +1 to your roll.

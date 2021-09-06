@@ -21,7 +21,7 @@ When you **Observe Someone** you may always ask one of these questions:
 ### Irresistible Offer
 *(Alternate Attribute)*
 
-When you Get Something, you may roll with Sway instead of Network.
+When you **Get Something**, you may roll with Sway instead of Network.
 
 ### Perform
 *(Improvement to Apply Pressure)*

@@ -9,7 +9,7 @@ Favored Attribute: Environs
 ## Moves
 
 ### Tools of the Trade (Required)
-You are a builder or craftsperson or professional who provides a good or service to the city. What is it? You have **tools** related to your craft with three uses. You may mark a use to Use Asset.
+You are a builder or craftsperson or professional who provides a good or service. What is it? You have **tools** related to your craft with three uses. You may mark a use to **Use Asset**.
 
 ### Inspiration
 *(Improvement to Sample the Sights and Sounds)*
@@ -24,7 +24,7 @@ You've seen most corners of the city. When you **Get Your Bearings**, you may al
 ### A Nose for Opportunity
 *(Improvement to Ear to the Ground)*
 
-Whenever you put your **Ear to the Ground**, the Magistrate will always tell you about a new opportunity related to your craft
+Whenever you put your **Ear to the Ground**, the Magistrate will always tell you about a new opportunity related to your craft.
 
 ### Works
 You have a factory or mill or shop or office (scheme with Productivity 0) that produces goods or services related to your craft. Where is it located? What does it produce? What's it called? 

@@ -41,7 +41,7 @@ Note on the map where the laboratory is, and pick two aspects that describe it:
 - Ill-Equipped
 - Infested
 
-When you conduct an experiment or do research or build something in your laboratory, **write a belief** about your work and roll +Aspects (lower is better). On a hit, the belief is, in fact, not true. On 10+, pick a consequence.
+When you conduct an experiment or do research or build something in your laboratory, **write a belief** about your work and roll +Aspects (lower is better). On a hit, the belief is challenged -- mark it. On 10+, pick a consequence.
 
 You may spend 2 Assets to remove one aspect from the laboratory.
 

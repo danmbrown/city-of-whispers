@@ -152,6 +152,9 @@ When you meet someone new and want to explore a possible connection, describe ho
 - Who can vouch for you?
 - Tell me something about yourself few people know.
 
+### Use Belief
+When you have a relevant belief and you would like to use it, you may roll with advantage. If any of the dice show a 1 or 2 – regardless of the outcome of the move – the belief is challenged. Mark it. Next time you use it, if you roll a 1 or 2, it is proven wrong. You may continue to hold the belief, but you may not use it to buff your rolls.
+
 <a id="Scheme-Moves"></a>
 ## Scheme Moves
 
