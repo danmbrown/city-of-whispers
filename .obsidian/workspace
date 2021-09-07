@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Playbooks/Clamor.md",
+                "file": "Moves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,8 +122,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "32b82a63066a6254",
+  "active": "ba34624fe70267e9",
   "lastOpenFiles": [
+    "Moves.md",
     "Playbooks/Clamor.md",
     "Playbooks/Apparatus.md",
     "Playbooks/Remnant.md",
@@ -131,7 +132,6 @@
     "Playbooks/Foundry.md",
     "Playbooks/Crossroads.md",
     "Playbooks/Conduit.md",
-    "Moves.md",
     "ListofMoves.md",
     "index.md"
   ]

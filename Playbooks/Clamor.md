@@ -32,7 +32,7 @@ When you recall an obscure fact or bit of trivia, roll +Lore. On a hit, the info
 - You mixed up two aspects of the information.
 
 
-#### Laboratory
+### Laboratory
 Note on the map where the laboratory is, and pick two aspects that describe it:
 - Secret
 - Shared

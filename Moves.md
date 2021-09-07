@@ -316,10 +316,12 @@ If you do not roll as well as you would like, you may opt to leverage your secre
 > Says Donatella, "You think you know so much. My love for Arvel is long buried. I will tell you the location, but for your impudence, we will split the treasure 70-30."
 
 ### Reveal a Secret
-When you reveal a secret to someone, mark Heat. Lose the Tie if it's about the person you're talking to. 
+When you reveal a secret to someone, mark Heat. If the secret is about the person you're talking to, **mark the secret** and **lose the Tie** with them. 
 
 - With a Social Interaction Move, resolve the original move, but they may pick one additional Reaction from the list below.
 - In other circumstances, they may pick one Reaction from the list below.
+
+Follow the fiction to determine if the secret becomes public knowledge. If it does, erase it.
 
 #### Reactions
 - They flee
@@ -331,26 +333,26 @@ When you reveal a secret to someone, mark Heat. Lose the Tie if it's about the p
 <a id="Risky-Moves"></a>
 ## Risky Moves
 
-### Use Magic
-When you tap into your connection to magic, describe what you hope to accomplish through your aesthetic. The Magistrate will assign a complexity. If the complexity is equal to or less than your max, roll +1 if you have a connection to the neighborhood or -2 if you do not. You may not use secrets or facts to buff this roll. 
+### Use Power
+When you tap into your connection to magic, technology, or other mysterious power, describe what you hope to accomplish. The Magistrate will assign a complexity. If the complexity is equal to or less than your max, roll. You may take +1 if you have a connection to the neighborhood or some other advantage or -2 if you do not.
 
 - **12+** You achieve your goal flawlessly.
 - **10+** Pick 1 Consequence.
-- **7-9** Pick 1 Consequence and the spell backfires.
+- **7-9** Pick 1 Consequence and the power backfires.
 
 #### Consequences
 - Lesser effect in Area and/or Duration
 - Lesser effect in Scale and/or Intensity
-- The spell affects targets beyond the one intended
-- The spell has an unexpected side effect (if you make this permanent, you do not need to roll Backfire)
-- The spell has the opposite effect (if you pick this, you do not need to roll Backfire)
+- The power affects targets beyond the one intended
+- The power has an unexpected side effect (if you make this permanent, you do not need to roll Backfire)
+- The power has the opposite effect (if you pick this, you do not need to roll Backfire)
 
 ### Backfire (lower is better)
-When the spell backfires, roll +complexity. **Note**: Rolling lower is better.
+When the power backfires, roll +complexity. **Note**: Rolling lower is better.
 
 - **10+** Pick 1 Outcome and mark two Heat.
 - **7 - 9** Pick 2 Outcomes.
-- **6-** The magic dissipates harmlessly.
+- **6-** The power dissipates harmlessly.
 
 #### Outcomes
 - Take yourself out of the scene; How do you become incapacitated?
