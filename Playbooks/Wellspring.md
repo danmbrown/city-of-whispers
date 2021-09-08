@@ -30,13 +30,13 @@ When you apply this knowledge to a problem, roll +Lore. If the problem clearly b
 
 When you put your **Ear to the Ground**, the GM will always tell you something about the community focused on your niche, regardless of your roll.
 
-### Academic Background
+### Deep Study
 *(Improve Get Something)*
 
-You have a **Curriculum Vitae** track of 3 boxes. When you **Get Something** related to your niche, you may mark a box instead of a History or Demand to bump your result one tier. When you do, describe a flashback about your ongoing research in that area.
+You have a **Curriculum Vitae** track of 3 boxes. When you **Get Something** related to your niche, you may mark a Curriculum Vitae box instead of a History or Demand to bump your result one tier. When you do, describe a flashback about your ongoing research in that area.
 
 ### Sage for Hire
-When you offer your services to someone, ask them what answer or solution they need. Establish a Project track with 5 boxes. Mark Heat to mark 2 boxes at the outset. When you have time to pursue the Project, roll +Lore. On a hit, mark the Project. On 7-9, ask the Magistrate what it cost you to make progress. When you complete the Project, select the reward:
+When you offer your services to someone, ask them what answer or solution they need. Establish a Project track with 5 boxes. Mark Heat to mark 2 boxes at the outset. When you have time to pursue the Project, roll +Lore. On a hit, mark the Project. On 7-9, ask the Magistrate what it cost you to make progress. When you complete the Project, **add a belief** and select a reward:
 
 **Rewards**
 - Clear Heat track
@@ -49,3 +49,4 @@ You know a secret related to your niche about the city itself or the world at la
 
 ## Secrets
 ## Recuperation
+- When you make use of your special knowledge, clear two heat.

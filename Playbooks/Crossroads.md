@@ -63,3 +63,4 @@ Pick two people with whom you have a Tie. For each, pick what you know about the
 - Orym, a business associate
 
 ## Recuperation
+- When you share an intimate moment with someone and you can be yourself, clear two heat.

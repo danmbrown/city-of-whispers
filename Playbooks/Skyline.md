@@ -48,3 +48,4 @@ Pick two people with whom you have a Tie. For each, pick what you know about the
 - Ivedro, a mentor
  
 ## Recuperation
+- When you recognize the relationship between two unrelated entities -- people or factions -- clear two heat.

@@ -49,3 +49,4 @@ Pick two people with whom you have a Tie. For each, pick what you know about the
 - Saphielle, your apprentice
 
 ## Recuperation
+- When you admire the craftsmanship of another's work, clear two heat.

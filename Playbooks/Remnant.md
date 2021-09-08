@@ -20,3 +20,4 @@ Favored Attribute: Environs
 
 ## Secrets
 ## Recuperation
+- When you stay out of sight for a long period of time, clear two heat.

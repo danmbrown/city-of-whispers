@@ -56,3 +56,4 @@ On a hit, they do it but pick 1 outcome or mark Heat. On 10+, increase Loyalty b
 
 ## Secrets
 ## Recuperation
+- When you exert your authority, clear two heat.
