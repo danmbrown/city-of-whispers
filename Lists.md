@@ -227,3 +227,9 @@ If you need a rumor, roll 2d20 and 2d6. The d20s describe the actor and their ac
 | 6 | A noble's house | The arrival of an important personage |
 
 
+## City Elements
+
+1. One lit doorway on a street of otherwise darkened doorways
+2. Fog-filled alleyways
+3. Faint whistling sound from just up ahead
+4. 
