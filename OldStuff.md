@@ -13,3 +13,98 @@ When you do not roll as well as you would like and you use a secret to gain the 
 
 #### Informants
 You have a network of people who provide useful information on the goings on of the city. When you use a move that gains information (Appraise Circumstances, Get Something, or Observe Someone) you may mark your Informants as if marking a History or Demand. When you do, describe the informant and increase your result by one tier. Every time you mark an Informant, roll -Informants marked. On a hit, you don't raise any suspicion. On a 10+, you may clear one mark. You may reset the informants marks by spending one resource. 
+
+
+### Apply Pressure
+When you threaten someone to get them to violate their duty, responsibility, or norms, name your request and your threat or leverage.
+
+If they have a clear reason to think your threat is not credible, they may choose to go along with you or not. They may also pick a consequence.
+
+Otherwise, they think you *might* pose a threat: roll +Influence.
+
+On a hit, they do believe you pose a credible threat:
+
+- If they face a credible threat from another party as well, they pick a **strong reaction** and a **consequence**.
+- Otherwise:
+
+**10+** They pick a weak reaction and a consequence
+**7 - 9** They pick a strong reaction and a consequence
+
+#### Strong Reactions 
+How they respond to your threat
+-   Make counter-offer (Do you accept?)
+-   Make counter-threat (Is their threat credible?)
+-   Demand proof of threat (Do you follow through?)
+-   Demand something of value (Do you give it to them?)
+-   Comply, but partially or maliciously
+
+If you meet any counter or demand, they comply.
+
+#### Weak Reactions 
+How they respond to your threat
+-   Comply with request
+-   Buy time
+-   Demand being left alone
+-   Request time or resources to comply
+-   Attempt escape
+
+#### Consequences 
+How they will act long-term
+
+-   None
+-   Intend revenge or betrayal
+-   Disappear
+-   Spread rumor
+-   Threaten harm
+-   Remain loyal to a fault
+
+### Negotiate
+When you offer something of value in exchange for something important, name your request and your offer.
+
+If they have any reason not to comply or find value in your offer, they pick a strong reaction.
+
+Otherwise, roll +Influence. On a hit, they find your offer enticing.
+
+- **10+** They pick a weak reaction.
+- **7 - 9** They pick a strong reaction.
+
+#### Strong Reaction
+-   Demand more compensation
+-   Demand alternative compensation
+-   Also demand a favor from you
+-   Offer something less important
+
+#### Weak Reaction
+-   Accept offer
+-   Demand explanation
+-   Demand time or resources to comply
+-   Offer something less important without compensation
+
+
+### Convince or Provoke or Request
+When you plead with someone to act by changing their mind using wit or reason or passion, name your request and explain your perspective.
+
+If they fear reprisal or cost for acting, you may Apply Pressure or Negotiate, or roll Convince/Provoke at a disadvantage.
+
+Otherwise, roll +Influence. On a hit they acknowledge your perspective or are moved by your words.
+
+- **10+** They are convinced; they pick a Reaction.
+- **7 - 9** They are merely intrigued; they pick one Reaction and one Consequence.
+
+#### Reactions
+-   Act until it costs them, hurts them, or they get a better offer
+-   Avoid acting, but give up another piece of information
+-   Demand resources or compensation (money, favor, etc.) to act
+-   Demand someone trustworthy vouch for you
+-   Demand ensuring their safety
+-   Avoid acting, but offer to stick around till it’s done
+-   Change the terms of the request
+-   Comply but in a diminished, indirect, or malicious way (holding something back)
+
+#### Consequences
+- Ask why
+- Remain suspicious or skeptical of you
+- Demand to be left alone
+- Reveal your intentions or actions to someone else
+- Change your reputation with them
+- Become a loyal follower, perhaps to a fault

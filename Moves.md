@@ -204,99 +204,59 @@ When you meet the last Demand, describe your epilogue.
 
 <a id="Social-Interaction-Moves"></a>
 ## Social Interaction Moves
+Social Interaction Moves relate to a specific named individual. When characters interact with someone in particular, use one of the Social Interaction Moves. When they are dealing with the denizens of the city more generally, 
+
 You may not mark Histories or City Demands to affect this roll, but you may use Secrets.
 
-### Apply Pressure
-When you threaten someone to get them to violate their duty, responsibility, or norms, name your request and your threat or leverage.
+### Push to Act or Inform
+When you demand someone *provide information* or *take action*, describe what you're demanding and whether you're offering **peril**, **value**, or **logic**.
 
-If they have a clear reason to think your threat is not credible, they may choose to go along with you or not. They may also pick a consequence.
+If you're demanding they act against their self-interest, or reveal something that betrays their interests, pick a **strong reaction**.
 
-Otherwise, they think you *might* pose a threat: roll +Influence.
+If you're demanding they act against or betray another's interest, roll based on your offer of peril, value, or logic
 
-On a hit, they do believe you pose a credible threat:
+If it's not clear whether the request involves betrayal, roll with advantage.
 
-- If they face a credible threat from another party as well, they pick a **strong reaction** and a **consequence**.
-- Otherwise:
-
-**10+** They pick a weak reaction and a consequence
-**7 - 9** They pick a strong reaction and a consequence
+On a hit, pick a **weak reaction**. On 7-9, they pick a **consequence**.
 
 #### Strong Reactions 
-How they respond to your threat
--   Make counter-offer (Do you accept?)
--   Make counter-threat (Is their threat credible?)
--   Demand proof of threat (Do you follow through?)
--   Demand something of value (Do you give it to them?)
--   Comply, but partially or maliciously
+- They make counter-offer (Do you accept?)
+- They demand proof of your offer (Do you follow through?)
+- They demand something of greater value (Do you give it to them?)
+- They demand a favor (Do you agree?)
+- Comply, but partially or maliciously
 
 If you meet any counter or demand, they comply.
 
-#### Weak Reactions 
-How they respond to your threat
--   Comply with request
--   Buy time
--   Demand being left alone
--   Request time or resources to comply
--   Attempt escape
+#### Weak Reactions: Demanding Action
+- They act and pick a Consequence
+- They act until it costs them, hurts them, or they get a better offer
+- They avoid acting, but give up some information
+- They demand resources or compensation (money, favor, etc.) to act
+- They demand someone trustworthy vouch for you
+- They demand ensuring their safety
+- They avoid acting, but offer to stick around till it’s done
+- They comply but in a diminished, indirect, or malicious way (holding something back)
+- They reject the offer but offer something less important
 
-#### Consequences 
-How they will act long-term
-
--   None
--   Intend revenge or betrayal
--   Disappear
--   Spread rumor
--   Threaten harm
--   Remain loyal to a fault
-
-### Negotiate
-When you offer something of value in exchange for something important, name your request and your offer.
-
-If they have any reason not to comply or find value in your offer, they pick a strong reaction.
-
-Otherwise, roll +Influence. On a hit, they find your offer enticing.
-
-- **10+** They pick a weak reaction.
-- **7 - 9** They pick a strong reaction.
-
-#### Strong Reaction
--   Demand more compensation
--   Demand alternative compensation
--   Also demand a favor from you
--   Offer something less important
-
-#### Weak Reaction
--   Accept offer
--   Demand explanation
--   Demand time or resources to comply
--   Offer something less important without compensation
-
-
-### Convince or Provoke
-When you plead with someone to act by changing their mind using wit or reason or passion, name your request and explain your perspective.
-
-If they fear reprisal or cost for acting, you may Apply Pressure or Negotiate, or roll Convince/Provoke at a disadvantage.
-
-Otherwise, roll +Influence. On a hit they acknowledge your perspective or are moved by your words.
-
-- **10+** They are convinced; they pick a Reaction.
-- **7 - 9** They are merely intrigued; they pick one Reaction and one Consequence.
-
-#### Reactions
--   Act until it costs them, hurts them, or they get a better offer
--   Demand resources or compensation (money, favor, etc.) to act
--   Demand someone trustworthy vouch for you
--   Demand ensuring their safety
--   Avoid acting, but offer to stick around till it’s done
--   Change the terms of the request
--   Comply but in a diminished, indirect, or malicious way
+#### Weak Reactions: Demanding Information
+- They provide the information and pick a Consequence
+- They demand resources or compensation (money, favor, etc.) to act
+- They demand someone trustworthy vouch for you
+- They demand ensuring their safety
+- They provide some information but it is partially incomplete or incorrect
+- They reject the offer but offer something less important
 
 #### Consequences
--   Remain suspicious or skeptical of you
--   Demand to be left alone
--   Reveal your intentions to someone else
--   Change your reputation with them
--   Become a loyal follower, perhaps to a fault
+- Demand explanation
+- Remain suspicious or skeptical of you
+- Demand to be left alone
+- Reveal your intentions or actions to someone else
+- Become a loyal follower, perhaps to a fault
+- Intend revenge or betrayal
+- Disappear
+- Spread a rumor about you
+
 
 <a id="Secrets-Moves"></a>
 ## Secrets Moves
