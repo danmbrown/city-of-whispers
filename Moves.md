@@ -85,8 +85,9 @@ When you take time to study the situation to see what’s really going on, roll 
 - What happened here recently?
 
 ### Sample the Sights & Sounds 
-When you try something new -- for example, tasting food, listening to music, seeing artwork -- describe your experience. If someone invited you to try it, take +1 forward to your next Social Interaction with them. If not, you may **add a belief** about the experience. You may also pick 1 to clear one Heat:
+When you try something new -- for example, tasting food, listening to music, seeing artwork -- describe your experience. If someone invited you to try it, take +1 forward to your next Social Interaction with them. If not, you may **add a belief** about the experience. You may also pick 1 Reaction to clear one Heat:
 
+**Reactions**
 - Your reaction offends the people around you
 - You become obsessed with it
 - You have an adverse physiological response to it
@@ -208,14 +209,14 @@ Social Interaction Moves relate to a specific named individual. When characters 
 
 You may not mark Histories or City Demands to affect this roll, but you may use Secrets.
 
-### Push to Act or Inform
-When you demand someone *provide information* or *take action*, describe what you're demanding and whether you're offering **peril**, **value**, or **logic**.
+### Direct Someone to Act
+When you demand someone *provide information* they have access to or *take an action* they are capable of taking, describe what you're demanding and whether you're offering **peril**, **value**, or **logic**.
 
 If you're demanding they act against their self-interest, or reveal something that betrays their interests, pick a **strong reaction**.
 
-If you're demanding they act against or betray another's interest, roll based on your offer of peril, value, or logic
+If you're demanding they act against or betray another's interest, roll based on your offer of peril, value, or logic.
 
-If it's not clear whether the request involves betrayal, roll with advantage.
+NPCs will react to each offer type differently. The Magistrate will indicate whether you should roll with Sway, Heat, or Sway + Heat. 
 
 On a hit, pick a **weak reaction**. On 7-9, they pick a **consequence**.
 
@@ -229,13 +230,12 @@ On a hit, pick a **weak reaction**. On 7-9, they pick a **consequence**.
 If you meet any counter or demand, they comply.
 
 #### Weak Reactions: Demanding Action
-- They act and pick a Consequence
-- They act until it costs them, hurts them, or they get a better offer
+- They comply with your request and pick a Consequence
+- They comply with your request until it costs them, hurts them, or they get a better offer
 - They avoid acting, but give up some information
-- They demand resources or compensation (money, favor, etc.) to act
-- They demand someone trustworthy vouch for you
-- They demand ensuring their safety
-- They avoid acting, but offer to stick around till it’s done
+- They request resources or compensation (money, favor, etc.) to comply
+- They request ensuring their safety
+- They avoid complying, but offer to stick around till it’s done
 - They comply but in a diminished, indirect, or malicious way (holding something back)
 - They reject the offer but offer something less important
 

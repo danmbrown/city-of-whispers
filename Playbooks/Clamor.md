@@ -13,13 +13,14 @@ Favored Attribute: Lore
 
 When you **Appraise Circumstances** involving a faction or a neighborhood, on a hit you may rewrite one of the target's tags.
 
-### Inquisitive 
+### Open to New Experiences 
 *(Improvement to Sample the Sights & Sounds)*
 
-When 
+When you **Sample the Sights and Sounds**, you may clear 2 Heat when you pick a Reaction.
 
 
-### 
+### I've Studied Your Kind
+When you **Meet Someone New**, you may roll with Lore instead of Network.
 
 
 ### Generalist
@@ -51,6 +52,9 @@ You may spend 2 Assets to remove one aspect from the laboratory.
 - Add another aspect to your laboratory
 - Mark Heat
 
+### Inquisitive
+When you Use Power to study a mystery, roll with +2.
+
 ## Ties & Secrets
 Pick two people with whom you have a Tie. For each, pick what you know about them from the [[Lists#Area of Insight]]
 - Fritz, a former colleague
@@ -60,3 +64,5 @@ Pick two people with whom you have a Tie. For each, pick what you know about the
 - Sarle, a government official
 
 ## Recuperation
+- You may always clear 1 Heat when you lay low for a day. Ask the Magistrate what you missed.
+- When you come upon an interesting mystery in the city, clear one Heat.

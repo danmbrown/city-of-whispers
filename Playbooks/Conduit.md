@@ -41,6 +41,9 @@ You speak a local dialect specific to trading or commerce. Pick two descriptors 
 - Offensive (if they hear it, they judge you harshly)
 - Proximity (it requires speakers to be a certain distance from each other)
 
+### Grease the Wheels
+When you Use Power to facilitate a transaction, roll with +2.
+
 ## Ties & Secrets
 Pick two people with whom you have a Tie. For each, pick what you know about them from the [[Lists#Area of Insight]]
 
@@ -52,3 +55,5 @@ Pick two people with whom you have a Tie. For each, pick what you know about the
 
 
 ## Recuperation
+- You may always clear 1 Heat when you lay low for a day. Ask the Magistrate what you missed.
+- When you find out what makes someone interesting, you may clear 1 Heat.

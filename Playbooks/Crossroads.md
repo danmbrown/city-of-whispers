@@ -53,6 +53,9 @@ Whenever you like, but no more than once per session, you may indulge the entour
 If Zeal gets to -3, your entourage needs a new passion. Reset Zeal to 0, and select a new Passion.
 If Zeal gets to +3, your entourage starts attracting unwanted attention. Mark 2 heat to lower the Zeal to 0.
 
+### Delivers the Goods
+When you Use Power to meet someone's desire, roll with +2.
+
 ## Ties & Secrets
 Pick two people with whom you have a Tie. For each, pick what you know about them from the [[Lists#Area of Insight]]
 
