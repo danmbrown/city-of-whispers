@@ -66,3 +66,4 @@ Pick two people with whom you have a Tie. For each, pick what you know about the
 ## Recuperation
 - You may always clear 1 Heat when you lay low for a day. Ask the Magistrate what you missed.
 - When you come upon an interesting mystery in the city, clear one Heat.
+- When you share an intimate moment with someone and you can observe the beauty of the city without studying it, clear 1 Heat.
