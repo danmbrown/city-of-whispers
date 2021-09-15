@@ -39,7 +39,7 @@ You are familiar with previous incarnations of the city. **Write a belief** abou
 You manage or work with a crew responsible for the Municipal Works. Their responsibility matches your Municipal Works Expertise. Identify their territory (3  adjacent neighborhoods). When you call on your crew to provide support, describe what you need them to do to help you out. You may take +1 forward if it's in their territory and +1 forward if it aligns with their expertise. Otherwise, mark 1 Heat to get +1 to your roll.
 
 ### Tune the Machine
-When you Use Power to fix something broken in the city, roll with +2.
+When you Use Power to fix something broken, roll with +2.
 
 ## Ties & Secrets
 Pick two people with whom you have a Tie. For each, pick what you know about them from the [[Lists#Area of Insight]]

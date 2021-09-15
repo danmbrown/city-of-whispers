@@ -54,7 +54,7 @@ If Zeal gets to -3, your entourage needs a new passion. Reset Zeal to 0, and sel
 If Zeal gets to +3, your entourage starts attracting unwanted attention. Mark 2 heat to lower the Zeal to 0.
 
 ### Delivers the Goods
-When you Use Power to meet someone's desire, roll with +2.
+When you Use Power to understand someone, roll with +2.
 
 ## Ties & Secrets
 Pick two people with whom you have a Tie. For each, pick what you know about them from the [[Lists#Area of Insight]]
@@ -67,5 +67,5 @@ Pick two people with whom you have a Tie. For each, pick what you know about the
 
 ## Recuperation
 - You may always clear 1 Heat when you lay low for a day. Ask the Magistrate what you missed.
-- When you meet someone's desire, clear 1 Heat.
+- When you help someone meet their desire, clear 1 Heat.
 - When you share an intimate moment with someone and you can be yourself, clear 1 Heat.

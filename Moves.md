@@ -298,13 +298,13 @@ When you tap into your connection to magic, technology, or other mysterious powe
 
 - **12+** You achieve your goal flawlessly.
 - **10+** Pick 1 Consequence.
-- **7-9** Pick 1 Consequence and the power backfires.
+- **7-9** Pick 2 Consequences OR the power **backfires**.
 
 #### Consequences
 - Lesser effect in Area and/or Duration
 - Lesser effect in Scale and/or Intensity
 - The power affects targets beyond the one intended
-- The power has an unexpected side effect (if you make this permanent, you do not need to roll Backfire)
+- The power has an unexpected temporary side effect
 - The power has the opposite effect (if you pick this, you do not need to roll Backfire)
 
 ### Backfire (lower is better)
@@ -315,9 +315,10 @@ When the power backfires, roll +complexity. **Note**: Rolling lower is better.
 - **6-** The power dissipates harmlessly.
 
 #### Outcomes
-- Take yourself out of the scene; How do you become incapacitated?
-- Harm allies; What happens to them?
+- Take yourself out of the scene: How do you become incapacitated?
+- Harm allies: What happens to them?
 - Cause collateral damage: What happens to buildings and property around you?
+- Trigger permanent side effect: How are you different?
 
 ### Take a Big Risk
 When you do something dangerous, felonious, violent, or imprudent describe your desired outcome, mark Heat and roll + most relevant attribute. Outcomes should align with the fiction. You probably can’t defeat a trained warrior in one-on-one combat even if you roll a **10+**.

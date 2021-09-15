@@ -42,7 +42,7 @@ You speak a local dialect specific to trading or commerce. Pick two descriptors 
 - Proximity (it requires speakers to be a certain distance from each other)
 
 ### Grease the Wheels
-When you Use Power to facilitate a transaction, roll with +2.
+When you Use Power to aid in movement, roll with +2.
 
 ## Ties & Secrets
 Pick two people with whom you have a Tie. For each, pick what you know about them from the [[Lists#Area of Insight]]

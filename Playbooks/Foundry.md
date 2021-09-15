@@ -39,6 +39,9 @@ Select one Drawback:
 - Idiosyncratic or quirky (cross off one of the options under Use Asset)
 - Borderline illegal/immoral (pick a Success on any hit)
 
+### Some Assembly Required
+When you Use Power to build something (but not conjure something), roll with +2.
+
 ## Ties & Secrets
 Pick two people with whom you have a Tie. For each, pick what you know about them from the [[Lists#Area of Insight]]
 
@@ -49,4 +52,6 @@ Pick two people with whom you have a Tie. For each, pick what you know about the
 - Saphielle, your apprentice
 
 ## Recuperation
-- When you admire the craftsmanship of another's work, clear two heat.
+- You may always clear 1 Heat when you lay low for a day. Ask the Magistrate what you missed.
+- When you spend uninterrupted time working on your craft without complications or external pressure, clear 1 Heat.
+- When you share an intimate moment with someone and admire the craftsmanship of their work, clear 1 heat.

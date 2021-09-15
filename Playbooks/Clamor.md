@@ -53,7 +53,7 @@ You may spend 2 Assets to remove one aspect from the laboratory.
 - Mark Heat
 
 ### Inquisitive
-When you Use Power to study a mystery, roll with +2.
+When you Use Power to see clearly or reveal hidden things, roll with +2.
 
 ## Ties & Secrets
 Pick two people with whom you have a Tie. For each, pick what you know about them from the [[Lists#Area of Insight]]

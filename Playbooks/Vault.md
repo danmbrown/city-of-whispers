@@ -21,6 +21,8 @@ Start every session with one Asset marked. If you already have an Asset marked, 
 
 ### Investing in the Future
 
+### 
+When you Use Power to gauge distance, volume, or other quantity, roll with +2.
 
 
 ## Secrets
