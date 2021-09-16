@@ -38,6 +38,8 @@ Spend hold 1-for-1 to:
 
 If Favor reaches -3, the well-placed connection demands something in return for maintaining the alliance. Something big.
 
+### 
+When you **Use Power** to protect yourself, roll with +2.
 
 ## Ties & Secrets
 Pick two people with whom you have a Tie. For each, pick what you know about them from the [[Lists#Area of Insight]]

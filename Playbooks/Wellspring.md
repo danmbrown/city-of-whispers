@@ -47,6 +47,9 @@ When you offer your services to someone, ask them what answer or solution they n
 ### Hidden Truth
 You know a secret related to your niche about the city itself or the world at large. No more than once per session, you may use this secret as you would any other secret. When you use it, mark one segment of a 4-segment clock. When all segments are marked, the revealed secret makes a change to the world.
 
+### 
+When you **Use Power** to heal someone or repair an object, roll with +2.
+
 ## Secrets
 ## Recuperation
 - When you make use of your special knowledge, clear two heat.

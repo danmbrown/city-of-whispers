@@ -54,7 +54,7 @@ On a hit, they do it but pick 1 outcome or mark Heat. On 10+, increase Loyalty b
 - Insinuated: Members of the group have undercover positions throughout the city.
 
 ### 
-When you Use Power to protect someone, roll with +2.
+When you **Use Power** to enhance your movement, roll with +2.
 
 ## Secrets
 ## Recuperation

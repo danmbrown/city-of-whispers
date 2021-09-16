@@ -18,6 +18,9 @@ Favored Attribute: Environs
 
 ### Dregs (Group)
 
+###
+When you Use Power to 
+
 ## Secrets
 ## Recuperation
 - When you stay out of sight for a long period of time, clear two heat.
