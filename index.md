@@ -51,14 +51,12 @@ Exploring the city’s grim secrets and iniquitous aspects; Managing political a
 ### Playbooks
 The exact nature of your occupation is immaterial to the city. The city only concerns itself with how you contribute to its vitality. 
 
-Do you produce goods for others to consume? Do you hold essential knowledge? Do you encourage denizens to meet and transact? Do you exert a modicum of order over the denizens? 
+Do you produce goods for others to consume? Do you hold essential knowledge? Do you encourage folks to meet and transact? Do you demand order from the denizens? Do you keep others entertained? Or perhaps you keep them on their toes?
 
 Yes? Then you do not just live in the city, you are part of it.
 
-
 | [Character Keeper](https://docs.google.com/spreadsheets/d/19W-ZXKJxQCVb6nVTRmpdg9w0xR8xBqS2c9Jb80rYUrk/edit?usp=sharing) |
 | --- |
-
 
 - [Apparatus](Playbooks/Apparatus.md), The Sustainer
 - [Clamor](Playbooks/Clamor.md), The Dabbler

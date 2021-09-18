@@ -100,14 +100,14 @@
   "active": "14fc58d5cc7f0dce",
   "lastOpenFiles": [
     "index.md",
-    "Moves.md",
-    "Playbooks/Apparatus.md",
-    "Playbooks/Clamor.md",
     "Playbooks/Wellspring.md",
+    "Playbooks/Foundry.md",
+    "Playbooks/Crossroads.md",
     "Playbooks/Pillar.md",
-    "Playbooks/Vault.md",
-    "Playbooks/Skyline.md",
     "Playbooks/Remnant.md",
-    "Playbooks/Conduit.md"
+    "Playbooks/Skyline.md",
+    "Playbooks/Apparatus.md",
+    "Moves.md",
+    "Playbooks/Clamor.md"
   ]
 }
