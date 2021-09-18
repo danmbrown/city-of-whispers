@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "38d150ec9e647bd6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "index.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "14fc58d5cc7f0dce",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Moves.md",
+            "file": "index.md",
             "mode": "source"
           }
         }
@@ -108,9 +97,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "38d150ec9e647bd6",
+  "active": "14fc58d5cc7f0dce",
   "lastOpenFiles": [
     "index.md",
+    "Moves.md",
     "Playbooks/Apparatus.md",
     "Playbooks/Clamor.md",
     "Playbooks/Wellspring.md",
@@ -118,7 +108,6 @@
     "Playbooks/Vault.md",
     "Playbooks/Skyline.md",
     "Playbooks/Remnant.md",
-    "Playbooks/Conduit.md",
-    "Playbooks/Crossroads.md"
+    "Playbooks/Conduit.md"
   ]
 }
