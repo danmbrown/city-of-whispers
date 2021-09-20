@@ -57,6 +57,7 @@ Yes? Then you do not just live in the city, you are part of it.
 
 | | [Character Keeper](https://docs.google.com/spreadsheets/d/19W-ZXKJxQCVb6nVTRmpdg9w0xR8xBqS2c9Jb80rYUrk/edit?usp=sharing) |  |
 | --- | --- | --- |
+|  |  |  |
 
 - [Apparatus](Playbooks/Apparatus.md), The Sustainer
 - [Clamor](Playbooks/Clamor.md), The Dabbler
