@@ -42,7 +42,10 @@ Select one drawback:
 - Scrutiny (pick a Success on any hit)
 
 ### Entourage
-You are surrounded by supporters, fans, frequent patrons, and others who hold you in high esteem, or think they can get something from you. Pick one Passion for the group and start it at Zeal 0. After a roll, you may engage their help. Describe how they help you and roll with Zeal. On a hit, you may bump the result one tier. On a 7-9, lower Zeal by 1.
+You are surrounded by supporters, fans, frequent patrons, and others who hold you in high esteem, or think they can get something from you. Pick one Passion for the group and start it at Zeal 0. 
+
+After rolling for any move, you may engage their help. Describe how they help you and roll with Zeal. On a hit, you may bump the result one tier. On a 7-9, lower Zeal by 1.
+
 Whenever you like, but no more than once per session, you may indulge the entourage's passion to increase Zeal.
 
 **Passions**
@@ -54,7 +57,7 @@ If Zeal gets to -3, your entourage needs a new passion. Reset Zeal to 0, and sel
 If Zeal gets to +3, your entourage starts attracting unwanted attention. Mark 2 heat to lower the Zeal to 0.
 
 ### Delivers the Goods
-When you Use Power to understand someone, roll with +2.
+When you **Use Power** to enhance your physical prowess, roll with +2.
 
 ## Ties & Secrets
 Pick two people with whom you have a Tie. For each, pick what you know about them from the [[Lists#Area of Insight]]

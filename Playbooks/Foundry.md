@@ -40,7 +40,7 @@ Select one Drawback:
 - Borderline illegal/immoral (pick a Success on any hit)
 
 ### Some Assembly Required
-When you Use Power to build something (but not conjure something), roll with +2.
+When you **Use Power** to produce a small, unique, and useful item, roll with +2.
 
 ## Ties & Secrets
 Pick two people with whom you have a Tie. For each, pick what you know about them from the [[Lists#Area of Insight]]
