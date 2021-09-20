@@ -56,7 +56,7 @@ Whenever you like, but no more than once per session, you may indulge the entour
 If Zeal gets to -3, your entourage needs a new passion. Reset Zeal to 0, and select a new Passion.
 If Zeal gets to +3, your entourage starts attracting unwanted attention. Mark 2 heat to lower the Zeal to 0.
 
-### Delivers the Goods
+### Deliver the Goods
 When you **Use Power** to enhance your physical prowess, roll with +2.
 
 ## Ties & Secrets

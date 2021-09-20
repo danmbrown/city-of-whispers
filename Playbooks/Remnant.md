@@ -27,7 +27,7 @@ You've been recruited by a crime boss, ne'er-do-well, scoundrel, or schemer. At 
 ### Dregs (Group)
 You run with a group of other outcasts.
 
-### Distractions
+### Distract
 When you **Use Power** to manifest illusions, deceptions, or distractions, roll with +2.
 
 ## Secrets
