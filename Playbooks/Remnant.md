@@ -44,6 +44,14 @@ You have an ability called Tinker that starts at -1. You have a lockpick set wit
 ### Distract
 When you **Use Power** to manifest illusions, deceptions, or distractions, roll with +2.
 
-## Secrets
+## Ties & Secrets
+Pick two people with whom you have a Tie. For each, pick what you know about them from the [[Lists#Area of Insight]]
+
+
 ## Recuperation
+- You may always clear 1 Heat when you lay low for a day. Ask the Magistrate what you missed.
+- When you deceive someone or make them think you're something you're not, clear 1 Heat.
+- When you share an intimate moment with someone and feel a sense of attachment, clear 1 heat.
+
+
 - When you stay out of sight for a long period of time, clear two heat.

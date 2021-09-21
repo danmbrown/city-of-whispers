@@ -29,9 +29,41 @@ If you haven't yet created the city, as you add elements, have the Magistrate as
 | 7 | Reversing | Natural | Collapse |
 | 8 | Devastating | Religious | Boom |
 
+<a id="beliefs"></a>
+## Beliefs
 
+| d12 | I believe... |
+| :-: | :-- |
+| 1 | My faction |
+| 2 | Another faction |
+| 3 | The nobility or aristocracy |
+| 4 | Local law enforcement |
+| 5 | The legal system |
+| 6 | Trade and commerce |
+| 7 | The municipal government |
+| 8 | The entire population of the city |
+| 9 | A force outside the city |
+| 10 | A divinity |
+| 11 | Magic or technology |
+| 12 | A particular famous or wealthy person |
 
-## <a id="secrets"></a>Secrets
+| d10 | has been... |
+| :-: | :-- |
+| 1 | Corrupted (by) |
+| 2 | Infiltrated (by) |
+| 3 | Sympathetic (to) |
+| 4 | Deceiving |
+| 5 | Antagonistic (to) |
+| 6 | Ambitious |
+| 7 | Supportive (of) |
+| 8 | Influencing (who?) |
+| 9 | Conspiring (with/to) |
+| 10 | Harmful (to) |
+| 11 | Revealing (what to whom?) |
+| 12 | Stealing |
+
+<a id="secrets"></a>
+## Secrets
 Every "secret" consists of a Tie (a person the character knows) and an area of insight -- what they know about that person. When using a secret about a person, it must relate to the area of insight.
 
 ### Area of Insight (d10)

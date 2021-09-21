@@ -59,6 +59,11 @@ When you **Get Something**, you may add â€œmeet them at a place they designateâ€
 ### Quick
 When you **Use Power** to enhance your movement, roll with +2.
 
-## Secrets
+## Ties & Secrets
+Pick two people with whom you have a Tie. For each, pick what you know about them from the [[Lists#Area of Insight]]
+
+
 ## Recuperation
-- When you exert your authority, clear two heat.
+- You may always clear 1 Heat when you lay low for a day. Ask the Magistrate what you missed.
+- When you exert your authority over a large group, clear 1 Heat.
+- When you share an intimate moment with someone and make sense of the chaos you observed, clear 1 heat.

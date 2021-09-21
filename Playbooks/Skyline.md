@@ -50,4 +50,6 @@ Pick two people with whom you have a Tie. For each, pick what you know about the
 - Ivedro, a mentor
  
 ## Recuperation
-- When you recognize the relationship between two unrelated entities -- people or factions -- clear two heat.
+- You may always clear 1 Heat when you lay low for a day. Ask the Magistrate what you missed.
+- When you learn something new about a faction, clear 1 Heat.
+- When you share an intimate moment with someone and make sense of the political machinations, clear 1 heat.
