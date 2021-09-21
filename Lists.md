@@ -87,6 +87,7 @@ Every character belongs to a faction. The nature of that connection can be stron
 Factions are described with a Type, a Status, and a Complication. These descriptors influence the fiction, but have no mechanical bearing. Factions also have one or more Aspects that describe advantages or assets. These aspects may be used when rolling [Faction Moves](Moves.md#Faction-Moves).
 
 ### Type (d10)
+
 | d10 | Type of Faction |
 | :-: | :-- |
 | 1 | Sect - United by religion or creed |
@@ -102,6 +103,7 @@ Factions are described with a Type, a Status, and a Complication. These descript
 
 
 ### Status (d8)
+
 | d8 | Faction Status |
 | :-: | :-- |
 | 1 | Fragmenting or Splintering |
@@ -113,7 +115,9 @@ Factions are described with a Type, a Status, and a Complication. These descript
 | 7 | Stagnating or Becoming Irrelevant |
 | 8 | Unfocusing or Dispersing |
 
+
 ### Complications (d10)
+
 | d10 | Complications |
 | :-: | :-- |
 | 1 | Influence is dwindling |
