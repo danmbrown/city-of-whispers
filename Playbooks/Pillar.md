@@ -53,6 +53,9 @@ On a hit, they do it but pick 1 outcome or mark Heat. On 10+, increase Loyalty b
 - Diverse: The group is made up of lots of different kinds of people.
 - Insinuated: Members of the group have undercover positions throughout the city.
 
+### On the Spot
+When you **Get Something**, you may add “meet them at a place they designate” to the list of options.
+
 ### Quick
 When you **Use Power** to enhance your movement, roll with +2.
 

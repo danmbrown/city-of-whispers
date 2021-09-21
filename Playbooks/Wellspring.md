@@ -47,6 +47,15 @@ When you offer your services to someone, ask them what answer or solution they n
 ### Hidden Truth
 You know a secret related to your niche about the city itself or the world at large. No more than once per session, you may use this secret as you would any other secret. When you use it, mark one segment of a 4-segment clock. When all segments are marked, the revealed secret makes a change to the world.
 
+### Storyteller
+You have an attribute called Performance. It starts at -1. When you rely on your niche to tell a story, declare your objective and roll + Performance. On 10+ you achieve your objective; on 7-9, mark Heat to achieve your objective or clear 1 Heat or choose a different objective.
+- Impress someone
+- Distract someone  
+- Draw a crowd's attention  
+- Inspire an ally (+1 forward)
+- Help someone recuperate (they clear 1 Heat)
+
+
 ### Mend
 When you **Use Power** to heal someone or repair an object, roll with +2.
 

@@ -41,6 +41,9 @@ You speak a local dialect specific to trading or commerce. Pick two descriptors 
 - Offensive (if they hear it, they judge you harshly)
 - Proximity (it requires speakers to be a certain distance from each other)
 
+### Black Market
+When you **Get Something** that is especially difficult or illegal, after rolling, start a 6-segment Contraband clock. On 7-9, mark 1 segment. On 6-, mark 3 segments. From now on, you may mark the clock instead of marking Heat. When you fill the clock, someone will stop at nothing to recover the item.
+
 ### Grease the Wheels
 When you **Use Power** to aid in movement, roll with +2.
 

@@ -32,7 +32,6 @@ When you recall an obscure fact or bit of trivia, roll +Lore. On a hit, the info
 - You remember an important part of the information too late.
 - You mixed up two aspects of the information.
 
-
 ### Laboratory
 Note on the map where the laboratory is, and pick two aspects that describe it:
 - Secret
@@ -51,6 +50,10 @@ You may spend 2 Assets to remove one aspect from the laboratory.
 - Add the aspect Damaged to your laboratory
 - Add another aspect to your laboratory
 - Mark Heat
+
+ 
+### Hidden Cache
+You have a Cache with 5 uses. If you have a connection with the neighborhood, you may mark the Cache to retrieve a useful item.
 
 ### Inquisitive
 When you **Use Power** to see clearly or reveal hidden things, roll with +2.

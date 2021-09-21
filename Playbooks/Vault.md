@@ -21,6 +21,9 @@ Start every session with one Asset marked. If you already have an Asset marked, 
 
 ### Investing in the Future
 
+### Private Transportation
+ You have a special mode of transportation designed to get around the city most effectively. When you **Transit**, if you use it, you may roll with Network instead of Environs
+
 ### Keen Eye
 When you **Use Power** to gauge distance, volume, value, or other quantity, roll with +2.
 
