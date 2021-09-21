@@ -67,16 +67,18 @@ If you haven't yet created the city, as you add elements, have the Magistrate as
 Every "secret" consists of a Tie (a person the character knows) and an area of insight -- what they know about that person. When using a secret about a person, it must relate to the area of insight.
 
 ### Area of Insight (d10)
-1. Romantic liaisons
-1. Family circumstances
-1. Criminal connections
-1. Professional dealings
-1. Political alliances
-1. Immoral activities
-1. Illicit past
-1. Vices
-2. Beliefs outside mainstream
-3. Corrupt influences
+| d10 |  |
+| :-: | :-- |
+| 1 | Romantic liaisons |
+| 2 | Family circumstances |
+| 3 | Criminal connections |
+| 4 | Professional dealings |
+| 5 | Political alliances |
+| 6 | Immoral activities |
+| 7 | Illicit past |
+| 8 | Vices |
+| 9 | Beliefs outside mainstream |
+| 10 | Corrupt influences |
 
 
 ## <a id="factions"></a>Factions
@@ -85,39 +87,45 @@ Every character belongs to a faction. The nature of that connection can be stron
 Factions are described with a Type, a Status, and a Complication. These descriptors influence the fiction, but have no mechanical bearing. Factions also have one or more Aspects that describe advantages or assets. These aspects may be used when rolling [Faction Moves](Moves.md#Faction-Moves).
 
 ### Type (d10)
-1. Sect - United by religion or creed
-2. Family - United by familial commitments
-3. Enclave - United by ethnic or cultural commonalities
-5. Cabal - United by political views
-6. Company - Partnership in a commercial enterprise
-7. Guild - United by a craft
-8. Mission - United by a cause or calling
-9. Rank - United by common station or position
-10. Syndicate - Allied through corrupt business interest
-11. Union - United by common occupation
+| d10 |  |
+| :-: | :-- |
+| 1 | Sect - United by religion or creed |
+| 2 | Family - United by familial commitments |
+| 3 | Enclave - United by ethnic or cultural commonalities |
+| 4 | Cabal - United by political views |
+| 5 | Company - Partnership in a commercial enterprise |
+| 6 | Guild - United by a craft |
+| 7 | Mission - United by a cause or calling |
+| 8 | Rank - United by common station or position |
+| 9 | Syndicate - Allied through corrupt business interest |
+| 10 | Union - United by common occupation |
 
 
 ### Status (d8)
-1. Fragmenting or Splintering
-1. Dissolving or Shrinking
-1. Shifting or Redefining
-1. Consolidating or Fortifying
-1. Expanding or Acquiring
-1. Fronting or Imploding
-1. Stagnating or Becoming Irrelevant
-1. Unfocusing or Dispersing
+| d8 |  |
+| :-: | :-- |
+| 1 | Fragmenting or Splintering |
+| 2 | Dissolving or Shrinking |
+| 3 | Shifting or Redefining |
+| 4 | Consolidating or Fortifying |
+| 5 | Expanding or Acquiring |
+| 6 | Fronting or Imploding |
+| 7 | Stagnating or Becoming Irrelevant |
+| 8 | Unfocusing or Dispersing |
 
 ### Complications (d10)
-1. Influence is dwindling
-2. Membership is dwindling
-3. Losing confidence in leadership
-4. Infighting among leadership
-5. Threatened by rival
-6. Membership unaware of true intent
-7. Regimented bureaucracy
-8. Overwhelming demand for services
-9. Held knowledge is out of date or incorrect
-10. Loss of control over resource
+| d10 |  |
+| :-: | :-- |
+| 1 | Influence is dwindling |
+| 2 | Membership is dwindling |
+| 3 | Losing confidence in leadership |
+| 4 | Infighting among leadership |
+| 5 | Threatened by rival |
+| 6 | Membership unaware of true intent |
+| 7 | Regimented bureaucracy |
+| 8 | Overwhelming demand for services |
+| 9 | Held knowledge is out of date or incorrect |
+| 10 | Loss of control over resource |
 
 ### Aspects (d6 + d10)
 
@@ -264,4 +272,5 @@ If you need a rumor, roll 2d20 and 2d6. The d20s describe the actor and their ac
 1. One lit doorway on a street of otherwise darkened doorways
 2. Fog-filled alleyways
 3. Faint whistling sound from just up ahead
-4. 
+4. The smell of rat poison and sewage
+5. Religious graffiti on the side of a church
