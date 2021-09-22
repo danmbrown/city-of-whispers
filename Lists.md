@@ -8,6 +8,7 @@ These tables give players and the Magistrate the tools for building the connecti
 - [Factions](#factions)
 - [Neighborhoods](#neighborhoods)
 - [Rumors](#rumors)
+- [100 City Elements](#100elements)
 
 <a id="backdrops"></a>
 ## Backdrops
@@ -271,7 +272,7 @@ If you need a rumor, roll 2d20 and 2d6. The d20s describe the actor and their ac
 | 5 | A government building | A festival parade |
 | 6 | A noble's house | The arrival of an important personage |
 
-
+<a id="100elements"></a>
 ## 100 City Elements
 
 1. One lit doorway on a street of otherwise darkened doorways
