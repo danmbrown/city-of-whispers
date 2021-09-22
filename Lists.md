@@ -69,6 +69,7 @@ If you haven't yet created the city, as you add elements, have the Magistrate as
 Every "secret" consists of a Tie (a person the character knows) and an area of insight -- what they know about that person. When using a secret about a person, it must relate to the area of insight.
 
 ### Area of Insight (d10)
+
 | d10 | Area of Insight |
 | :-: | :-- |
 | 1 | Romantic liaisons |
@@ -81,6 +82,7 @@ Every "secret" consists of a Tie (a person the character knows) and an area of i
 | 8 | Vices |
 | 9 | Beliefs outside mainstream |
 | 10 | Corrupt influences |
+
 
 <a id="factions"></a>
 ## Factions
