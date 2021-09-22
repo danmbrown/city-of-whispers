@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Magistrate.md",
+            "file": "index.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magistrate.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +110,7 @@
   },
   "active": "20c5d15d064c3bcc",
   "lastOpenFiles": [
+    "index.md",
     "Magistrate.md",
     "Moves.md",
     "Lists.md",
@@ -118,7 +119,6 @@
     "Playbooks/Remnant.md",
     "Playbooks/Pillar.md",
     "Playbooks/Conduit.md",
-    "Playbooks/Foundry.md",
-    "Playbooks/Crossroads.md"
+    "Playbooks/Foundry.md"
   ]
 }

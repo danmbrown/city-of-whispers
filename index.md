@@ -25,7 +25,7 @@ City-dwellers in a magical fantasy setting dealing with danger both political an
 
 ### Aim
 
-Explore the city; Overcome danger; Increase your standing in the city; Keep the secrets that need keeping -- all through uneasy or tense partnerships with the other characters
+Explore the city; Overcome danger; Earn some coin; Increase your standing; Keep the secrets that need keeping -- all through uneasy or tense partnerships with the other characters
 
 ### Tone
 
@@ -33,7 +33,7 @@ Largely dictated by the players, but leaning urban and merciless and conspirator
 
 ### Subject Matter
 
-Exploring the city’s grim secrets and iniquitous aspects; Managing political affiliations; Facing ethical challenges in the face of survival and standing
+Exploring the city’s grim secrets and iniquitous aspects; Managing political affiliations; Confronting ethical challenges in the face of survival and social standing
 
 ## Table of Contents
 
