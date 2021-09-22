@@ -193,9 +193,9 @@ A neighborhood may have multiple functions but generally only one Standing. Roll
 ## Rumors
 If you need a rumor, roll 2d20 and 2d6. The d20s describe the actor and their action. The d6s indicate the position of the actor -- whether the action is done or will be done or might be done. The second d6 adds detail to the action.
 
-### Actors (d20)
+### Who or what is the rumor about? (d20)
 
-| d20 | Actor |
+| d20 | Who |
 | :-: | :-- |
 | 1 | Your faction |
 | 2 | A rival faction |
@@ -218,15 +218,16 @@ If you need a rumor, roll 2d20 and 2d6. The d20s describe the actor and their ac
 | 19 | A magical force |
 | 20 | A natural force |
 
-### Position (d6)
 
-| d6 | Position |
+
+### What did/will/might they do? (d6 + d20 + d6)
+
+| d6 | Mood |
 | :-: | :-- |
 | 1-2 | Did |
 | 3-4 | Will |
 | 5-6 | Might |
 
-### Action (d20 + d6)
 
 | d20 | Action (d6) |
 | :-: | :-- |
@@ -251,7 +252,7 @@ If you need a rumor, roll 2d20 and 2d6. The d20s describe the actor and their ac
 | 19 | Hide in/a (1-3 Item) (4-5 Location) (6 Person) |
 | 20 | Guard (1-2 Item) (3 Location) (4-6 Person) |
 
-#### Details (d6)
+**Details (d6)**
 
 | d6 | Item | Person | Group |
 | :-: | :-- | :-- | :-- |
