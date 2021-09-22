@@ -9,7 +9,8 @@ These tables give players and the Magistrate the tools for building the connecti
 - [Neighborhoods](#neighborhoods)
 - [Rumors](#rumors)
 
-## <a id="backdrops"></a>Backdrops
+<a id="backdrops"></a>
+## Backdrops
 To set up your campaign, it may be useful to identify a backdrop, a recent event or happening that frames the action and position of the city. 
 
 Either before you create the city or afterward, roll a d8 three times, combining one word from each list. Discuss the resulting phrase and tease out what it means for your campaign.
@@ -43,20 +44,20 @@ If you haven't yet created the city, as you add elements, have the Magistrate as
 | 7 | The municipal government |
 | 8 | The entire population of the city |
 | 9 | A force outside the city |
-| 10 | A divinity |
+| 10 | A particular divinity |
 | 11 | Magic or technology |
 | 12 | A particular famous or wealthy person |
 
-| d10 | has been... |
+| d12 | is... |
 | :-: | :-- |
 | 1 | Corrupted (by) |
 | 2 | Infiltrated (by) |
 | 3 | Sympathetic (to) |
-| 4 | Deceiving |
+| 4 | Deceiving (whom?) |
 | 5 | Antagonistic (to) |
 | 6 | Ambitious |
 | 7 | Supportive (of) |
-| 8 | Influencing (who?) |
+| 8 | Influencing (whom?) |
 | 9 | Conspiring (with/to) |
 | 10 | Harmful (to) |
 | 11 | Revealing (what to whom?) |
@@ -80,8 +81,8 @@ Every "secret" consists of a Tie (a person the character knows) and an area of i
 | 9 | Beliefs outside mainstream |
 | 10 | Corrupt influences |
 
-
-## <a id="factions"></a>Factions
+<a id="factions"></a>
+## Factions
 Every character belongs to a faction. The nature of that connection can be strong or tenuous. Regardless, the player decides the actions of that faction using [Faction Moves](Moves.md#Faction-Moves).
 
 Factions are described with a Type, a Status, and a Complication. These descriptors influence the fiction, but have no mechanical bearing. Factions also have one or more Aspects that describe advantages or assets. These aspects may be used when rolling [Faction Moves](Moves.md#Faction-Moves).
@@ -143,8 +144,8 @@ Factions are described with a Type, a Status, and a Complication. These descript
 | 6 | Beasts of burden | Abundant commodity | Armaments |
 | 7 | Anonymous leadership | Hierarchical command structure | Loosely-organized cells |
 | 8 | Anonymous membership | Long history | Secretive |
-| 9 | Unique information | Traditional |  |
-| 10 |  |  |  |
+| 9 | Unique information | Traditional | Meritocracy |
+| 10 | Dogmatic | Sectarian | Authoritarian |
 
 <a id="neighborhoods"></a>
 ## Neighborhoods
@@ -187,8 +188,8 @@ A neighborhood may have multiple functions but generally only one Standing. Roll
 | 9 | Two parallel arteries with park in between | Museum or library | Aqueduct |
 | 10 | Local public transportation system | Dead-end streets | Fortifications |
 
-
-## <a id="rumors"></a>Rumors
+<a id="rumors"></a>
+## Rumors
 If you need a rumor, roll 2d20 and 2d6. The d20s describe the actor and their action. The d6s indicate the position of the actor -- whether the action is done or will be done or might be done. The second d6 adds detail to the action.
 
 ### Actors (d20)
@@ -271,10 +272,18 @@ If you need a rumor, roll 2d20 and 2d6. The d20s describe the actor and their ac
 | 6 | A noble's house | The arrival of an important personage |
 
 
-## City Elements
+## 100 City Elements
 
 1. One lit doorway on a street of otherwise darkened doorways
 2. Fog-filled alleyways
 3. Faint whistling sound from just up ahead
 4. The smell of rat poison and sewage
 5. Religious graffiti on the side of a church
+6. Cart blocking the street
+7. Overflowing trashcan
+8. Street hustlers scamming tourists
+9. Someone peering at a map, looking lost
+10. Steam rising from a grill in the ground
+11. Boarded up window with placards pasted on
+12. Stray domestic pet scavenging for food
+13. 
