@@ -56,7 +56,7 @@ If you haven't yet created the city, as you add elements, have the Magistrate as
 | 3 | Sympathetic (to) |
 | 4 | Deceiving (whom?) |
 | 5 | Antagonistic (to) |
-| 6 | Ambitious |
+| 6 | Seditious |
 | 7 | Supportive (of) |
 | 8 | Influencing (whom?) |
 | 9 | Conspiring (with/to) |

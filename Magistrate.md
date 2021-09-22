@@ -7,12 +7,12 @@
 
 
 ## Principles
--   Draw maps, leave blanks
 -   Address the characters, not the players
--   Embrace the fantastic
+-   Embrace the urban and the cosmopolitan
+-   Test their connection to the city
 -   Make a move that follows
 -   Never speak the name of your move
--   Give every monster life
+- Give every character a routine
 -   Name every person
 -   Ask questions and use the answers
 -   Be a fan of the characters
@@ -23,20 +23,21 @@
 
 
 ## Moves
--   Reveal a rival
+- Turn up the Heat
+-   Reveal a rival or a Tie
 -   Disrupt someone's routine
--   Threaten a powerful person's interest
--   Attract the attention of the city's denizens
--   Reveal a Tie
--   Use a monster, danger, or location move
+-   Make offers they can't refuse
+-   Take them to a new neighborhood
+-   Reveal a mysterious aspect of the city
+-   Issue a request from an unlikely place
+-   Attract unwanted attention -- the public, a rival faction, or a powerful person
 -   Reveal an unwelcome truth
 -   Show signs of an approaching threat
--   Deal damage
 -   Use up their resources
 -   Turn their move back on them
 -   Separate them
--   Give an opportunity that fits a class’ abilities
--   Show a downside to their class, race, or equipment
+-   Give an opportunity that fits their abilities
+-   Show a downside to their connection to the city
 -   Offer an opportunity, with or without cost
 -   Put someone in a spot
 -   Tell them the requirements or consequences and ask
