@@ -5,6 +5,7 @@ These tables give players and the Magistrate the tools for building the connecti
 
 - [Backdrops](#backdrops)
 - [Secrets](#secrets)
+- [Beliefs](#beliefs)
 - [Factions](#factions)
 - [Neighborhoods](#neighborhoods)
 - [Rumors](#rumors)
@@ -237,11 +238,11 @@ If you need a rumor, roll 2d20 and 2d6. The d20s describe the actor and their ac
 | 2 | Study (1-3 Item) (4-5 Location) (6 Event) |
 | 3 | Infiltrate (1-3 Location) (4 Group) (5-6 Event) |
 | 4 | Attack (1-2 Location) (3-5 Group) (6 Person) |
-| 5 | Destroy (1-3 Location) (4-6) Item |
+| 5 | Destroy (1-2 Location) (3-6 Item) |
 | 6 | Capture (Person) |
 | 7 | Assassinate (Person) |
 | 8 | Challenge (1-4 Person) (5-6 Group) |
-| 9 | Blackmail (1-3 Group) (4-6 Person) |
+| 9 | Blackmail (1-3 Person) (4-6 Group) |
 | 10 | Seek (1 Location) (2-3 Item) (4-5 Person) (6 Group) |
 | 11 | Arrive at (1-4 Location) (5-6 Event) |
 | 12 | Depart from (1-4 Location) (5-6 Event) |

@@ -37,6 +37,9 @@ Exploring the city’s grim secrets and iniquitous aspects; Managing political a
 
 ## Table of Contents
 
+### Getting Started
+- [Building the City and Creating Characters](Gen.md)
+
 ### Rules, Moves, and More
 - [Moves](Moves.md) ([List of all moves](ListofMoves.md))
 - [Rules](Rules.md)
