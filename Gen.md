@@ -3,7 +3,7 @@
 # Getting Started
 
 ## Establish the Contours of the City
-Take a city map template and add one of the listed elements. Cross out the element and pass the page to the next player. After everyone has taken a turn with the map, pass the paper around one more time so players may optionally add another element.
+Take a [**city map template**](city-of-whispers-map-templates.pdf) and add one of the listed elements. Cross out the element and pass the page to the next player. After everyone has taken a turn with the map, pass the paper around one more time so players may optionally add another element.
  
 ## Determine the Backdrop
 *Optional*
