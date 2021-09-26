@@ -6,6 +6,18 @@ Favored Attribute: Sway
 
 >*The city overwhelms its inhabitants and you offer them an escape, providing idle distractions and temporary confections, or more permanent remedies to what ails them.*
 
+## Map Elements
+In your first session, add an element to the map that represents a hide-away or escape. Here are some ideas:
+
+- A rambling park
+- An underground tunnel system
+- A club off the beaten path 
+- A library
+- An old religious site
+
+At any time, you may mark Heat to add another element to the map.
+
+
 ## Moves
 
 ### Master of Fancies

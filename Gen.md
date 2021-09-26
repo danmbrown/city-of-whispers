@@ -1,3 +1,5 @@
+[Home](index.md) | [List of Playbooks](index.md#Playbooks)
+
 # Getting Started
 
 ## Establish the Contours of the City
@@ -34,12 +36,14 @@ Go around the table and select a neighborhood to be your faction's base of opera
 
 Then go around the table again and add a detail to the map related to your faction.
 
-## Write Beliefs and Select Ties
+## Write Beliefs and Secrets
 Your character starts with two beliefs and two Ties.
 
-You can write the beliefs on your own, or use the [**beliefs tables**](Lists.md#beliefs) to inspire you.
+Beliefs capture a fundamental understanding you have about the world and the people in it. They may be true, and if you rely on them too much you may  find out they're not. You can write the beliefs on your own, or use the [**beliefs tables**](Lists.md#beliefs) to inspire you.
 
-Select the Ties from your playbook, and then select or roll for what [**area of insight**](Lists.md#secrets) you have about the Tie.
+Ties are people that you know something about. When interacting with others, you can use the secret for leverage, but you may reveal the secret, and then face the consequences. Select the Ties from your playbook, and then select or roll for what [**secrets**](Lists.md#secrets) you have about the Tie.
 
 ## Introduce Yourselves and Determine Relationships
+Go around the table and introduce your character.
 
+Then, go around the table again and ask two of your Relationship questions. As players provide responses, the Magistrate should create a relationship map that illustrates the connections between the characters.

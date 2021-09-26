@@ -6,6 +6,17 @@ Favored Attribute: Lore
 
 > *The city is your laboratory, and you study everything that comes through it -- a dilettante whose curiosity is matched only by your persistence.*
 
+## Map Elements
+In your first session, add an element to the map that represents the city's diversity and variegated experience. Here are some ideas:
+
+- An ethnic neighborhood
+- A museum
+- A port
+- A bohemian or artists enclave
+- A theater
+
+At any time, you may mark Heat to add another element to the map.
+
 ## Moves
 
 ### Perceptive 

@@ -6,6 +6,20 @@ Favored Attribute: Lore
 
 >*The city is a great machine, an intricate connection of cogs and wheels ever ticking through infinite calculations. But every machine, even the great ones, need occasional winding, lubricating, and de-bugging.*
 
+## Map Elements
+In your first session, add an element to the map that represents the city's bureaucracy or complex interrelationships. Here are some ideas:
+
+- A marketplace
+- A university
+- A port
+- A government building
+- A meeting location for crime families
+
+At any time, you may mark Heat to add another element to the map.
+
+## Relationship Questions
+- 
+
 ## Moves
 
 ### Municipal Works Expertise (Required)

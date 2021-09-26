@@ -7,6 +7,17 @@ Favored Attribute: Network
 > *The city is the greatest marketplace in the world for goods and information but without you, people wouldn't find each other to make such exchanges.*
 
 
+## Map Elements
+In your first session, add an element to the map that represents a place where people meet up. Here are some ideas:
+
+- A historic plaza or park
+- A centrally-located cafe
+- A club
+- A high-end lunch spot
+- A pedestrian street
+
+At any time, you may mark Heat to add another element to the map.
+
 ## Moves
 
 ### Connector 
