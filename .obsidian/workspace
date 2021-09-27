@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gen.md",
+                "file": "Playbooks/Apparatus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,11 +108,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cf56548c7d2ae659",
+  "active": "14fc58d5cc7f0dce",
   "lastOpenFiles": [
+    "Playbooks/Apparatus.md",
     "Gen.md",
     "index.md",
-    "Playbooks/Apparatus.md",
     "Playbooks/Foundry.md",
     "Playbooks/Crossroads.md",
     "Playbooks/Conduit.md",

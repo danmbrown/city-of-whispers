@@ -18,7 +18,10 @@ In your first session, add an element to the map that represents the city's bure
 At any time, you may mark Heat to add another element to the map.
 
 ## Relationship Questions
-- 
+- Who informs me about one aspect of the city?
+- Who thinks I'm up to no good?
+- Who did I betray to the authorities?
+- Who knows that I committed a crime?
 
 ## Moves
 
