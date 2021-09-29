@@ -7,6 +7,17 @@ Favored Attribute: Network
 >*The city is a great chessboard, an ever-shifting flow of moves and counter-moves: strategem, maneuvers, and gambits. It would be easy to lose track of everything going on, but not for you.*
 
 
+## Map Elements
+In your first session, add an element to the map that represents a useful perspective or vantage. Here are some ideas:
+
+- A tall tower with a view of the city
+- A plaza where important people spend time
+- A lighthouse or tower
+- A museum
+- A natural formation within the city
+
+At any time, you may mark Heat to add another element to the map.
+
 ## Moves
 
 ### Always Prepared 

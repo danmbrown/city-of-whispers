@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Playbooks/Apparatus.md",
+            "file": "Playbooks/Vault.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Playbooks/Apparatus.md",
+                "file": "Playbooks/Vault.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,15 +110,15 @@
   },
   "active": "14fc58d5cc7f0dce",
   "lastOpenFiles": [
-    "Playbooks/Apparatus.md",
-    "Gen.md",
-    "index.md",
+    "Playbooks/Vault.md",
+    "Playbooks/Skyline.md",
+    "Playbooks/Remnant.md",
+    "Playbooks/Pillar.md",
     "Playbooks/Foundry.md",
     "Playbooks/Crossroads.md",
-    "Playbooks/Conduit.md",
-    "Playbooks/Clamor.md",
-    "Lists.md",
-    "Playbooks/Skyline.md",
-    "Magistrate.md"
+    "Playbooks/Wellspring.md",
+    "Playbooks/Apparatus.md",
+    "Gen.md",
+    "index.md"
   ]
 }

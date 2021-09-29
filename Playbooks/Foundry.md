@@ -6,6 +6,17 @@ Favored Attribute: Environs
 
 > *You contribute to the lifeblood of the city, producing goods and services for the use or benefit, enjoyment or satisfaction of others.*
 
+## Map Elements
+In your first session, add an element to the map that represents a place where the city produces goods or services. Here are some ideas:
+
+- A factory
+- A mill
+- A sweatshop
+- A storefront
+- An urban farm
+
+At any time, you may mark Heat to add another element to the map.
+
 ## Moves
 
 ### Tools of the Trade (Required)

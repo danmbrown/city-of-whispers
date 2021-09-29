@@ -6,6 +6,17 @@ Favored Attribute: Environs
 
 >*If the city is a giant living thing then you are its waste -- its sweat, its tears, and its ordure. You are a byproduct of its greatest efforts, but also essential to its ongoing health.*
 
+## Map Elements
+In your first session, add an element to the map that represent what's unwanted or undesirable. Here are some ideas:
+
+- A dump
+- A sewer system
+- A slum
+- The waste of a dangerous substance
+- Abandoned housing, destroyed after a disaster
+
+At any time, you may mark Heat to add another element to the map.
+
 ## Moves
 
 ### Shortcut

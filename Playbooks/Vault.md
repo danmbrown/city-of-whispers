@@ -6,6 +6,15 @@ Favored Attribute: Network
 
 >*The city hums with activity, but without your patronage, it would come to a screeching halt.*
 
+## Map Elements
+In your first session, add an element to the map that represents the city's wealth or former glory. Here are some ideas:
+
+- A monument to the city's (former) renown
+- A major financial institution
+- A club frequented by the aristocracy
+- A formerly wealthy neighborhood in transition
+
+At any time, you may mark Heat to add another element to the map.
 
 ## Moves
 ### Wealth and Influence (Required)

@@ -6,6 +6,18 @@ Favored Attribute: Sway
 
 > *The city is chaos, a swarming mass without form or direction, unless you command them and direct them.*
 
+## Map Elements
+In your first session, add an element to the map that represents power or authority. Here are some ideas:
+
+- A law enforcement bureau
+- A monument to past leaders
+- A government building
+- A crime lord's lair
+- A tightly controlled resource
+
+At any time, you may mark Heat to add another element to the map.
+
+
 ## Moves
 
 ### Hometown Hero
