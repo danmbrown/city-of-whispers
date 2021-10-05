@@ -15,12 +15,23 @@
         }
       },
       {
-        "id": "cf56548c7d2ae659",
+        "id": "cc4ecc1412b3b2bb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Gen.md",
+            "file": "ListofMoves.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "3156ec641e210add",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Moves.md",
             "mode": "source"
           }
         }
@@ -111,14 +122,14 @@
   "active": "14fc58d5cc7f0dce",
   "lastOpenFiles": [
     "Playbooks/Vault.md",
-    "Playbooks/Skyline.md",
+    "Moves.md",
+    "Magistrate.md",
+    "ListofMoves.md",
     "Playbooks/Remnant.md",
+    "Playbooks/Skyline.md",
     "Playbooks/Pillar.md",
     "Playbooks/Foundry.md",
     "Playbooks/Crossroads.md",
-    "Playbooks/Wellspring.md",
-    "Playbooks/Apparatus.md",
-    "Gen.md",
-    "index.md"
+    "Playbooks/Conduit.md"
   ]
 }

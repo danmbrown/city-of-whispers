@@ -13,6 +13,7 @@ In your first session, add an element to the map that represents the city's weal
 - A major financial institution
 - A club frequented by the aristocracy
 - A formerly wealthy neighborhood in transition
+- A rival's business or residence
 
 At any time, you may mark Heat to add another element to the map.
 
@@ -20,13 +21,23 @@ At any time, you may mark Heat to add another element to the map.
 ### Wealth and Influence (Required)
 Start every session with one Asset marked. If you already have an Asset marked, you may instead clear one Heat.
 
-### 
-*(Improvement to Ear to the Ground)*
+### Follow the Money
+*(Improvement to Appraise)*
+
+Whenever you **Appraise Circumstances** you may always ask one of these questions:
+
+- Who here has the most wealth or power?
+- How would a well-placed bribe or pay-off change the situation?
+-  Who here is most susceptible to my influence?
 
 ### 
 *(Improvement to Get Something)*
 
+When you **Get Something**, you may spend an Asset in lieu of taking a Consequence.
+
 ### Minions
+
+
 
 ### Investing in the Future
 

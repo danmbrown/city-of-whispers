@@ -74,6 +74,12 @@ When you **Use Power** to enhance your movement, roll with +2.
 ## Ties & Secrets
 Pick two people with whom you have a Tie. For each, pick what you know about them from the [[Lists#Area of Insight]]
 
+- Harbear, your mentor
+- Jofuna, your former partner
+- Gidrun, a government official
+- Andreg, a disgraced noble
+- Yatthai, your parent
+
 
 ## Recuperation
 - You may always clear 1 Heat when you lay low for a day. Ask the Magistrate what you missed.
