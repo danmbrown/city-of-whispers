@@ -6,6 +6,13 @@ Favored Attribute: Lore
 
 >*The city is a vast library of knowledge, and a small piece of it is yours, but yours alone.*
 
+## Map Elements
+In your first session, add an element to the map that represents the city's wealth or former glory. Here are some ideas:
+- A specialized library, unique to the city
+- A gathering place for intellectuals
+- A shop selling esoteric supplies
+- A college of ill-repute for the lesser arts
+- A retirement residence for the city's elderly
 
 ## Moves
 
@@ -59,6 +66,15 @@ You have an attribute called Performance. It starts at -1. When you rely on your
 ### Mend
 When you **Use Power** to heal someone or repair an object, roll with +2.
 
-## Secrets
+## Ties & Secrets
+Pick two people with whom you have a Tie. For each, pick what you know about them from the [[Lists#Area of Insight]]
+- Murzog, an investigator with whom you have an uneasy but mutually beneficial relationship
+- Callaphon, a noble and former customer
+- Wurthu, cook who makes the city's best noodle soup
+- Kilona, your sibling with whom you've recently reconciled
+- Berrigan, a sage with a better reputation than yours
+
 ## Recuperation
-- When you make use of your special knowledge, clear two heat.
+- You may always clear 1 Heat when you lay low for a day. Ask the Magistrate what you missed.
+- When your area of expertise gets you out of a jam, clear 1 Heat.
+- When you share an intimate moment with someone and they give you a chance to reflect on your area of expertise, clear 1 heat.

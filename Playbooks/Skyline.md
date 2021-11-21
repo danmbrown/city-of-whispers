@@ -54,11 +54,11 @@ When you **Use Power** to protect yourself, roll with +2.
 
 ## Ties & Secrets
 Pick two people with whom you have a Tie. For each, pick what you know about them from the [[Lists#Area of Insight]]
-- Derrin, your sibling
-- Balti, a colleague
+- Derrin, your sibling who's famous throughout the city
+- Balti, a fixer you once employed, but never again
 - Drugh, a dealer at a gambling den
-- Ozhyr, a messenger
-- Ivedro, a mentor
+- Ozhyr, a messenger you use, sometimes employed by rivals
+- Ivedro, a stranger who got you out of a jam
  
 ## Recuperation
 - You may always clear 1 Heat when you lay low for a day. Ask the Magistrate what you missed.

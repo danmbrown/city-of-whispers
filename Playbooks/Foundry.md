@@ -56,13 +56,13 @@ When you **Use Power** to produce a small, unique, and useful item, roll with +2
 ## Ties & Secrets
 Pick two people with whom you have a Tie. For each, pick what you know about them from the [[Lists#Area of Insight]]
 
-- Ardreth, a supplier
+- Ardreth, a supplier of rare materials
 - Katar, an enthusiastic customer
-- Artin, your cousin
-- Vasati, your former mentor
+- Artin, your inept cousin who's desperate to learn from you
+- Vasati, your former mentor, disgraced for misbehavior
 - Saphielle, your apprentice
 
 ## Recuperation
 - You may always clear 1 Heat when you lay low for a day. Ask the Magistrate what you missed.
 - When you spend uninterrupted time working on your craft without complications or external pressure, clear 1 Heat.
-- When you share an intimate moment with someone and admire the craftsmanship of their work, clear 1 heat.
+- When you share an intimate moment with someone and admire the craftsmanship of their work, clear 1 Heat.

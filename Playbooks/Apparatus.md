@@ -60,6 +60,11 @@ When you **Use Power** to locate objects, landmarks, or people, roll with +2.
 
 ## Ties & Secrets
 Pick two people with whom you have a Tie. For each, pick what you know about them from the [[Lists#Area of Insight]]
+- Thirrik, a corrupt colleague
+- Kymil, a former apprentice
+- Hokula, a city skulk
+- Aruna, a cousin from the other side of town
+- Mazoth, the city's renowned barista
 
 ## Recuperation
 - You may always clear 1 Heat when you lay low for a day. Ask the Magistrate what you missed.

@@ -75,11 +75,11 @@ When you **Use Power** to enhance your physical prowess, roll with +2.
 ## Ties & Secrets
 Pick two people with whom you have a Tie. For each, pick what you know about them from the [[Lists#Area of Insight]]
 
-- Taranth, a former partner
+- Taranth, a former partner who's "gone legit"
 - Dalari, an indulgent aristocrat
 - Elnaril, a down-and-out craftsperson
-- Ruvaen, your sibling
-- Orym, a business associate
+- Ruvaen, your sibling who took a different turn from you
+- Orym, a business associate with unknown history
 
 ## Recuperation
 - You may always clear 1 Heat when you lay low for a day. Ask the Magistrate what you missed.

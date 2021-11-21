@@ -58,11 +58,11 @@ When you **Use Power** to manifest illusions, deceptions, or distractions, roll 
 ## Ties & Secrets
 Pick two people with whom you have a Tie. For each, pick what you know about them from the [[Lists#Area of Insight]]
 
-- Solsiu, your sibling
+- Solsiu, your sibling with whom you do not see eye to eye
 - Kiyu, a fellow refuge, turned community organizer
-- Thamna, an aristocratic patron
-- Benego, a prominent merchant
-- Tannet, an entertainer
+- Thamna, an aristocratic patron who is anonymous to everyone but you
+- Benego, a prominent merchant who serves your community
+- Tannet, an entertainer who gives you hope
 
 
 ## Recuperation
