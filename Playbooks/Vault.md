@@ -10,7 +10,7 @@ Favored Attribute: Network
 In your first session, add an element to the map that represents the city's wealth or former glory. Here are some ideas:
 
 - A monument to the city's (former) renown
-- A major financial institution
+- A major financial institution, caught in a scandal
 - A club frequented by the aristocracy
 - A formerly wealthy neighborhood in transition
 - A rival's business or residence

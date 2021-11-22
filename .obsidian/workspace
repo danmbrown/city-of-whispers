@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Playbooks/Wellspring.md",
+                "file": "Playbooks/Vault.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,10 +119,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2ea03871fb6de26f",
+  "active": "b554c28a8aded659",
   "lastOpenFiles": [
-    "Playbooks/Wellspring.md",
     "Playbooks/Vault.md",
+    "Playbooks/Wellspring.md",
     "Playbooks/Skyline.md",
     "Playbooks/Remnant.md",
     "Playbooks/Pillar.md",
