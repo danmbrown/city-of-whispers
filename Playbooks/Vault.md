@@ -35,14 +35,16 @@ Whenever you **Appraise Circumstances** you may always ask one of these question
 
 When you **Get Something**, you may spend an Asset in lieu of taking a Consequence.
 
-### Minions
+### Inner Circle (Group)
+You belong to a group of the city's elite.
 
 
+### Notorious Influence
 
-### Investing in the Future
+
 
 ### Private Transportation
- You have a special mode of transportation designed to get around the city most effectively. When you **Transit**, if you use it, you may roll with Network instead of Environs
+ You have a special mode of transportation designed to get around the city most effectively. When you **Transit**, if you use it, you may roll with Network instead of Environs.
 
 ### Keen Eye
 When you **Use Power** to gauge distance, volume, value, or other quantity, roll with +2.

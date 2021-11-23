@@ -33,12 +33,12 @@ When you blend into your surroundings or hope to avoid notice (even as a consequ
 Your outcast state allows you to snoop through other people's business. You start with a third Tie and you know a secret about them, but they do not know you. Whenever you Use a Secret about this Tie, the secret is only revealed when any of the dice shows a 1.
 
 ### Recruited
-
+You were drawn into a gang, working for a local boss. You have access to the gang's resources, a track with three boxes. Whenever you have to mark Heat, you may instead mark one of the Gang's boxes. When you do, roll -Gang (number of boxes marked). On a hit, you fly under the radar. On 10+, you may clear one mark on Gang. On a miss, the boss will insist you do a job for them. If you complete it to their satisfaction, you may reset the Gang track. If you've filled the Gang track, you may introduce a gang-related request or complication into the story to clear the track.
 
 ### Dregs (Group)
 You run with a group of other outcasts. When you stir them to action with your words or deeds, mark Heat and roll +Environs. On a hit, they do what you ask so long as they don't expose themselves to harm. They pick one consequence. On a 10+, you may eliminate one consequence before they pick.
 
--   They don’t finish what they started
+-   They leave things unfinished or in a risky position
 -   They take things too far
 -   They demand you reveal a secret about yourself
 -   They expect a favor in return
@@ -50,7 +50,7 @@ You have an ability called Tinker that starts at -1. You have a lockpick set wit
 - You leave evidence of your work. 
 - You made noise.  
 - The lock can’t be fastened again. 
-- Mark a use on a lockpick.
+- Mark a use on lockpick.
 
 ### Distract
 When you **Use Power** to manifest illusions, deceptions, or distractions, roll with +2.

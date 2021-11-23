@@ -26,12 +26,12 @@
         }
       },
       {
-        "id": "2ea03871fb6de26f",
+        "id": "998b3746ddc47dcb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Playbooks/Wellspring.md",
+            "file": "Moves.md",
             "mode": "source"
           }
         }
@@ -122,14 +122,14 @@
   "active": "b554c28a8aded659",
   "lastOpenFiles": [
     "Playbooks/Vault.md",
+    "Playbooks/Remnant.md",
+    "Moves.md",
     "Playbooks/Wellspring.md",
     "Playbooks/Skyline.md",
-    "Playbooks/Remnant.md",
     "Playbooks/Pillar.md",
     "Playbooks/Foundry.md",
     "Playbooks/Crossroads.md",
     "Playbooks/Conduit.md",
-    "Playbooks/Apparatus.md",
-    "Playbooks/Clamor.md"
+    "Playbooks/Apparatus.md"
   ]
 }

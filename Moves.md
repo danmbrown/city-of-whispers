@@ -164,7 +164,7 @@ When you set up a scheme to regularly bring in cash or resources, describe the m
 
 - On a hit, the scheme’s Productivity starts at -1.
 - **7-9** Mark Heat or start Productivity at -2.
-- **6-** You fail to get the scheme off the ground or the scheme’s Productivity starts at -3; either way, someone catches wind of your little operation.
+- **6-** You fail to get the scheme off the ground or mark Heat to start the scheme’s Productivity at -3; either way, someone catches wind of your little operation.
 
 ### Run the Scheme
 When you check in on your scheme, roll +Productivity. You may do this once per session.
