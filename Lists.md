@@ -277,7 +277,7 @@ If you need a rumor, roll 2d20 and 2d6. The d20s describe the actor and their ac
 | 6 | A noble's house | The arrival of an important personage |
 
 <a id="100elements"></a>
-## 100 City Elements
+## 100 Things on City Streets
 
 1. One lit doorway on a street of otherwise darkened doorways
 2. Fog-filled alleyways
@@ -291,4 +291,17 @@ If you need a rumor, roll 2d20 and 2d6. The d20s describe the actor and their ac
 10. Steam rising from a grill in the ground
 11. Boarded up window with placards pasted on
 12. Stray domestic pet scavenging for food
-13. 
+13. Abandoned wagon
+14. Narrow patch of greenery, lovingly maintained by neighbors
+15. Storefront with signs indicating going out of business
+16. Bird wrestling scraps from a group of rodents
+17. Rain-slicked street reflecting lamplight
+18. Traffic jam caused by unruly domestic beasts
+19. Baker offering samples of a new treat
+20. Kids rushing through a crowded street, a grocer chasing after them
+21. Tiered walkways spanning a corrupted site
+22. Workers clearing up a burnt-out building
+23. A walled-off construction site reeking with magic
+24. A canal spanned by a footbridge with a reputation for ruining relationships
+25. Statue of a long-forgotten war hero, crammed with slips of paper
+26. 

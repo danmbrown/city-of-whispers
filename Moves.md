@@ -232,20 +232,17 @@ If you meet any counter or demand, they comply.
 #### Weak Reactions: Demanding Action
 - They comply with your request and pick a Consequence
 - They comply with your request until it costs them, hurts them, or they get a better offer
-- They avoid acting, but give up some information
-- They request resources or compensation (money, favor, etc.) to comply
+- They request resources or compensation (money, favor, etc.) or credential to comply
 - They request ensuring their safety
-- They avoid complying, but offer to stick around till it’s done
 - They comply but in a diminished, indirect, or malicious way (holding something back)
-- They reject the offer but offer something less important
+- They cannot comply with your request but offer something less important
 
 #### Weak Reactions: Demanding Information
 - They provide the information and pick a Consequence
-- They demand resources or compensation (money, favor, etc.) to act
-- They demand someone trustworthy vouch for you
-- They demand ensuring their safety
+- They request resources or compensation (money, favor, etc.) or credential to divulge
+- They request anonymity
 - They provide some information but it is partially incomplete or incorrect
-- They reject the offer but offer something less important
+- They can't answer what you're asking but offer something less important
 
 #### Consequences
 - Demand explanation
