@@ -52,18 +52,18 @@ If you haven't yet created the city, as you add elements, have the Magistrate as
 
 | d12 | is... |
 | :-: | :-- |
-| 1 | Corrupted (by) |
-| 2 | Infiltrated (by) |
-| 3 | Sympathetic (to) |
+| 1 | Corrupted (by what?) |
+| 2 | Infiltrated (by whom?) |
+| 3 | Sympathetic (to whom?) |
 | 4 | Deceiving (whom?) |
-| 5 | Antagonistic (to) |
+| 5 | Antagonistic (to what or to whom?) |
 | 6 | Seditious |
-| 7 | Supportive (of) |
+| 7 | Supportive (of what or of whom?) |
 | 8 | Influencing (whom?) |
-| 9 | Conspiring (with/to) |
-| 10 | Harmful (to) |
+| 9 | Conspiring (with/to what?) |
+| 10 | Harmful (to whom or to what?) |
 | 11 | Revealing (what to whom?) |
-| 12 | Stealing |
+| 12 | Stealing (what from whom?) |
 
 <a id="secrets"></a>
 ## Secrets
@@ -259,7 +259,7 @@ If you need a rumor, roll 2d20 and 2d6. The d20s describe the actor and their ac
 
 | d6 | Item | Person | Group |
 | :-: | :-- | :-- | :-- |
-| 1 | Magic artifact | You | Your faction |
+| 1 | Magic artifact | Yourself | Your faction |
 | 2 | Royal object | A family member | A splinter group from your faction |
 | 3 | Mystic weapon | A disgraced noble | The Assassins' Guild |
 | 4 | Sacred scroll | A mysterious merchant | The Thieves' Guild |
@@ -291,7 +291,7 @@ If you need a rumor, roll 2d20 and 2d6. The d20s describe the actor and their ac
 10. Steam rising from a grill in the ground
 11. Boarded up window with placards pasted on
 12. Stray domestic pet scavenging for food
-13. Abandoned wagon
+13. Abandoned wagon, one wheel missing
 14. Narrow patch of greenery, lovingly maintained by neighbors
 15. Storefront with signs indicating going out of business
 16. Bird wrestling scraps from a group of rodents
@@ -304,4 +304,8 @@ If you need a rumor, roll 2d20 and 2d6. The d20s describe the actor and their ac
 23. A walled-off construction site reeking with magic
 24. A canal spanned by a footbridge with a reputation for ruining relationships
 25. Statue of a long-forgotten war hero, crammed with slips of paper
-26. 
+26. A woman selling exotic coffee out of a pushcart
+27. Four people cornering an escaped beast of burden
+28. A lone street performer asking for a volunteer from the audience
+29. A crowd emptying out from a theater after a performance
+30. The sounds of cheers from a nearby sporting venue
