@@ -309,3 +309,4 @@ If you need a rumor, roll 2d20 and 2d6. The d20s describe the actor and their ac
 28. A lone street performer asking for a volunteer from the audience
 29. A crowd emptying out from a theater after a performance
 30. The sounds of cheers from a nearby sporting venue
+31. 
