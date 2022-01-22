@@ -18,6 +18,11 @@ In your first session, add an element to the map that represents a useful perspe
 
 At any time, you may mark Heat to add another element to the map.
 
+## Relationship Questions
+- Who did I confide in when I discovered a plot within the city?
+- Who helps me stay grounded when I feel overwhelmed by the city?
+- Who helps me interpret the events in the city through a different lens?
+
 ## Moves
 
 ### Always Prepared 

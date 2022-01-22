@@ -18,6 +18,11 @@ In your first session, add an element to the map that represents a place where p
 
 At any time, you may mark Heat to add another element to the map.
 
+## Relationship Questions
+* For whom did I make an introduction that ended badly?
+* Who knows someone who refuses to interact with me?
+* Who attended an event I hosted?
+
 ## Moves
 
 ### Connector 

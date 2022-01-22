@@ -14,6 +14,11 @@ In your first session, add an element to the map that represents the city's weal
 - A college of ill-repute for the lesser arts
 - A retirement residence for the city's elderly
 
+## Relationship Questions
+- Who once sought me out for my special knowledge?
+- Who introduced me to my mentor?
+- 
+
 ## Moves
 
 ### Niche (Required)
