@@ -17,7 +17,7 @@ In your first session, add an element to the map that represents the city's weal
 ## Relationship Questions
 - Who once sought me out for my special knowledge?
 - Who introduced me to my mentor?
-- 
+- Who gave me space or resources to pursue my special knowledge?
 
 ## Moves
 
