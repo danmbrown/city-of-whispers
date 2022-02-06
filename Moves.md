@@ -3,11 +3,11 @@
 # Basic Moves
 
 - [City Moves](#City-Moves)
-- [Scheme Moves](#Scheme-Moves)
 - [City Connection Moves](#Connection-Moves)
 - [Social Interaction Moves](#Social-Interaction-Moves)
-- [Risky Moves](#Risky-Moves)
 - [Secrets Moves](#Secrets-Moves)
+- [Risky Moves](#Risky-Moves)
+- [Scheme Moves](#Scheme-Moves)
 - [Faction Moves](#Faction-Moves)
 
 <a id="City-Moves"></a>
@@ -154,43 +154,10 @@ When you meet someone new and want to explore a possible connection, describe ho
 - Tell me something about yourself few people know.
 
 ### Use Belief
-When you have a relevant belief and you would like to use it, you may roll with advantage. If any of the dice show a 1 or 2 – regardless of the outcome of the move – the belief is challenged. Mark it. Next time you use it, if you roll a 1 or 2, it is proven wrong. You may continue to hold the belief, but you may not use it to buff your rolls.
-
-<a id="Scheme-Moves"></a>
-## Scheme Moves
-
-### Set Up a Scheme (Network)
-When you set up a scheme to regularly bring in cash or resources, describe the montage for setting it up and what you expect it to produce. Roll +Network. Subtract 1 for each scheme you already have going.
-
-- On a hit, the scheme’s Productivity starts at -1.
-- **7-9** Mark Heat or start Productivity at -2.
-- **6-** You fail to get the scheme off the ground or mark Heat to start the scheme’s Productivity at -3; either way, someone catches wind of your little operation.
-
-### Run the Scheme
-When you check in on your scheme, roll +Productivity. You may do this once per session.
-
-- **12+** Collect two assets, pick 1 Success. You may have a maximum of two assets.
-- **10+** Collect 1 asset and increase productivity (Max +3). You may have a maximum of two assets.
-- **7-9** Reduce productivity to collect an asset, or do nothing. You may have a maximum of two assets.
-
-#### Success
-- Your business is noticed by a local crime lord who demands protection
-- Competition enters the market
-- An investor wants to buy you out
-- The law takes notice of the operation and attempts to neutralize the criminal aspects
-- An employee is embezzling funds
-
-### Use Asset
-You may spend an asset to:
-- Avoid marking Heat
-- Roll Social Interaction moves with advantage
-- Take +1 to a Network move for each asset spent
-- Repair an item
-
+When your belief is relevant to your action, describe how it makes you more confident. You may roll with advantage. If any of the dice show a 1 or 2 – regardless of the outcome of the move – the belief is challenged. Mark it. Next time you use it, if you roll a 1 or 2, it is proven wrong. You may continue to hold the belief, but you may not use it to buff your rolls.
 
 <a id="Connection-Moves"></a>
 ## City Connection Moves
-
 ### Recall Neighborhood Connection
 Once per session, you may mark a History to bump a die roll result one tier. By marking a history, you add that neighborhood to the list of neighborhoods your character is connected to.
 
@@ -205,16 +172,16 @@ When you meet the last Demand, describe your epilogue.
 
 <a id="Social-Interaction-Moves"></a>
 ## Social Interaction Moves
-Social Interaction Moves relate to a specific named individual. When characters interact with someone in particular, use one of the Social Interaction Moves. When they are dealing with the denizens of the city more generally, 
+Social Interaction Moves relate to a specific named individual. When characters interact with someone in particular, use one of the Social Interaction Moves. When dealing with the denizens of the city more generally, use **Get Something**.
 
-You may not mark Histories or City Demands to affect this roll, but you may use Secrets.
+You may not mark Histories or City Demands to affect this roll, but you may indicate you want to **Use a Secret** before you roll.
 
 ### Direct Someone to Act
 When you demand someone *provide information* they have access to or *take an action* they are capable of taking, describe what you're demanding and whether you're offering **peril**, **value**, or **logic**.
 
-If you're demanding they act against their self-interest, or reveal something that betrays their interests, pick a **strong reaction**.
+If you demand they act against their self-interest, or reveal something that betrays their interests, pick a **strong reaction**.
 
-If you're demanding they act against or betray another's interest, roll based on your offer of peril, value, or logic.
+If you demand they act against or betray another's interest, roll based on your offer of peril, value, or logic.
 
 NPCs will react to each offer type differently. The Magistrate will indicate whether you should roll with Sway, Heat, or Sway + Heat. 
 
@@ -245,9 +212,7 @@ If you meet any counter or demand, they comply.
 - They can't answer what you're asking but offer something less important
 
 #### Consequences
-- Demand explanation
 - Remain suspicious or skeptical of you
-- Demand to be left alone
 - Reveal your intentions or actions to someone else
 - Become a loyal follower, perhaps to a fault
 - Intend revenge or betrayal
@@ -259,14 +224,14 @@ If you meet any counter or demand, they comply.
 ## Secrets Moves
 
 ### Use a Secret
-If you do not roll as well as you would like, you may opt to leverage your secret knowledge to your advantage. Describe how you use the secret without revealing it, then roll three dice and use the two highest values for your move. But if any of the dice show 1 or 2, the secret is revealed.
+Describe how you use the secret without revealing it, then roll with advantage. But if any of the dice show 1 or 2, the secret is revealed.
 
 > #### Example of "Use a Secret"
-> Miabella is negotiating with the pirate Donatella for the secret location of the treasure under the city. Miabella offers to split the treasure with Donatella in exchange for the location. Miabella (Influence 0) rolls a 2 and a 4. 
+> Miabella is negotiating with the pirate Donatella for the secret location of the treasure under the city. Miabella offers to split the treasure with Donatella in exchange for the location. 
 >
 > Miabella knows the pirate Donatella has a secret forbidden love named Arvel. The player opts to use this knowledge to influence Donatella, implying that certain members of the elite, including Arvel, would appreciate uncovering this essential part of the city's history.
 >
-> The player rolls three dice and gets a 1 + 4 + 5. This gives Miabella a 9 on the **Negotiate** move, but the secret is revealed. According to the **Reveal a Secret** move, Miabella loses the Tie with Donatella.
+> The player rolls three dice and gets a 1 + 4 + 5. This gives Miabella a 9 on the **Direct Someone to Act** move, but the secret is revealed. According to the **Reveal a Secret** move, Miabella loses the Tie with Donatella.
 >
 > The Magistrate gets to pick two Reactions for Donatella. From Negotiate, Donatella selects *Demand more compensation* and from  Reveal a Secret, Donatella selects *They deny the truth, leaving you in doubt*.
 > 
@@ -283,13 +248,11 @@ Follow the fiction to determine if the secret becomes public knowledge. If it do
 #### Reactions
 - They flee
 - They sincerely deny the truth of the secret, leaving you in doubt
-- They attack
 - They make you an offer or threat for your discretion
 - They start a rumor about you
 
 <a id="Risky-Moves"></a>
 ## Risky Moves
-
 ### Use Power
 When you tap into your connection to magic, technology, or other mysterious power, describe what you hope to accomplish. The Magistrate will assign a complexity. If the complexity is equal to or less than your max, roll. You may take +1 if you have a connection to the neighborhood or some other advantage or -2 if you do not.
 
@@ -341,6 +304,35 @@ When you do something dangerous, felonious, violent, or imprudent describe your 
 - Take something from someone
 
 
+<a id="Scheme-Moves"></a>
+## Scheme Moves
+### Set Up a Scheme (Network)
+When you set up a scheme to regularly bring in cash or resources, describe the montage for setting it up and what you expect it to produce. Roll +Network. Subtract 1 for each scheme you already have going.
+
+- On a hit, the scheme’s Productivity starts at -1.
+- **7-9** Mark Heat or start Productivity at -2.
+- **6-** You fail to get the scheme off the ground or mark Heat to start the scheme’s Productivity at -3; either way, someone catches wind of your little operation.
+
+### Run the Scheme
+When you check in on your scheme, roll +Productivity. You may do this once per session.
+
+- **12+** Collect two assets, pick 1 Success. You may have a maximum of two assets.
+- **10+** Collect 1 asset and increase productivity (Max +3). You may have a maximum of two assets.
+- **7-9** Reduce productivity to collect an asset, or do nothing. You may have a maximum of two assets.
+
+#### Success
+- Your business is noticed by a local crime lord who demands protection
+- Competition enters the market
+- An investor wants to buy you out
+- The law takes notice of the operation and attempts to neutralize the criminal aspects
+- An employee is embezzling funds
+
+### Use Asset
+You may spend an asset to:
+- Avoid marking Heat
+- Roll Social Interaction moves with advantage
+- Take +1 to a Network move for each asset spent
+- Repair an item
 
 <a id="Faction-Moves"></a>
 ## Faction Moves
