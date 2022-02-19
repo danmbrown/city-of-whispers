@@ -22,12 +22,10 @@ If you’re entering a place you’re not allowed in, you must Take a Big Risk.
 
 - **12+** You arrive uneventfully, or pick 1 Consequence and clear 1 Heat.
 - **10+** Pick 1 Consequence.
-- **7 - 9** Pick 2 Consequences.
+- **7 - 9** Pick 2 Consequences, or ask the Magistrate how you were diverted temporarily from your destination.
 
 #### Consequences
-- You alert a rival faction or enemy along the way
 - You end up on the wrong side of the neighborhood
-- You had to make an unscheduled stop
 - Your arrival or departure is noticed by someone
 - It took you longer to get there than expected
 
@@ -55,7 +53,6 @@ When you take a moment to get the lay of the land, you may ask one question. If 
 #### Reactions
 - You had to ask someone for directions; ask the Magistrate what they expect in return
 - You took extra time to evaluate the situation; ask the Magistrate what happens since you’re running late
-- You took a wrong turn; ask the Magistrate where you ended up
 - You had to retrace your steps; ask the Magistrate whose attention you attracted
 
 ### Ear to the Ground (Lore)
@@ -73,8 +70,8 @@ When you listen out for interesting information, name something you’re especia
 ### Appraise Circumstances (Lore)
 When you take time to study the situation to see what’s really going on, roll +Lore. If you have a connection to the neighborhood, you may roll with advantage.
 
-- **12+** Ask three questions and clear one Heat.
-- **10+** Ask three questions.
+- **12+** Ask two questions; then ask another or clear one Heat.
+- **10+** Ask two questions.
 - **7 - 9** Ask one question. Or mark Heat to ask two.
 
 #### Questions
@@ -91,7 +88,6 @@ When you try something new -- for example, tasting food, listening to music, see
 - Your reaction offends the people around you
 - You become obsessed with it
 - You have an adverse physiological response to it
-- You run away
 - You interrupt someone nearby to urge them to try it
 
 ### Get Something (Network)
@@ -127,7 +123,7 @@ When you observe a specific person’s behavior, movements, or mannerisms to lea
 - What are they really feeling right now?
 
 ### Meet Someone New (Network)
-When you meet someone new and want to explore a possible connection, describe how you size them up and roll +Network.
+When you explore a possible connection with someone you don't know, describe how you size them up and roll +Network.
 
 - **12+** Pick two Shared Experiences. You may take +1 forward to any Social Interaction move.
 - **10+** Pick one Shared Experience and one Doubt. If you answer one of their Questions, you may take +1 forward to any Social Interaction move.
@@ -141,10 +137,10 @@ When you meet someone new and want to explore a possible connection, describe ho
 
 #### Doubts
 - They behave suspiciously or immorally.
-- The interact with someone you don't like.
+- They're connected with someone you don't like.
 - They say something personally insulting without realizing it.
 - They expect more than you're prepared to give.
-- They reveal a prejudice.
+- They hold a prejudice.
 
 #### Questions
 - What’s in it for me? 
@@ -172,20 +168,22 @@ When you meet the last Demand, describe your epilogue.
 
 <a id="Social-Interaction-Moves"></a>
 ## Social Interaction Moves
-Social Interaction Moves relate to a specific named individual. When characters interact with someone in particular, use one of the Social Interaction Moves. When dealing with the denizens of the city more generally, use **Get Something**.
+Social Interaction Moves relate to a specific named individual. When characters interact with someone in particular, use Direct Someone to Act. When dealing with the denizens of the city more generally, use **Get Something**.
 
 You may not mark Histories or City Demands to affect this roll, but you may indicate you want to **Use a Secret** before you roll.
 
 ### Direct Someone to Act
 When you demand someone *provide information* they have access to or *take an action* they are capable of taking, describe what you're demanding and whether you're offering **peril**, **value**, or **logic**.
 
-If you demand they act against their self-interest, or reveal something that betrays their interests, pick a **strong reaction**.
+If you demand they act against their self-interest, or reveal something that betrays their interests, they pick a **strong reaction**.
 
 If you demand they act against or betray another's interest, roll based on your offer of peril, value, or logic.
 
-NPCs will react to each offer type differently. The Magistrate will indicate whether you should roll with Sway, Heat, or Sway + Heat. 
+NPCs will react to each offer type differently. The Magistrate will indicate whether you should roll with Sway, Heat, or Sway - Heat.
 
-On a hit, pick a **weak reaction**. On 7-9, they pick a **consequence**.
+If you must roll with Heat, roll minus the number of marked Heat.
+
+On a hit, you pick a **weak reaction**. On 7-9, they pick a **consequence**.
 
 #### Strong Reactions 
 - They make counter-offer (Do you accept?)
@@ -196,23 +194,15 @@ On a hit, pick a **weak reaction**. On 7-9, they pick a **consequence**.
 
 If you meet any counter or demand, they comply.
 
-#### Weak Reactions: Demanding Action
+#### Weak Reactions
 - They comply with your request and pick a Consequence
-- They comply with your request until it costs them, hurts them, or they get a better offer
 - They request resources or compensation (money, favor, etc.) or credential to comply
 - They request ensuring their safety
 - They comply but in a diminished, indirect, or malicious way (holding something back)
 - They cannot comply with your request but offer something less important
-
-#### Weak Reactions: Demanding Information
-- They provide the information and pick a Consequence
-- They request resources or compensation (money, favor, etc.) or credential to divulge
-- They request anonymity
-- They provide some information but it is partially incomplete or incorrect
-- They can't answer what you're asking but offer something less important
+- (If directed to act) They comply with your request until it costs them, hurts them, or they get a better offer
 
 #### Consequences
-- Remain suspicious or skeptical of you
 - Reveal your intentions or actions to someone else
 - Become a loyal follower, perhaps to a fault
 - Intend revenge or betrayal
@@ -224,7 +214,7 @@ If you meet any counter or demand, they comply.
 ## Secrets Moves
 
 ### Use a Secret
-Describe how you use the secret without revealing it, then roll with advantage. But if any of the dice show 1 or 2, the secret is revealed.
+When you use secret knowledge in your social interactions, describe how you use the secret without revealing it, then roll with advantage. But if any of the dice show 1 or 2, then you **Reveal a Secret**.
 
 > #### Example of "Use a Secret"
 > Miabella is negotiating with the pirate Donatella for the secret location of the treasure under the city. Miabella offers to split the treasure with Donatella in exchange for the location. 
@@ -259,12 +249,13 @@ When you tap into your connection to magic, technology, or other mysterious powe
 - **12+** You achieve your goal flawlessly.
 - **10+** Pick 1 Consequence.
 - **7-9** Pick 2 Consequences OR the power **backfires**.
+- **7-** The power **backfires**.
 
 #### Consequences
-- Lesser effect in Area and/or Duration
-- Lesser effect in Scale and/or Intensity
+- Lesser effect (in area, duration, scale, or intensity)
 - The power affects targets beyond the one intended
 - The power has an unexpected temporary side effect
+- The power has an unexpected cost
 - The power has the opposite effect (if you pick this, you do not need to roll Backfire)
 
 ### Backfire (lower is better)
@@ -288,22 +279,14 @@ When you do something dangerous, felonious, violent, or imprudent describe your 
 - **7 - 9** You succeed but the Magistrate will tell you the cost; Or the magistrate will offer you a hard choice.
 
 #### Consequences
-- Learn something about someone present
-- Learn something about the area
+- Learn something about someone or something
+- Escape the scene or remain hidden
 - Avoid attracting attention
-- Cause an opponent to stumble or hesitate
-- Cause an opponent temporary harm 
+- Cause an opponent temporary harm or force them to hesitate
 - Change a detail about the scene
 - Create an opportunity for an ally
-- Escape the scene
 - Impress one or more people
-- Increase your reputation with someone
-- Learn the location of someone or something
-- Remain hidden 
-- Remove one person from the scene
 - Take something from someone
-
-
 <a id="Scheme-Moves"></a>
 ## Scheme Moves
 ### Set Up a Scheme (Network)
