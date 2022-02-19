@@ -37,19 +37,18 @@ Exploring the city’s grim secrets and iniquitous aspects; Managing political a
 
 ## Table of Contents
 
-### Getting Started
+### Creating the City and Characters
 - [Building the City and Creating Characters](Gen.md)
 
 ### Rules, Moves, and More
 - [The Characters](Characters.md)
 - [The City](City.md)
 - [Moves](Moves.md) ([List of all moves](ListofMoves.md))
-- [Lists](Lists.md)
-- [Character and City Generation](Gen.md)
 - [Character Advancement](Advacement.md)
 
 ### For the Magistrate
 - [For the Magistrate](Magistrate.md)
+- [Lists](Lists.md)
 
 <a id="Playbooks"></a>
 ### Playbooks
