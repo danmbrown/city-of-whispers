@@ -41,8 +41,9 @@ Exploring the city’s grim secrets and iniquitous aspects; Managing political a
 - [Building the City and Creating Characters](Gen.md)
 
 ### Rules, Moves, and More
+- [The Characters](Characters.md)
+- [The City](City.md)
 - [Moves](Moves.md) ([List of all moves](ListofMoves.md))
-- [Rules](Rules.md)
 - [Lists](Lists.md)
 - [Character and City Generation](Gen.md)
 - [Character Advancement](Advacement.md)

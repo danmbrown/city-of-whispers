@@ -1,6 +1,6 @@
 [Home](index.md)
 
-# Characters
+# The Characters
 ## Attributes
 - **Environs**: Your comfort with the geographical contours of the city
 - **Lore**: Your knowledge of the city's culture, history, and infrastructure
@@ -92,4 +92,3 @@ Describe what the city demands that you do to...
 - build something new in this neighborhood
 - remove something ailing this neighborhood
 
-# The City
