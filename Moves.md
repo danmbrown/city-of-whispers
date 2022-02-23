@@ -287,6 +287,7 @@ When you do something dangerous, felonious, violent, or imprudent describe your 
 - Create an opportunity for an ally
 - Impress one or more people
 - Take something from someone
+
 <a id="Scheme-Moves"></a>
 ## Scheme Moves
 ### Set Up a Scheme (Network)

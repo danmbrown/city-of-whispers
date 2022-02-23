@@ -1,7 +1,7 @@
 [Home](index.md)
 
 ## Agenda
--   Portray a cosmopolitan metropolis
+-   Portray a bustling, diverse, cosmopolitan metropolis
 -   Fill the characters’ lives with schemes and intrigue
 -   Play to find out what happens
 
@@ -24,20 +24,19 @@
 
 ## Moves
 - Turn up the Heat
--   Reveal a rival or a Tie
--   Disrupt someone's routine
--   Make offers they can't refuse
--   Take them to a new neighborhood
--   Reveal a mysterious aspect of the city
--   Issue a request from an unlikely place
--   Attract unwanted attention -- the public, a rival faction, or a powerful person
--   Reveal an unwelcome truth
--   Show signs of an approaching threat
--   Use up their resources
--   Turn their move back on them
--   Separate them
--   Give an opportunity that fits their abilities
--   Show a downside to their connection to the city
--   Offer an opportunity, with or without cost
--   Put someone in a spot
--   Tell them the requirements or consequences and ask
+- Reveal a rival or a Tie
+- Disrupt someone's routine
+- Put them in conflict with their faction
+- Have the city betray them
+- Make offers they can't refuse
+- Take them to a new neighborhood
+- Reveal a mysterious aspect of the city
+- Issue a request from an unlikely place
+- Reveal unwanted attention -- the public, a rival faction, or a powerful person
+- Reveal an unwelcome truth
+- Turn their move back on them
+- Separate them
+- Give an opportunity that fits their abilities
+- Show a downside to their connection to the city
+- Offer an opportunity, with or without cost
+- Tell them the requirements or consequences and ask

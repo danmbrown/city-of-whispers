@@ -64,15 +64,20 @@ Throughout the course of the story, your character might strike a deal with anot
 > Deals have no mechanical impact on the game.
 
 ## Schemes
-Stay in the city long enough and you'll set up a scheme for generating a bit of income or producing useful resources.
+Stay in the city long enough and you'll set up a scheme for generating a bit of income or producing useful resources. Play it right and the scheme will hum along, but get too successful and someone might take notice.
 
 > Schemes are measured by their Productivity. They produce Assets, currency you can spend to grease the wheels in your favor.
 
 
 ## Neighborhood Connections
-Surroundings define a person as much as their personality or family history. A person in a new neighborhood or among strangers does not have the confidence they do in familiar environs. Every character starts out with a connection to a neighborhood in the city. Throughout the game, however, you will forge connections to additional neighborhoods through flashbacks.
+Surroundings define a person as much as their personality or family history. A person in a new neighborhood or among strangers does not have the confidence they do in familiar environs. 
 
 > Some moves indicate that having a neighborhood connection lets you roll with advantage or some other bonus.
+
+Every character starts out with a connection to a neighborhood in the city. Throughout the game, however, you will forge connections to additional neighborhoods through flashbacks or demands.
+
+> After rolling poorly, mark a History or Demand to bump your result to the next tier. 
+
 
 **Histories**
 You may mark these in any order.
