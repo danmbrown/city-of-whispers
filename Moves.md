@@ -12,13 +12,16 @@
 
 <a id="City-Moves"></a>
 ## City Moves
+For any City Move, if you have a connection to the neighborhood you're in (or traveling to), you may roll with advantage.
 
 ### Transit (Environs)
-When you travel to another neighborhood, and it is new to you or you need to get there unnoticed or you need to get there fast, roll +Environs unless you have a connection with that neighborhood.
+When you travel to another neighborhood:
 
-If you have a connection to the destination neighborhood, you may pick a Consequence or mark Heat to get there.
+* If it is new to you, describe how you determine the best way to get there
+* If you need to get there unnoticed, describe how you keep a low profile
+* If you need to get there fast, describe how you avoid the hustle and bustle of the city
 
-If you’re entering a place you’re not allowed in, you must Take a Big Risk.
+Then, roll +Environs.
 
 - **12+** You arrive uneventfully, or pick 1 Consequence and clear 1 Heat.
 - **10+** Pick 1 Consequence.
@@ -30,9 +33,7 @@ If you’re entering a place you’re not allowed in, you must Take a Big Risk.
 - It took you longer to get there than expected
 
 ### Steer Clear (Environs)
-When you lay low or maneuver to avoid getting into a dangerous situation, roll +Environs unless you have a connection to the neighborhood. 
-
-If you have a connection to the neighborhood, you may mark Heat to let the situation pass uneventfully.
+When you lay low or maneuver to avoid getting into a dangerous situation, describe how you take advantage of the surroundings and roll +Environs.
 
 If you’re already in a dangerous situation, or have been noticed by a threat, instead Take a Big Risk.
 
@@ -41,7 +42,7 @@ If you’re already in a dangerous situation, or have been noticed by a threat, 
 - **7 - 9** Mark Heat to let the situation pass uneventfully, or get swept up and take +1 forward to Take a Big Risk.
 
 ### Get Your Bearings
-When you take a moment to get the lay of the land, you may ask one question. If you pick a reaction or have a connection to the neighborhood, you may ask a second question. If you use anything you learn you may take +1 to either **Transit** or **Steer Clear**.
+When you take a moment to determine where you are or the right direction to go in, you may ask one Question. If you pick a reaction or have a connection to the neighborhood, you may ask a second question. If you use anything you learn you may take +1 to either **Transit** or **Steer Clear**.
 
 #### Questions
 - Where is the best place to hide?
@@ -56,7 +57,7 @@ When you take a moment to get the lay of the land, you may ask one question. If 
 - You had to retrace your steps; ask the Magistrate whose attention you attracted
 
 ### Ear to the Ground (Lore)
-When you listen out for interesting information, name something you’re especially interested in -- a public figure, a faction, a neighborhood, an event, etc. -- and roll +Lore. If you have a connection to the neighborhood, you may roll with advantage.
+When you listen out for interesting information, name something you’re especially interested in -- a public figure, a faction, a neighborhood, an event, etc. -- and roll +Lore. 
 
 - **12+** The Magistrate will tell you a rumor related to the named subject. Mark Heat to get a second rumor of the Magistrate’s choice.
 - **10+** You may mark Heat to hear a rumor related to the named subject, or the Magistrate will tell you an interesting but unrelated rumor.
@@ -68,7 +69,7 @@ When you listen out for interesting information, name something you’re especia
 - You’re stuck in this location for a while
 
 ### Appraise Circumstances (Lore)
-When you take time to study the situation to see what’s really going on, roll +Lore. If you have a connection to the neighborhood, you may roll with advantage.
+When you take time to study the situation to see what’s really going on, roll +Lore.
 
 - **12+** Ask two questions; then ask another or clear one Heat.
 - **10+** Ask two questions.
@@ -91,20 +92,20 @@ When you try something new -- for example, tasting food, listening to music, see
 - You interrupt someone nearby to urge them to try it
 
 ### Get Something (Network)
-When you work your connections to get information, a service, a rare item, or access to a restricted location, say what you need and roll +Network. If you have a connection with the neighborhood, you may roll with advantage.
+When you work your connections to get information, a service, a rare item, or access to a restricted location, say what you need and roll +Network.
   
-If coercing someone, use Apply Pressure instead. If bargaining, use Negotiate.
+If your efforts are focused on an individual, use Direct Someone to Act.
 
 - **12+** Get exactly what you want, or clear 1 Heat and pick 1 Compromise.
 - **10+** Mark 1 heat to get exactly what you want. Otherwise pick 1 Compromise.
 - **7 - 9** Pick 2 or mark Heat to pick 1 Compromise.
 
 #### Compromises
-- It’s not quite right.
-- It will lead back to you.
-- It’ll be ready when they say it’s ready.
-- You need to provide collateral or materials.
-- They ask for a favor.
+- It’s not quite right. Ask the Magistrate how.
+- It will lead back to you. Ask the Magistrate who else might be interested.
+- It’ll be ready when they say it’s ready. Ask the Magistrate when it will be ready.
+- You need to provide collateral or materials. Ask the Magistrate what else they need.
+- You owe someone a favor. Ask the Magistrate who.
 
 ### Observe Someone (Network)
 When you observe a specific person’s behavior, movements, or mannerisms to learn something about them, roll +Network. If you have a Tie with them, you may roll with advantage.
@@ -119,11 +120,11 @@ When you observe a specific person’s behavior, movements, or mannerisms to lea
 - What are they afraid might happen?
 - What do they have that’s valuable to me?
 - What is their weakness?
-- How can I get them to ____________ ?
+- How can I get them to `____________`?
 - What are they really feeling right now?
 
 ### Meet Someone New (Network)
-When you explore a possible connection with someone you don't know, describe how you size them up and roll +Network.
+When you explore a possible connection with someone you don't know at all or very well, describe how you size them up and roll +Network.
 
 - **12+** Pick two Shared Experiences. You may take +1 forward to any Social Interaction move.
 - **10+** Pick one Shared Experience and one Doubt. If you answer one of their Questions, you may take +1 forward to any Social Interaction move.
@@ -216,7 +217,7 @@ If you meet any counter or demand, they comply.
 ### Use a Secret
 When you use secret knowledge in your social interactions, describe how you use the secret without revealing it, then roll with advantage. But if any of the dice show 1 or 2, then you **Reveal a Secret**.
 
-> #### Example of "Use a Secret"
+> **Example of "Use a Secret**
 > Miabella is negotiating with the pirate Donatella for the secret location of the treasure under the city. Miabella offers to split the treasure with Donatella in exchange for the location. 
 >
 > Miabella knows the pirate Donatella has a secret forbidden love named Arvel. The player opts to use this knowledge to influence Donatella, implying that certain members of the elite, including Arvel, would appreciate uncovering this essential part of the city's history.
@@ -244,12 +245,12 @@ Follow the fiction to determine if the secret becomes public knowledge. If it do
 <a id="Risky-Moves"></a>
 ## Risky Moves
 ### Use Power
-When you tap into your connection to magic, technology, or other mysterious power, describe what you hope to accomplish. The Magistrate will assign a complexity. If the complexity is equal to or less than your max, roll. You may take +1 if you have a connection to the neighborhood or some other advantage or -2 if you do not.
+When you tap into your connection to magic, technology, or other mysterious power, describe what you hope to accomplish. The Magistrate will assign a **complexity**. If the complexity is equal to or less than your max, roll normally. If it is above your max, roll with disadvantage. You may take +1 if you have a connection to the neighborhood or -2 if you do not.
 
 - **12+** You achieve your goal flawlessly.
 - **10+** Pick 1 Consequence.
 - **7-9** Pick 2 Consequences OR the power **backfires**.
-- **7-** The power **backfires**.
+- **6-** The power **backfires**.
 
 #### Consequences
 - Lesser effect (in area, duration, scale, or intensity)
@@ -272,7 +273,7 @@ When the power backfires, roll +complexity. **Note**: Rolling lower is better.
 - Trigger permanent side effect: How are you different?
 
 ### Take a Big Risk
-When you do something dangerous, felonious, violent, or imprudent describe your desired outcome, mark Heat and roll + most relevant attribute. Outcomes should align with the fiction. You probably can’t defeat a trained warrior in one-on-one combat even if you roll a **10+**.
+When you do something dangerous, felonious, violent, or imprudent describe the what you fear might happen, mark Heat and roll + most relevant attribute. Outcomes should align with the fiction. You probably can’t defeat a trained warrior in one-on-one combat even if you roll a **10+**.
 
 - **12+** You succeed in what you set out to do, and you may pick a second outcome from the consequences list below or clear 1 Heat.
 - **10+** You succeed in what you set out to do. You may mark Heat to pick another outcome from the consequences list below.
