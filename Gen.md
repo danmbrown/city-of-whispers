@@ -3,13 +3,18 @@
 # Getting Started
 
 ## Establish the Contours of the City
+*The heart of the game is the map of the city. Throughout the game you'll add to the map. To get started, the group will add some key neighborhoods and landmarks.*
+
 Take a [**city map template**](city-of-whispers-map-templates.pdf) and add one of the listed elements. Cross out the element and pass the page to the next player. After everyone has taken a turn with the map, pass the paper around one more time so players may optionally add another element.
  
-## Determine the Backdrop
-*Optional*
+## Determine the Backdrop *(Optional)*
+*The backdrop establishes the overarching events or circumstances. The characters may be embroiled in these events, or they may simply feel the repercussions of them.*
+
 Roll for or select options on the [**backdrop table**](Lists.md#backdrops) to determine what's going on in the world and in the city at large. Discuss the basic sketch the table gives you to create a more fleshed out story. Do not sweat the details too much at this stage.
  
 ## Select Playbooks
+*The playbooks each represent a different type of city denizen, with an emphasis on how they contribute to the city as a complex animate organism. No playbook prescribes an occupation. Instead, the character's occupation or trade or lifestyle is a function of how they are integrated into the city's ecosystem.*
+
 Review the playbooks and select one. Every player should have a different playbook. 
 
 Make note of the playbook's favored attribute, and then assign your attribute scores based on one of these arrays:  
@@ -25,16 +30,14 @@ Pick two starting moves from your playbook.
 
 Select your character's power, and set the maximum complexity to 0.
 
-## Update the Map
+## Update the Map: Characters
 Go around the table and add a detail to the map based on your character's concept. Make up whatever detail you like, but the playbook has some ideas to get you going.
 
-## Create Factions
+## Create Factions *(Optional)*
 Determine what faction your character belongs to by rolling from or selecting from the [**factions tables**](Lists.md#factions).
 
-## Update the Map
-Go around the table and select a neighborhood to be your faction's base of operations.
-
-Then go around the table again and add a detail to the map related to your faction.
+## Update the Map: Factions *(Optional)*
+Go around the table and select a neighborhood to be your faction's base of operations, and add a detail to the map related to your faction.
 
 ## Write Beliefs and Secrets
 Your character starts with two beliefs and two Ties.
@@ -47,3 +50,5 @@ Ties are people that you know something about. When interacting with others, you
 Go around the table and introduce your character.
 
 Then, go around the table again and ask two of your Relationship questions. As players provide responses, the Magistrate should create a relationship map that illustrates the connections between the characters.
+
+

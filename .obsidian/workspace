@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8b91d256bba88670",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Characters.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "caeb233d455866d5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Moves.md",
+            "file": "index.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Moves.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +100,15 @@
   },
   "active": "caeb233d455866d5",
   "lastOpenFiles": [
-    "Moves.md",
-    "Characters.md",
-    "Magistrate.md",
-    "City.md",
     "index.md",
-    "Lists.md",
-    "OldStuff.md",
-    "Playbooks/Wellspring.md",
-    "Playbooks/Conduit.md",
-    "Playbooks/Skyline.md"
+    "MagistrateGuide.md",
+    "Setting.md",
+    "Magistrate.md",
+    "Introduction.md",
+    "Safety.md",
+    "Moves.md",
+    "Gen.md",
+    "Characters.md",
+    "City.md"
   ]
 }
