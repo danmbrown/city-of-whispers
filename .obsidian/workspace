@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "Magistrate.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Magistrate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "caeb233d455866d5",
   "lastOpenFiles": [
-    "index.md",
-    "MagistrateGuide.md",
-    "Setting.md",
     "Magistrate.md",
+    "MagistrateGuide.md",
+    "Lists.md",
     "Introduction.md",
-    "Safety.md",
-    "Moves.md",
+    "index.md",
     "Gen.md",
+    "City.md",
     "Characters.md",
-    "City.md"
+    "Safety.md",
+    "Setting.md"
   ]
 }

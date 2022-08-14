@@ -1,25 +1,30 @@
 [Home](index.md)
 
 ## Agenda
--   Portray a bustling, diverse, cosmopolitan metropolis
--   Fill the characters’ lives with schemes and intrigue
--   Play to find out what happens
+### Portray a bustling, diverse, cosmopolitan metropolis
+There's always something going on in the city. Cities are a bastion of innovation, creativity, and action. It's in cities that we come to understand that everyone is the main character in their own story. The players should feel like there's something happening around every corner. They should glimpse only a small percentage of the things happening in the city, and understand that the most interesting things happening have nothing to do with them.
+
+### Fill the characters’ lives with schemes and intrigue
+Living in a city means living cheek-by-jowl with your neighbors. They can't help but insinuate themselves into each others' lives. 
+
+### Play to find out what happens
+While it's helpful to come to the table with some ideas of plot hooks, adversaries, locations, and supporting characters, let the story unfold on its own. Don't make any assumptions about how the story ends, or even how it middles. As the Magistrate, be prepared to set the stakes, inject dramatic twists, and generally challenge characters in their efforts to meet their goals.
 
 
 ## Principles
--   Address the characters, not the players
--   Embrace the urban and the cosmopolitan
--   Test their connection to the city
--   Make a move that follows
--   Never speak the name of your move
+- Address the characters, not the players
+- Embrace the urban and the cosmopolitan
+- Test their connection to the city
+- Make a move that follows
+- Never speak the name of your move
 - Give every character a routine
--   Name every person
--   Ask questions and use the answers
--   Be a fan of the characters
--   Think dangerous
--   Begin and end with the fiction
--   Think offscreen, too
--   Imply machinations behind the scenes
+- Name every person
+- Ask questions and use the answers
+- Be a fan of the characters
+- Think dangerous
+- Begin and end with the fiction
+- Think offscreen, too
+- Imply machinations behind the scenes
 
 
 ## Moves

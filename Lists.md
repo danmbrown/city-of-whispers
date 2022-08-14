@@ -294,7 +294,7 @@ If you need a rumor, roll 2d20 and 2d6. The d20s describe the actor and their ac
 13. Abandoned wagon, one wheel missing
 14. Narrow patch of greenery, lovingly maintained by neighbors
 15. Storefront with signs indicating going out of business
-16. Bird wrestling scraps from a group of rodents
+16. A bird wrestling scraps from a group of rodents
 17. Rain-slicked street reflecting lamplight
 18. Traffic jam caused by unruly domestic beasts
 19. Baker offering samples of a new treat
@@ -309,4 +309,13 @@ If you need a rumor, roll 2d20 and 2d6. The d20s describe the actor and their ac
 28. A lone street performer asking for a volunteer from the audience
 29. A crowd emptying out from a theater after a performance
 30. The sounds of cheers from a nearby sporting venue
-31. 
+31. A crowd gathered around a street performer
+32. A few people gathered around a hustler taking money from tourists
+33. Kids rolling a trash receptacle down the street 
+34. A dozen stray domestic animals emerging suddenly from a sewer grate
+35. Clotheslines hung over an alley with beautiful, multicolored robes draped over them
+36. The sound of a distant busker in an otherwise quiet neighborhood
+37. A collapsed area filled with water, being used as a swimming pool
+38. A stone marker, memorializing a forgotten event
+39. Fungus growing along the stone wall of an alley
+40. 

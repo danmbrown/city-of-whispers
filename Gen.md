@@ -22,7 +22,6 @@ Make note of the playbook's favored attribute, and then assign your attribute sc
 - +2, +1, 0, -1
 - +2, +1, 0, -1
 - +1, +1, +1, -2
-- +1, +1, 0 ,0
 - +2, +2, -1, -1
  
 ## Select Starting Moves and Power
