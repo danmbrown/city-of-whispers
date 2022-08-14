@@ -1,5 +1,6 @@
 [Home](index.md)
 
+# Magistrate's Agenda, Principles, and Moves
 ## Agenda
 ### Portray a bustling, diverse, cosmopolitan metropolis
 There's always something going on in the city. Cities are a bastion of innovation, creativity, and action. It's in cities that we come to understand that everyone is the main character in their own story. The players should feel like there's something happening around every corner. They should glimpse only a small percentage of the things happening in the city, and understand that the most interesting things happening have nothing to do with them.
