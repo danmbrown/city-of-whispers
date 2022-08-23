@@ -14,10 +14,10 @@ In addition to a mechanical impact, marking Heat should influence the direction 
 
 When directed to roll -Heat, subtract the total number of Heat marked from your roll.
 
-- Pressure from Rivals: If you roll a 1 on either die any move, the Magistrate introduces an additional complication
-- Pressure from Superiors: Roll with disadvantage on Playbook Moves
-- Suspicion of Friends: Roll with disadvantage on City Moves
-- Suspicion of Authorities: Roll with disadvantage on Risky Moves
+- **Pressure from Rivals**: If you roll a 1 on either die any move, the Magistrate introduces an additional complication
+- **Pressure from Superiors**: Roll with disadvantage on Playbook Moves
+- **Suspicion of Friends**: Roll with disadvantage on City Moves
+- **Suspicion of Authorities**: Roll with disadvantage on Risky Moves
 
 ## Power
 Every character has the ability to tap into a source of power. Upon generating your character, determine which type of power they can use and how that manifests in your city.
