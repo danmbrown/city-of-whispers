@@ -14,7 +14,10 @@ While it's helpful to come to the table with some ideas of plot hooks, adversari
 
 ## Principles
 ### Embrace the urban and the cosmopolitan
-Living in a city is different from exploring a dungeon or wandering the wilderness. The mystery isn't so much about what lies beyond the next corner, but more about how so-and-so might stab you in the back. At the same time, the city is its own source of wonder and delight. This city is at the center of your world, boasting a near endless variety of cultures and peoples.
+Living in a city is different from exploring a dungeon or wandering the wilderness. The mystery isn't so much about what lies beyond the next corner, but more about how so-and-so might stab you in the back. At the same time, the city is its own source of wonder and delight. This city is at the center of this world, boasting a near endless variety of cultures and peoples. As Magistrate, you have license to 
+
+### Embrace the fantastic and the wondrous
+The city is crawling with fantastic creatures -- cultured humanoids of all sizes, domesticated beasts, and vermin. People and beasts and creatures brought together in a city behave very differently than they do in the jungles and forests and wastelands. Moreover, the city is infused with magic and arcane technologies, likely of several different types. As the Magistrate, you have license to bring these elements to life, to craft visions of a city that fuses our modern understanding of urban environments with the best speculative fiction has to offer.
 
 ### Imply machinations behind the scenes
 Every person the characters meet has more going on than meets the eye. They have schemes and dealings. They have connections and opportunities. The people the characters meet may be involved in the characters' stories, but they're not the main characters: this is not the most important thing in their world at the moment. They have someone else putting pressure on them. They have a meeting they need to get to. They have their wealth tied up in some bigger risk.
