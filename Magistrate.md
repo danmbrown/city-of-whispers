@@ -35,20 +35,26 @@ Every person the characters meet has more going on than meets the eye. They have
 
 
 ## Moves
-- Turn up the Heat
-- Reveal a rival or a Tie
-- Disrupt someone's routine
-- Put them in conflict with their faction
-- Have the city betray them
-- Make offers they can't refuse
-- Take them to a new neighborhood
-- Reveal a mysterious aspect of the city
-- Issue a request from an unlikely place
-- Reveal unwanted attention -- the public, a rival faction, or a powerful person
-- Reveal an unwelcome truth
-- Turn their move back on them
-- Separate them
-- Give an opportunity that fits their abilities
-- Show a downside to their connection to the city
-- Offer an opportunity, with or without cost
-- Tell them the requirements or consequences and ask
+### Turn up the Heat
+Heat is the currency representing bad things happening to the character. The more Heat they're under, they more they are under the scrutiny of the city's resident powers.
+
+### Reveal a rival or a Tie
+People show up at the most inopportune times. Nothing shakes up a situation more than a person appearing on the scene. 
+
+### Disrupt someone's routine
+### Put them in conflict with their faction
+### Have the city betray them
+Knowledge of the city can be more powerful than knowing magic. But the city serves no one but itself. Just when a character thinks they can be too clever, when they think their intimacy with the city will get them out of a jam is just when the city reveals it has other plans.
+
+### Make offers they can't refuse
+### Take them to a new neighborhood
+### Reveal a mysterious aspect of the city
+### Issue a request from an unlikely place
+### Reveal unwanted attention from the public, a rival faction, or a powerful person
+### Reveal an unwelcome truth
+### Turn their move back on them
+### Separate them
+### Give an opportunity that fits their abilities
+### Show a downside to their connection to the city
+### Offer an opportunity, with or without cost
+### Tell them the requirements or consequences and ask
