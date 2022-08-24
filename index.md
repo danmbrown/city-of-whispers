@@ -30,6 +30,7 @@ City of Whispers is a fantasy roleplaying game taking place in a city invented b
 ### For the Magistrate
 - [Magistrate Agenda, Principles, and Moves](Magistrate.md)
 - [Magistrate's Guide to Players](MagistrateGuide.md)
+- [Getting the Story Going](FirstSession.md)
 - [Lists](Lists.md)
 
 <a id="Playbooks"></a>

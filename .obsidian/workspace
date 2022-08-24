@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Introduction.md",
+            "file": "FirstSession.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction.md",
+                "file": "FirstSession.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "caeb233d455866d5",
   "lastOpenFiles": [
+    "FirstSession.md",
+    "index.md",
+    "Magistrate.md",
+    "MagistrateGuide.md",
     "Introduction.md",
     "Characters.md",
     "Lists.md",
     "Safety.md",
     "Setting.md",
-    "OldStuff.md",
-    "Moves.md",
-    "MagistrateGuide.md",
-    "Magistrate.md",
-    "ListofMoves.md"
+    "OldStuff.md"
   ]
 }
