@@ -1,5 +1,6 @@
+[Home](index.md)
 # Getting the Story Going
-### 1. Determine a good location where everyone might be
+### 1. Determine a location where everyone starts
 - A marketplace looking for obscure items
 - On the public transportation system
 - Sharing a carriage to a party
@@ -18,4 +19,5 @@ Make sure the characters are in the middle of the situation or close enough to i
 ### 3. Reveal a character; Imply a conspiracy
 * One of the character's Ties
 * A well-known public figure
+* A mysterious person fleeing the scene
 

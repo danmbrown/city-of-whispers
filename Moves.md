@@ -31,6 +31,7 @@ Then, roll +Environs.
 - You end up on the wrong side of the neighborhood
 - Your arrival or departure is noticed by someone
 - It took you longer to get there than expected
+- You needed to call in a favor to your faction
 
 ### Steer Clear (Environs)
 When you lay low or maneuver to avoid getting into a dangerous situation, describe how you take advantage of the surroundings and roll +Environs.
@@ -42,12 +43,12 @@ If you’re already in a dangerous situation, or have been noticed by a threat, 
 - **7 - 9** Mark Heat to let the situation pass uneventfully, or get swept up and take +1 forward to Take a Big Risk.
 
 ### Get Your Bearings
-When you take a moment to determine where you are or the right direction to go in, you may ask one Question. If you pick a reaction or have a connection to the neighborhood, you may ask a second question. If you use anything you learn you may take +1 to either **Transit** or **Steer Clear**.
+When you take a moment to determine where you are or the right direction to go in, you may ask one Question. If you pick a Reaction or have a connection to the neighborhood, you may ask a second question. If you use anything you learn you may take +1 to either **Transit** or **Steer Clear**.
 
 #### Questions
 - Where is the best place to hide?
-- Where is [specific person or establishment or landmark] located?
-- Where is the best source of __________?
+- Where is \[specific person or establishment or landmark] located?
+- Where is the best source of \_\_\_?
 - What direction should I avoid?
 - What is the best way through this area?
 
@@ -67,6 +68,7 @@ When you listen out for interesting information, name something you’re especia
 - Someone notices you snooping around
 - Something about the rumor is incorrect
 - You’re stuck in this location for a while
+- You accidentally implicate your faction
 
 ### Appraise Circumstances (Lore)
 When you take time to study the situation to see what’s really going on, roll +Lore.
@@ -76,8 +78,8 @@ When you take time to study the situation to see what’s really going on, roll 
 - **7 - 9** Ask one question. Or mark Heat to ask two.
 
 #### Questions
-- What here is useful or valuable to me?
-- What is the biggest threat to me?
+- What here is useful or valuable to me or my faction?
+- What is the biggest threat to me or my faction?
 - What changed here recently?
 - What here is not as it seems?
 - What happened here recently?
@@ -105,7 +107,8 @@ If your efforts are focused on an individual, use Direct Someone to Act.
 - It will lead back to you. Ask the Magistrate who else might be interested.
 - It’ll be ready when they say it’s ready. Ask the Magistrate when it will be ready.
 - You need to provide collateral or materials. Ask the Magistrate what else they need.
-- You owe someone a favor. Ask the Magistrate who.
+- You had to tap into your faction's network. Ask the Magistrate how this affects your standing.
+- You owe someone a favor. Ask the Magistrate what they expect in return.
 
 ### Observe Someone (Network)
 When you observe a specific person’s behavior, movements, or mannerisms to learn something about them, roll +Network. If you have a Tie with them, you may roll with advantage.
@@ -135,6 +138,7 @@ When you explore a possible connection with someone you don't know at all or ver
 - You have a common interest or vice.
 - You have similar perspectives or prejudices.
 - You have a similar background, career, or neighborhood connection.
+- You belong to the same faction.
 
 #### Doubts
 - They behave suspiciously or immorally.
@@ -209,6 +213,7 @@ If you meet any counter or demand, they comply.
 - Intend revenge or betrayal
 - Disappear
 - Spread a rumor about you
+- Diminish your standing in your faction
 
 
 <a id="Secrets-Moves"></a>
@@ -217,7 +222,8 @@ If you meet any counter or demand, they comply.
 ### Use a Secret
 When you use secret knowledge in your social interactions, describe how you use the secret without revealing it, then roll with advantage. But if any of the dice show 1 or 2, then you **Reveal a Secret**.
 
-> **Example of "Use a Secret**
+> **Example of _Use a Secret_**
+>
 > Miabella is negotiating with the pirate Donatella for the secret location of the treasure under the city. Miabella offers to split the treasure with Donatella in exchange for the location. 
 >
 > Miabella knows the pirate Donatella has a secret forbidden love named Arvel. The player opts to use this knowledge to influence Donatella, implying that certain members of the elite, including Arvel, would appreciate uncovering this essential part of the city's history.
@@ -241,6 +247,7 @@ Follow the fiction to determine if the secret becomes public knowledge. If it do
 - They sincerely deny the truth of the secret, leaving you in doubt
 - They make you an offer or threat for your discretion
 - They start a rumor about you
+- Your standing in your faction is diminished
 
 <a id="Risky-Moves"></a>
 ## Risky Moves
@@ -271,6 +278,7 @@ When the power backfires, roll +complexity. **Note**: Rolling lower is better.
 - Harm allies: What happens to them?
 - Cause collateral damage: What happens to buildings and property around you?
 - Trigger permanent side effect: How are you different?
+- Implicate your faction: How does this connect to them?
 
 ### Take a Big Risk
 When you do something dangerous, felonious, violent, or imprudent describe the what you fear might happen, mark Heat and roll + most relevant attribute. Outcomes should align with the fiction. You probably can’t defeat a trained warrior in one-on-one combat even if you roll a **10+**.
@@ -311,6 +319,7 @@ When you check in on your scheme, roll +Productivity. You may do this once per s
 - An investor wants to buy you out
 - The law takes notice of the operation and attempts to neutralize the criminal aspects
 - An employee is embezzling funds
+- Your faction takes an interest
 
 ### Use Asset
 You may spend an asset to:

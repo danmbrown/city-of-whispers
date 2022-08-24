@@ -45,7 +45,8 @@ People show up at the most inopportune times. Nothing shakes up a situation more
 
 ### Disrupt someone's routine
 ### Put them in conflict with their faction
-Factions provide a bit of safety in an otherwise unforgiving environment. Characters can turn to their factions for help.
+Factions provide a bit of safety in an otherwise unforgiving environment. Characters can turn to their factions for help. But a faction can turn on any of its members in a heartbeat, should the character no longer represent the faction's best interests. Or perhaps the character is more valuable to the faction ejected and ostracized. Or perhaps there's been a shift in power within the faction, and the characters' allies are no longer in control. 
+
 ### Have the city betray them
 Knowledge of the city can be more powerful than knowing magic. But the city serves no one but itself. Just when a character thinks they can be too clever, when they think their intimacy with the city will get them out of a jam is just when the city reveals it has other plans.
 
