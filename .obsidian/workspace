@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Moves.md",
+            "file": "Magistrate.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Moves.md",
+                "file": "Magistrate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "caeb233d455866d5",
   "lastOpenFiles": [
-    "Moves.md",
     "Magistrate.md",
-    "FirstSession.md",
-    "index.md",
-    "MagistrateGuide.md",
-    "Introduction.md",
-    "Characters.md",
+    "Moves.md",
+    "City.md",
     "Lists.md",
-    "Safety.md",
-    "Setting.md"
+    "FirstSession.md",
+    "Introduction.md",
+    "ListofMoves.md",
+    "MagistrateGuide.md",
+    "index.md",
+    "Characters.md"
   ]
 }

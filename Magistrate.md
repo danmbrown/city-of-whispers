@@ -44,6 +44,9 @@ Heat is the currency representing bad things happening to the character. The mor
 People show up at the most inopportune times. Nothing shakes up a situation more than a person appearing on the scene. And when that person has a connection with the characters, the more difficult the situation becomes. And sometimes, a person merely showing up changes an innocuous circumstance into a situation.
 
 ### Disrupt someone's routine
+### Introduce a complication to their faction
+Factions are represented by aspects -- generally benefits or advantages held by the faction -- and complications -- things that make it difficult for the faction to work toward its ends. A character's attachment to their faction can be more important to them than their family. Their actions may not have direct and immediate consequences to them, but may impact their faction, an indirect outcome that can yet be far more devastating.
+
 ### Put them in conflict with their faction
 Factions provide a bit of safety in an otherwise unforgiving environment. Characters can turn to their factions for help. But a faction can turn on any of its members in a heartbeat, should the character no longer represent the faction's best interests. Or perhaps the character is more valuable to the faction ejected and ostracized. Or perhaps there's been a shift in power within the faction, and the characters' allies are no longer in control. 
 
@@ -51,6 +54,8 @@ Factions provide a bit of safety in an otherwise unforgiving environment. Charac
 Knowledge of the city can be more powerful than knowing magic. But the city serves no one but itself. Just when a character thinks they can be too clever, when they think their intimacy with the city will get them out of a jam is just when the city reveals it has other plans.
 
 ### Make offers they can't refuse
+Operating in a city means constantly entertaining new opportunities. Street smarts is just staying out of trouble even when it looks too good to be true. But some offers, no matter how much they stink, 
+
 ### Take them to a new neighborhood
 
 

@@ -327,14 +327,15 @@ You may spend an asset to:
 - Roll Social Interaction moves with advantage
 - Take +1 to a Network move for each asset spent
 - Repair an item
+- Improve your standing in your faction
 
 <a id="Faction-Moves"></a>
 ## Faction Moves
 
 ### Secure Resource
-To acquire resources, including materials, expertise, and personnel, a faction may make use of its existing aspects so long as they’re relevant to the acquisition. If the faction is operating in a neighborhood it controls with aspects that help the acquisition, it may include those aspects when rolling.
+To acquire resources, including materials, expertise, and personnel, a faction may make use of its existing aspects so long as they’re relevant to the acquisition. If the faction is operating in a neighborhood it controls, it may include the neighborhood as an aspect when rolling.
 
-When a faction works to acquire a rare or expensive resource, roll +aspects.
+When a faction works to acquire a rare, expensive, or illicit resource, roll +aspects.
 
 - **11+** The faction acquires the resource, adding that resource to its aspects.
 - **8 - 10** The faction acquires the resource, but must rewrite one of its aspects.
@@ -346,8 +347,8 @@ When the faction starts a new project, ask the Magistrate what expertise, resour
 When the faction dedicates effort to completing a project (and has at least one required resource) roll +aspects.
 
 - **11+** The faction completes the project and adds the project to its list of aspects.
-- **8 - 10** The faction completes the project in part, but must acquire another of the specified resources before it can roll again.
-- **7-** The faction completes the project in part, but must acquire two more of the specified resources before it can roll again.
+- **8 - 10** The faction completes the project in part, but must acquire another resource. One previously named or one now named by the Magistrate. It will be complete upon acquiring the resource.
+- **7-** The faction completes the project in part, but must acquire another resource and roll Complete Project again.
 
 *Update the map to show the new project.*
 
@@ -387,16 +388,16 @@ When a faction’s network spreads a rumor, say what it is and roll +aspects. Th
 - **7-** The rumor gets mangled. The Magistrate will rewrite the rumor.
 
 ### Eliminate Threat
-When a faction attempts to remove a complicating aspect from itself or a neighborhood it owns, the Magistrate will tell you what resources you need to deal with it. If you have them, roll +aspects. The faction may use any beneficial aspects of itself or the neighborhood, so long as it has at least the resource(s) specified by the Magistrate.
+When a faction attempts to remove a complicating aspect from itself or a neighborhood it owns, the Magistrate will tell you what resources you need to deal with it. If you have them, roll +aspects. The faction may use any beneficial aspects of itself, so long as it has at least the resource(s) specified by the Magistrate.
 
-- **11+** The complication is eliminated, and faction may add a new aspect of its choice.
+- **11+** The complication is eliminated, and the faction may add a new aspect of its choice.
 - **8 - 10** The complication is eliminated and the faction uses up the resource.
 - **7-** The complication remains but is reduced. The Magistrate rewrites the complication to reduce its scope, scale, or power.
 
 *Update the map to show the status of the threat.*
 
 ### Alliance
-When a faction receives aid from another faction, the allied faction indicates how it helps using one of its aspects. The receiving faction received +1 on its roll for every faction helping. But must take the complicating aspect "indebted" regardless of the outcome. The allied faction shares in the consequences of the move.
+When a faction receives aid from another faction, the allied faction indicates how it helps using one of its aspects. The receiving faction receives +1 on its roll for every faction helping. But must take the complicating aspect "indebted" regardless of the outcome. The allied faction shares in the consequences of the move.
 
 ### Lose Cohesion
 When a faction succumbs to a threat erase one of its aspects. If a faction has more complications than aspects, it disperses. Any player characters that belong to the faction may join a new faction, with any remaining aspect as the starting aspect of the  new faction.
