@@ -1,6 +1,6 @@
 [Home](index.md) | [Move Details](Moves.md)
 
-**CITY MOVES**
+[**CITY MOVES**](Moves.md#City-Moves)
 - Transit (Environs)
 - Steer Clear (Environs)
 - Get Your Bearings (Environs)
@@ -10,31 +10,33 @@
 - Get Something (Network)
 - Observe Someone (Network)
 - Meet Someone New (Network)
+- Use Belief
 
-**SCHEME MOVES**
-- Set Up a Scheme (Network)
-- Run the Scheme
-- Use Asset
-
-**CITY CONNECTION MOVES**
+[**CITY CONNECTION MOVES**](Moves.md#Connection-Moves)
 - Recall Neighborhood Connection
 - Hear Demand
 - Meet Demand
 - Retire
 
-**SOCIAL MOVES**
-- Apply Pressure
-- Negotiate
-- Convince or Provoke
+[**SOCIAL INTERACTION MOVES**](Moves.md#Social-Interaction-Moves)
+- Direct Someone to Act
+
+[**SECRETS MOVES**](Moves.md#Secrets-Moves)
 - Use a Secret
 - Reveal a Secret
 
-**RISKY MOVES**
-- Use Magic
+[**RISKY MOVES**](Moves.md#Risky-Moves)
+- Use Power
 - Backfire (lower is better)
 - Take a Big Risk
 
-**FACTION MOVES**
+
+[**SCHEME MOVES**](Moves.md#Scheme-Moves)
+- Set Up a Scheme (Network)
+- Run the Scheme
+- Use Asset
+
+[**FACTION MOVES**](Moves.md#Faction-Moves)
 - Secure Resource
 - Complete Project
 - Overtake Neighborhood

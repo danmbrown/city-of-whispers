@@ -17,7 +17,7 @@ For any City Move, if you have a connection to the neighborhood you're in (or tr
 ### Transit (Environs)
 When you travel to another neighborhood:
 
-* If it is new to you, describe how you determine the best way to get there
+* If it is new to you or you rarely go, describe how you determine the best way to get there
 * If you need to get there unnoticed, describe how you keep a low profile
 * If you need to get there fast, describe how you avoid the hustle and bustle of the city
 

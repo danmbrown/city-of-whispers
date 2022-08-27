@@ -57,10 +57,14 @@ Knowledge of the city can be more powerful than knowing magic. But the city serv
 Operating in a city means constantly entertaining new opportunities. Street smarts is just staying out of trouble even when it looks too good to be true. But some offers, no matter how much they stink, 
 
 ### Take them to a new neighborhood
-
+Unfamiliar neighborhoods present their own challenges. Generally, city-dwellers have enough street smarts and geographical knowledge to navigate even a new neighborhood comfortably. In the game, lack of a connection to the neighborhood can put the characters at a disadvantage. New neighborhoods also give you an opportunity to engage the players in further shaping the city, potentially adding new aspects.
 
 ### Reveal a mysterious aspect of the city
+Even well-known neighborhoods offer opportunities to reveal some previously unknown denizen, landmark, or resource. 
+
 ### Issue a request from an unlikely place
+Perhaps they receive a commission from someone who shouldn't be familiar with the character's work. Perhaps they are contacted by a rival faction, or a faction with substantially more resources than their own. Perhaps the character's estranged and long-lost family member emerges suddenly. And all these folks aren't merely asking for help: they need that character and no one else.
+
 ### Reveal unwanted attention from the public, a rival faction, or a powerful person
 ### Reveal an unwelcome truth
 ### Turn their move back on them
