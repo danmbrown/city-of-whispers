@@ -36,7 +36,9 @@ When you **Observe Someone** you may always ask one of these questions:
 When you **Get Something**, you may roll with Sway instead of Network.
 
 ### Perform
-You can act, sing, play an instrument, or otherwise entertain a live audience. What do you do? How did you cultivate this talent? You have a **Shtick** with five uses. When you perform for someone describe what it looks like, mark a Shtick and make your next roll involving that person with advantage.
+You can act, sing, play an instrument, or otherwise entertain a live audience. What do you do? How did you cultivate this talent? You have a **Shtick** with five uses. When you perform for one or more people describe it, mark a Shtick and roll. On a hit, describe how the audience is captivated or riled up, then pick one. On a 10+, clear one Shtick.
+- You have them where you want them: Roll your next move with advantage
+- You learn something about someone in the audience: Gain a Tie
 
  
 ### Den of Amusement
