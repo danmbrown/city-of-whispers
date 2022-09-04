@@ -43,7 +43,6 @@ Heat is the currency representing bad things happening to the character. The mor
 ### Reveal a rival or a Tie
 People show up at the most inopportune times. Nothing shakes up a situation more than a person appearing on the scene. And when that person has a connection with the characters, the more difficult the situation becomes. And sometimes, a person merely showing up changes an innocuous circumstance into a situation.
 
-### Disrupt someone's routine
 ### Introduce a complication to their faction
 Factions are represented by aspects -- generally benefits or advantages held by the faction -- and complications -- things that make it difficult for the faction to work toward its ends. A character's attachment to their faction can be more important to them than their family. Their actions may not have direct and immediate consequences to them, but may impact their faction, an indirect outcome that can yet be far more devastating.
 
@@ -53,26 +52,28 @@ Factions provide a bit of safety in an otherwise unforgiving environment. Charac
 ### Have the city betray them
 Knowledge of the city can be more powerful than knowing magic. But the city serves no one but itself. Just when a character thinks they can be too clever, when they think their intimacy with the city will get them out of a jam is just when the city reveals it has other plans.
 
-### Give them a Secret
-
+### Give them a secret
+Secrets are powerful implements in the City of Whispers, but they can betray you as soon as aid you. In the game, secrets are represented by [Insights](Lists.md#secrets) about Ties. That is, the kind of thing you know about a specific person, like their romantic connections or criminal history. Giving someone a secret is a double-edged sword. It's too valuable to give up but too effective not to use.
 
 ### Make offers they can't refuse
-Operating in a city means constantly entertaining new opportunities. Street smarts is just staying out of trouble even when it looks too good to be true. But some offers, no matter how much they stink, 
+Operating in a city means constantly entertaining new opportunities. Street smarts is just staying out of trouble even when it looks too good to be true. But some offers, no matter how much they stink, offer rewards that might solve a problem, or even make them go away.
 
 ### Take them to a new neighborhood
 Unfamiliar neighborhoods present their own challenges. Generally, city-dwellers have enough street smarts and geographical knowledge to navigate even a new neighborhood comfortably. In the game, lack of a connection to the neighborhood can put the characters at a disadvantage. New neighborhoods also give you an opportunity to engage the players in further shaping the city, potentially adding new aspects.
 
 ### Reveal a mysterious aspect of the city
-Even well-known neighborhoods offer opportunities to reveal some previously unknown denizen, landmark, or resource. 
+Even well-known neighborhoods offer opportunities to reveal some previously unknown denizen, landmark, or resource. And with every mystery comes an opportunity–one that can help them reach their goals faster–or a challenge–one that inevitably stands in the way of their goal.
 
 ### Issue a request from an unlikely place
 Perhaps they receive a commission from someone who shouldn't be familiar with the character's work. Perhaps they are contacted by a rival faction, or a faction with substantially more resources than their own. Perhaps the character's estranged and long-lost family member emerges suddenly. And all these folks aren't merely asking for help: they need that character and no one else.
 
+
+
 ### Reveal unwanted attention from the public, a rival faction, or a powerful person
 ### Reveal an unwelcome truth
 ### Turn their move back on them
-### Separate them
 ### Give an opportunity that fits their abilities
 ### Show a downside to their connection to the city
 ### Offer an opportunity, with or without cost
 ### Tell them the requirements or consequences and ask
+### Disrupt someone's routine

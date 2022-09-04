@@ -1,6 +1,16 @@
 [Home](../index.md)
 
-The exact nature of your occupation is immaterial to the city. The city only concerns itself with how you contribute to its vitality. Do you produce goods for others to consume? Do you hold essential knowledge? Do you encourge denizens to meet and transact? Do you exert a modicum of order over the denizens? Then you do not just live in the city, you are part of it.
+The exact nature of your occupation is immaterial to the city. The city only concerns itself with how you contribute to its vitality. 
+
+Do you produce goods for others to consume? 
+
+Do you hold essential knowledge? 
+
+Do you encourage denizens to meet and transact? 
+
+Do you exert a modicum of order over the denizens? 
+
+Then you do not just live in the city, you are part of it.
 
 #### Apparatus, The Sustainer
 **Favored Attribute**: Lore
@@ -29,7 +39,7 @@ The exact nature of your occupation is immaterial to the city. The city only con
 - Revel in the mysteries of the city
 
 #### Conduit, The Connector
-Favored Attribute: Network
+**Favored Attribute**: Network
 
 [Playbook](Conduit.md)
 
@@ -42,7 +52,7 @@ Favored Attribute: Network
 - Get to know the denizens of the city
 
 #### Crossroads, The Painkiller
-Favored Attribute: Sway
+**Favored Attribute**: Sway
 
 [Playbook](Crossroads.md)
 
