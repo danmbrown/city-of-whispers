@@ -53,6 +53,9 @@ Factions provide a bit of safety in an otherwise unforgiving environment. Charac
 ### Have the city betray them
 Knowledge of the city can be more powerful than knowing magic. But the city serves no one but itself. Just when a character thinks they can be too clever, when they think their intimacy with the city will get them out of a jam is just when the city reveals it has other plans.
 
+### Give them a Secret
+
+
 ### Make offers they can't refuse
 Operating in a city means constantly entertaining new opportunities. Street smarts is just staying out of trouble even when it looks too good to be true. But some offers, no matter how much they stink, 
 
