@@ -41,7 +41,7 @@ Do you produce goods for others to consume? Do you hold essential knowledge? Do 
 
 Yes? Then you do not just live in the city, you are part of it.
 
-| [Overview of Playbooks](Playbooks/_Overview.md) | [Character Keeper](https://docs.google.com/spreadsheets/d/19W-ZXKJxQCVb6nVTRmpdg9w0xR8xBqS2c9Jb80rYUrk/edit?usp=sharing) (Google Sheets)| 
+| [Overview of Playbooks](Overview.md) | [Character Keeper](https://docs.google.com/spreadsheets/d/19W-ZXKJxQCVb6nVTRmpdg9w0xR8xBqS2c9Jb80rYUrk/edit?usp=sharing) (Google Sheets)| 
 
 - [Apparatus](Playbooks/Apparatus.md), The Sustainer
 - [Clamor](Playbooks/Clamor.md), The Dabbler
