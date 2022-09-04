@@ -1,4 +1,4 @@
-[Home](../index.md) | [List of Playbooks](../index.md#Playbooks)
+| [Home](../index.md) | [List of Playbooks](Overview.md) |
 
 # Crossroads
 ## The Painkiller

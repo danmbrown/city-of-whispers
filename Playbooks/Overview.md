@@ -1,6 +1,9 @@
+[Home](../index.md)
+
 The exact nature of your occupation is immaterial to the city. The city only concerns itself with how you contribute to its vitality. Do you produce goods for others to consume? Do you hold essential knowledge? Do you encourge denizens to meet and transact? Do you exert a modicum of order over the denizens? Then you do not just live in the city, you are part of it.
 
 #### Apparatus, The Sustainer
+[Playbook](Apparatus.md)
 Favored Attribute: Lore
 
 **Quote**
@@ -11,6 +14,7 @@ Favored Attribute: Lore
 - Get wrapped up in municipal corruption
 
 #### Clamor, The Dabbler
+[Playbook](Clamor.md)
 Favored Attribute: Lore
 
 **Quote**
@@ -21,6 +25,7 @@ Favored Attribute: Lore
 - Revel in the mysteries of the city
 
 #### Conduit, The Connector
+[Playbook](Conduit.md)
 Favored Attribute: Network
 
 **Quote**
@@ -31,6 +36,7 @@ Favored Attribute: Network
 - Get to know the denizens of the city
 
 #### Crossroads, The Painkiller
+[Playbook](Crossroads.md)
 Favored Attribute: Sway
 
 **Quote**
@@ -42,6 +48,7 @@ Favored Attribute: Sway
 
 
 #### Foundry, The Producer
+[Playbook](Foundry.md)
 Favored Attribute: Environs
 
 **Quote**
@@ -52,6 +59,7 @@ Favored Attribute: Environs
 - Appreciates the value of unique and well-crafted items
 
 #### Pillar, The Enforcer
+[Playbook](Pillar.md)
 Favored Attribute: Sway
 
 **Quote**
@@ -62,6 +70,7 @@ Favored Attribute: Sway
 - Enforce order of one form or another
 
 #### Remnant, The Discards
+[Playbook](Remnant.md)
 Favored Attribute: Environs
 
 **Quote**
@@ -72,6 +81,7 @@ Favored Attribute: Environs
 - Operate in the city's nether reaches and bowels
 
 #### Skyline, The Watcher
+[Playbook](Skyline.md)
 Favored Attribute: Network
 
 **Quote**
@@ -83,6 +93,7 @@ Favored Attribute: Network
 
 
 #### Vault, The Patron
+[Playbook](Vault.md)
 Favored Attribute: Network
 
 **Quote**
@@ -93,6 +104,7 @@ Favored Attribute: Network
 - Prove your value beyond your resources or wealth
 
 #### Wellspring, The Maven
+[Playbook](Wellspring.md)
 Favored Attribute: Lore
 
 **Quote**
