@@ -36,15 +36,18 @@ Whenever you **Appraise Circumstances** you may always ask one of these question
 When you **Get Something**, you may spend an Asset in lieu of taking a Consequence.
 
 ### Inner Circle (Group)
-You belong to a group of the city's elite.
+You belong to a group of the city's elite. You have a track of three boxes called **Privilege**. You may mark a box to bump the result of a role one tier. When you do, roll -Privilege. On a miss, pick one Consequence and mark it off. On a 10+, erase a mark of Consequence.
+- You learned a secret about someone else in the inner circle. Ask the GM who and what about.
+- You kicked up some dust; Mark Heat.
+- You are ejected from the inner circle. Cross off this move and pick two from this playbook or one from another.
 
 
 ### Notorious Influence
-
+You have spent years paying off the right people, lining pockets wherever you go. 
 
 
 ### Private Transportation
- You have a special mode of transportation designed to get around the city most effectively. When you **Transit**, if you use it, you may roll with Network instead of Environs.
+You have a special mode of transportation designed to get around the city most effectively. When you **Transit**, if you use it, you may roll with Network instead of Environs.
 
 ### Keen Eye
 When you **Use Power** to gauge distance, volume, value, or other quantity, roll with +2.

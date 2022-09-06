@@ -184,7 +184,7 @@ If you demand they act against their self-interest, or reveal something that bet
 
 If you demand they act against or betray another's interest, roll based on your offer of peril, value, or logic.
 
-NPCs will react to each offer type differently. The Magistrate will indicate whether you should roll with Sway, Heat, or Sway - Heat.
+NPCs will react to each offer type differently. The Magistrate will indicate whether you should roll with Sway, Heat, or flat (no modifier).
 
 If you must roll with Heat, roll minus the number of marked Heat.
 
