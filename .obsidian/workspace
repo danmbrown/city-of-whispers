@@ -4,36 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "abebac804903dc54",
+        "id": "6c1da1dcf84d4d55",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Playbooks/Vault.md",
+            "file": "Playbooks/Skyline.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "0d3423f850833107",
+        "id": "4b58ed0f9033ede1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Moves.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "f4c62ad15638e220",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Playbooks/Remnant.md",
+            "file": "Playbooks/Wellspring.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Playbooks/Vault.md",
+                "file": "Playbooks/Wellspring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,17 +110,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "abebac804903dc54",
+  "active": "4b58ed0f9033ede1",
   "lastOpenFiles": [
-    "Moves.md",
     "Playbooks/Vault.md",
-    "Playbooks/Remnant.md",
     "Playbooks/Skyline.md",
-    "Playbooks/Wellspring.md",
-    "Characters.md",
-    "Lists.md",
-    "Magistrate.md",
-    "Playbooks/Overview.md",
-    "Playbooks/Apparatus.md"
+    "Playbooks/Remnant.md",
+    "Playbooks/Pillar.md",
+    "Playbooks/Foundry.md",
+    "Playbooks/Crossroads.md",
+    "Playbooks/Conduit.md",
+    "Playbooks/Clamor.md",
+    "Playbooks/Apparatus.md",
+    "Moves.md"
   ]
 }

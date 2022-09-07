@@ -17,6 +17,11 @@ In your first session, add an element to the map that represents a hide-away or 
 
 At any time, you may mark Heat to add another element to the map.
 
+## Relationship Questions
+* Who has never been able to find respite or relief in my care?
+* Who has a family member that works for me?
+* Who asked me to show someone a good time so they were easier to manipulate?
+
 
 ## Moves
 

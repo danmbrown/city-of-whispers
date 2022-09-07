@@ -17,6 +17,12 @@ In your first session, add an element to the map that represents the city's dive
 
 At any time, you may mark Heat to add another element to the map.
 
+## Relationship Questions
+- Who once gave me a problem I could not solve or a question I could not answer?
+- Who thinks my work is frivolous?
+- Who connects me with supplies and sources I could not get on my own?
+
+
 ## Moves
 
 ### Perceptive 

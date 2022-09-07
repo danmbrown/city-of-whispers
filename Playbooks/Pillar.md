@@ -17,6 +17,10 @@ In your first session, add an element to the map that represents power or author
 
 At any time, you may mark Heat to add another element to the map.
 
+## Relationship Questions
+* Who sees my efforts to maintain order as futile?
+- Who had a run-in with the law?
+- Who knew me back when I promoted chaos, not order?
 
 ## Moves
 
