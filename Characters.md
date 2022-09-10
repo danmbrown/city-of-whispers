@@ -1,15 +1,37 @@
 [Home](index.md)
 
 # The Characters
+Although City of Whispers sits in the fantasy genre, characters in this game bear little resemblance to Aragorn or Frodo. These are city-dwellers, and not likely long-lost kings or naive in the ways of the world. They aren't by definition cut out for epic journeys. Their survival isn't based on enduring treks through wilderness or intimate knowledge of the wilds, but instead on enduring courtly ritual and intimate knowledge of shortcuts both geographical and political.
+
+The playbooks define different types of characters, each representing a different way in which someone connects with the city itself. Every character is made up of these common elements:
+
+* Attributes
+* Playbook Moves
+* Heat
+* Power
+* Beliefs
+* Ties & Secrets
+* Schemes
+* Deals
+* Neighborhood Connections
 <a name="Attributes"></a>
 ## Attributes
+Like most PbtA games, characters have essential attributes represented by a score between -3 and +3. These attributes capture how the character navigates various aspects of the city.
+
 - **Environs**: Your comfort with the geographical contours of the city
 - **Lore**: Your knowledge of the city's culture, history, and infrastructure
 - **Network**: Your connections throughout the city
 - **Sway**: Your ability to engage and influence individuals
 
+| Attribute | Basic Moves | Favored Attribute for... |
+| :-- | :-- | :-- |
+| Environs | Transit, Steer Clear, Get Your Bearings  | Foundry, Remnant   |
+| Lore | Ear to the Ground, Appraise Circumstances  | Apparatus, Clamor, Wellspring |
+| Network | Get Something, Observe Someone, Meet Someone New  | Conduit, Skyline, Vault  |
+| Sway | Direct Someone to Act  | Crossroads, Pillar  |
+
 ## Heat
-Your character generates Heat by taking risky actions during the game. When a move or the Magistrate directs you to mark Heat, mark one of the options on the Heat list. As long as this is marked, your character suffers the mechanical consequence indicated.
+Your character generates Heat by taking risky actions during the game. When a move or the Magistrate directs you to mark Heat, mark one of the options on the Heat list. As long as this is marked, your character suffers the consequence indicated.
 
 In addition to a mechanical impact, marking Heat should influence the direction of the narrative as well. When you mark Heat, the Magistrate will indicate how the increased pressure or suspicion changes the story.
 
@@ -24,17 +46,18 @@ When directed to roll -Heat, subtract the total number of Heat marked from your 
 ## Power
 Every character has the ability to tap into a source of power. Upon generating your character, determine which type of power they can use and how that manifests in your city.
 
-> When you apply your connection with magic, deity, or technology, the Magistrate determines the complexity of your desired outcome. So long as it is lower than your maximum complexity, you can Use Power. Every application of mysterious energy comes with a price. Nearly every time you use it, there will be consequences, and perhaps the occasional Backfire.
+When you apply your connection with magic, deity, or technology, the Magistrate determines the complexity of your desired outcome. So long as it is lower than your maximum complexity, you can Use Power. Every application of mysterious energy comes with a price. Nearly every time you use it, there will be consequences, and perhaps the occasional Backfire.
 
-**Areas of Power**
-- Arcane Technology: Magic-infused mechanisms
-- Divine Devotion: Invoking the divine power of one or more gods
-- Planar Sorcery: Drawing power from other planes of existence
-- Occult Connection: Deep knowledge of the mystic arts
-- Natural Harmony: Attuned to the cycles of life and death
-- Elemental Link: Tapped into the buried energies of earth, air, fire, and water
-- Enchanted Artifacts: Affinity for objects imbued with occult power
-- Mechanical Technology: Aptitude for gadgets and devices
+
+### Areas of Power
+- **Arcane Technology**: Magic-infused mechanisms
+- **Divine Communication**: Invoking the divine power of one or more gods
+- **Elemental Link**: Tapped into the buried energies of earth, air, fire, and water
+- **Enchanted Artifacts**: Affinity for objects imbued with occult power
+- **Mechanical Technology**: Aptitude for gadgets and devices
+- **Natural Harmony**: Attuned to the cycles of life and death
+- **Occult Connection**: Deep knowledge of the mystic arts
+- **Planar Sorcery**: Drawing power from other planes of existence
 
 ## Ties and Secrets
 If the trade of goods, services, and information is the city's lifeblood, then its soul is the connections between people. Your character's connections are represented by their Network attribute, but they also have Ties to specific individuals. A Tie is a person who holds a unique place in the character's life, whether they are known intimately to each other. Your character knows something about their Ties, a secret that can give them a bit of leverage or help them out of a bind.
@@ -43,7 +66,7 @@ Secrets are defined by Areas of Insight -- the aspect of the Tie's life that you
 
 > During the course of the game, you may Use a Secret to roll with advantage on social interaction moves. Roll a 1 or a 2, however, and you Reveal a Secret, which could have disastrous consequences.
 
-**Areas of Insight**
+### Areas of Insight
 - Romantic liaisons
 - Family circumstances
 - Criminal connections

@@ -61,7 +61,7 @@ When introducing your character be sure to include:
 
 As you introduce your characters, the Magistrate can start the **relationship map** to capture the relationships between the PCs and their ties.
 
-Also, make note of any moves that imply an update to the map. Before you ask the relationship questions, add these elements to the map.
+Also, make note of any **updates to the map implied by playbook moves**. Before you ask the relationship questions, add these elements to the map.
 
 Then, go around the table again and ask two of your Relationship questions. As players provide responses, the Magistrate should add to the relationship map, illustrating the connections between the characters.
 
