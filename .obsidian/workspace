@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Playbooks/Remnant.md",
+            "file": "Gen.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "62ff8c887de9a960",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Lists.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Playbooks/Remnant.md",
+                "file": "Gen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +112,15 @@
   },
   "active": "6c1da1dcf84d4d55",
   "lastOpenFiles": [
+    "Moves.md",
+    "Gen.md",
+    "Characters.md",
+    "Playbooks/Overview.md",
+    "Lists.md",
+    "Playbooks/Remnant.md",
     "Playbooks/Pillar.md",
     "Playbooks/Crossroads.md",
     "Playbooks/Conduit.md",
-    "Playbooks/Clamor.md",
-    "Playbooks/Apparatus.md",
-    "Gen.md",
-    "Playbooks/Wellspring.md",
-    "Characters.md",
-    "Playbooks/Skyline.md",
-    "Playbooks/Vault.md"
+    "Playbooks/Clamor.md"
   ]
 }

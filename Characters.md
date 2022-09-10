@@ -1,6 +1,7 @@
 [Home](index.md)
 
 # The Characters
+<a name="Attributes"></a>
 ## Attributes
 - **Environs**: Your comfort with the geographical contours of the city
 - **Lore**: Your knowledge of the city's culture, history, and infrastructure
@@ -19,6 +20,7 @@ When directed to roll -Heat, subtract the total number of Heat marked from your 
 - **Suspicion of Friends**: Roll with disadvantage on City Moves
 - **Suspicion of Authorities**: Roll with disadvantage on Risky Moves
 
+<a name="Power"></a>
 ## Power
 Every character has the ability to tap into a source of power. Upon generating your character, determine which type of power they can use and how that manifests in your city.
 
