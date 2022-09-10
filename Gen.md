@@ -20,9 +20,10 @@ Review the playbooks and select one. Every player should have a different playbo
 Make note of the playbook's favored attribute, and then assign your attribute scores based on one of these arrays:  
 
 - +2, +1, 0, -1
-- +2, +1, 0, -1
-- +1, +1, +1, -2
+- +1, +1, +1, -1
 - +2, +2, -1, -1
+- +2, +1, +1, -2
+- +2, +2, 0, -2
  
 ## Select Starting Moves and Power
 Pick two starting moves from your playbook.
