@@ -25,6 +25,11 @@ Every person the characters meet has more going on than meets the eye. They have
 ### Test their connection to the city
 Living in a city sometimes means wondering if this is the right place for you. There are things that tie you to the city, but the city constantly reminds you that some of its denizens have far more power, wealth, and charisma. Make them think they won't ever get ahead. Make them think they won't ever make any progress. Make them think the things about the city they come to rely on can no longer be reliable.
 
+### Test their beliefs
+Beliefs ground us. They give us a north star to guide us in life. In a world of uncertainty, where it seems like everyone is out to get you, beliefs offer a stable ledge. Until they don't. Put the characters in a situation that will challenge their beliefs. In such situations, we sometimes cling to our beliefs in desperation. Other times, we find ourselves falling. But in those moments, we become stronger, and perhaps know ourselves a little better.
+
+### Dangle opportunities to use secrets
+
 ### Address the characters, not the players
 ### Make a move that follows
 ### Never speak the name of your move

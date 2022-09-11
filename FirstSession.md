@@ -5,6 +5,7 @@
 - On the public transportation system
 - Sharing a carriage to a party
 - A neighborhood street festival
+- An interesting location on your map
 
 If it's not possible to put everyone in the same location, put half the group there. Play out the situation until the group makes their first move. Then find a way to draw the others in or switch locations and do the same thing for the other half of the group.
 
@@ -13,6 +14,7 @@ If it's not possible to put everyone in the same location, put half the group th
 * Crash - a vehicle careens into the situation
 * Chase - members of a faction are chasing someone through the crowd
 * Weather - a weather event (storm? earthquake? tsunami?) erupts
+* Confrontation - the characters are not supposed to be there
 
 Make sure the characters are in the middle of the situation or close enough to it that they have to act. Avoid violence. In the city, violence is always threatened but rarely carried out.
 
@@ -20,4 +22,6 @@ Make sure the characters are in the middle of the situation or close enough to i
 * One of the character's Ties
 * A well-known public figure
 * A mysterious person fleeing the scene
+* A person believed to be long gone
+
 

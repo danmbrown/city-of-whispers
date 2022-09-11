@@ -4,35 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f5715657a69b9307",
-        "type": "split",
-        "children": [
-          {
-            "id": "6c1da1dcf84d4d55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a170112ca487c530",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Playbooks/Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+        "id": "91d620770ea5ce06",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Magistrate.md",
+            "mode": "source",
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -88,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters.md",
+                "file": "Magistrate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,17 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6c1da1dcf84d4d55",
+  "active": "91d620770ea5ce06",
   "lastOpenFiles": [
+    "Moves.md",
+    "Magistrate.md",
+    "ListofMoves.md",
+    "MagistrateGuide.md",
+    "FirstSession.md",
     "Playbooks/Overview.md",
     "Characters.md",
-    "ListofMoves.md",
     "Lists.md",
     "Gen.md",
-    "Moves.md",
-    "Playbooks/Remnant.md",
-    "Playbooks/Pillar.md",
-    "Playbooks/Crossroads.md",
-    "Playbooks/Conduit.md"
+    "Playbooks/Remnant.md"
   ]
 }
