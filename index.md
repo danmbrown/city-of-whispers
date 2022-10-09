@@ -11,10 +11,9 @@ City of Whispers is a fantasy roleplaying game taking place in a city invented b
 -   **Intrigue between the characters**: Characters are entrenched in city politics and know secrets about their fellow citizens. The lengths they go to preserve those secrets can have an impact on their relationships and interactions.
 -   **Zooming in and out between faction-level and street-level action**: There are distinct moves for factions. Players control not only their characters at the street level, but also make decisions for their factions to affect the contours of city politics.
 
-|[Design Diary](DesignDiary)|
 
-### Inspiration
-|[Pinterest](https://www.pinterest.com/brownorama/city-of-whispers/)|
+|Inspiration|[Pinterest](https://www.pinterest.com/brownorama/city-of-whispers/)|
+|Journal|[Design Diary](DesignDiary)|
 
 ## Table of Contents
 
