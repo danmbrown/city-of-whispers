@@ -64,9 +64,13 @@ If the trade of goods, services, and information is the city's lifeblood, then i
 
 Secrets are defined by Areas of Insight -- the aspect of the Tie's life that you know something about.
 
-> During the course of the game, you may Use a Secret to roll with advantage on social interaction moves. Roll a 1 or a 2, however, and you Reveal a Secret, which could have disastrous consequences.
+> During the course of the game, you may Use a Secret to roll with advantage on **Direct Someone to Act**. Roll a 1 or a 2, however, and you **Reveal a Secret**, which could have disastrous consequences.
+
+Note that even if you do not have a Tie with someone, you can still have a relationship with them. In the course of the game, you can't make use of this relationship mechanically. You can form new Ties when you **Meet Someone New** or **Observe Someone**.
 
 ### Areas of Insight
+Instead of knowing something specific about a Tie, your character knows about a general area of their life. This allows you to make use of the secret in a variety of circumstances.
+
 - Romantic liaisons
 - Family circumstances
 - Criminal connections
@@ -79,7 +83,7 @@ Secrets are defined by Areas of Insight -- the aspect of the Tie's life that you
 - Corrupt influences
 
 ## Beliefs
-Characters have beliefs about themselves, the city, and the people in it that influences their worldview and behaviors. Conviction gives characters confidence, but relying too much on belief -- rather than perception or wit or reason -- can backfire. Events that challenge a characters belief can shake their conviction, and may eventually prove false.
+Characters have beliefs about themselves, the world, the city, and the people in it that influences their worldview and behaviors. Conviction gives characters confidence, but relying too much on belief -- rather than perception or wit or reason -- can backfire. Events that challenge a characters belief can shake their conviction, and may eventually prove false.
 
 > When you Use a Belief, you can roll with advantage. But rolling a 1 or a 2 will challenge your conviction.
 

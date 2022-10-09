@@ -99,7 +99,7 @@ If your efforts are focused on an individual, use Direct Someone to Act.
 
 - **12+** Get exactly what you want, or clear 1 Heat and pick 1 Compromise.
 - **10+** Mark 1 heat to get exactly what you want. Otherwise pick 1 Compromise.
-- **7 - 9** Pick 2 or mark Heat to pick 1 Compromise.
+- **7 - 9** Pick 2 Compromises or mark Heat to pick 1.
 
 #### Compromises
 - It’s not quite right. Ask the Magistrate how.

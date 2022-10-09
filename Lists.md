@@ -107,9 +107,9 @@ Factions are described with a Type, a Status, and a Complication. These descript
 | 10 | Union - United by common occupation |
 
 
-### Status (d8)
+### Status (d10)
 
-| d8 | Faction Status |
+| d10 | Faction Status |
 | :-: | :-- |
 | 1 | Fragmenting or Splintering |
 | 2 | Dissolving or Shrinking |
@@ -119,22 +119,25 @@ Factions are described with a Type, a Status, and a Complication. These descript
 | 6 | Fronting or Imploding |
 | 7 | Stagnating or Becoming Irrelevant |
 | 8 | Unfocusing or Dispersing |
+| 9 | Strengthening or Emerging |
+| 10 | Settling or Stabilizing |
+
 
 
 ### Complications (d10)
 
 | d10 | Complications |
 | :-: | :-- |
-| 1 | Influence is dwindling |
-| 2 | Membership is dwindling |
-| 3 | Losing confidence in leadership |
-| 4 | Infighting among leadership |
-| 5 | Threatened by rival |
-| 6 | Membership unaware of true intent |
-| 7 | Regimented bureaucracy |
-| 8 | Overwhelming demand for services |
-| 9 | Held knowledge is out of date or incorrect |
-| 10 | Loss of control over resource |
+| 1   | Influence is dwindling |
+| 2   | Membership is dwindling |
+| 3   | Losing confidence in leadership |
+| 4   | Infighting among leadership |
+| 5   | Threatened by rival |
+| 6   | Membership unaware of true intent |
+| 7   | Regimented bureaucracy |
+| 8   | Overwhelming demand for services |
+| 9   | Held knowledge is out of date or incorrect |
+| 10  | Loss of control over resource |
 
 ### Aspects (d6 + d10)
 
@@ -318,4 +321,5 @@ If you need a rumor, roll 2d20 and 2d6. The d20s describe the actor and their ac
 37. A collapsed area filled with water, being used as a swimming pool
 38. A stone marker, memorializing a forgotten event
 39. Fungus growing along the stone wall of an alley
-40. 
+40. A shrine embedded in the street dedicated to the god of the gutters
+41. 

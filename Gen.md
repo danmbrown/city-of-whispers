@@ -65,4 +65,7 @@ Also, make note of any **updates to the map implied by playbook moves**. Before 
 
 Then, go around the table again and ask two of your Relationship questions. As players provide responses, the Magistrate should add to the relationship map, illustrating the connections between the characters.
 
+## Note Neighborhood Connections
+Finally, every character starts with one neighborhood connection. After going through introductions, each character's connection should be obvious -- their abode, base of operations, favored hangout, childhood home -- but if it isn't add a neighborhood to the map now. Write down your character's neighborhood connection.
+
 
