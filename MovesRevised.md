@@ -12,7 +12,6 @@
 
 <a id="City-Moves"></a>
 ## City Moves
-For any City Move, if you have a connection to the neighborhood you're in (or traveling to), you may roll with advantage.
 
 ### Transit (Environs)
 When you travel to another neighborhood:
@@ -23,8 +22,7 @@ When you travel to another neighborhood:
 
 Then, roll +Environs.
 
-- **12+** You arrive uneventfully, or pick 1 Consequence and clear 1 Heat.
-- **10+** Pick 1 Consequence.
+- **10+** You arrive uneventfully, or pick 1 Consequence to add the neighborhood as a connection.
 - **7 - 9** Pick 2 Consequences, or ask the Magistrate how you were diverted temporarily from your destination.
 
 #### Consequences
@@ -38,7 +36,6 @@ When you lay low or maneuver to avoid getting into a dangerous situation, descri
 
 If you’re already in a dangerous situation, or have been noticed by a threat, instead Take a Big Risk.
 
-- **12+** The situation passes uneventfully.
 - **10+** The situation passes but pick one.
 - **7 - 9** The situation passes but pick two, OR get swept up and take +1 forward to Take a Big Risk.
 
@@ -49,7 +46,6 @@ If you’re already in a dangerous situation, or have been noticed by a threat, 
 ### Get Your Bearings
 When you take a moment to determine where you are or the right direction to go in,  ask one Question and roll +Environs. If have a connection to the neighborhood, you may ask a second question.
 
-- **12+** Your assessment was quick and correct. You may ask another question. Take +1 forward on **Transit** or **Steer Clear**. 
 - **10+** Your assessment was correct. Take +1 forward on **Transit** or **Steer Clear**.
 - **7 - 9** Pick one: took you extra time to find your way, or you needed to ask for directions, or your assessment wasn't exactly right. Ask the Magistrate what the consequences are.
 
@@ -65,15 +61,17 @@ When you take a moment to determine where you are or the right direction to go i
 ### Ear to the Ground (Lore)
 When you listen out for interesting information, name something you’re especially interested in -- a public figure, a faction, a neighborhood, an event, etc. -- and roll +Lore. 
 
-- **12+** You hear a rumor related to the named subject and see something that reaffirms one of your beliefs. You may clear a marked belief. You may **write a new belief** instead.
-- **10+** You hear a rumor related to the named subject. You may **write a new belief** based on the rumor.
+- **10+** You hear a rumor related to the named subject. Pick one.
 - **7 - 9** Mark Heat to hear a rumor related to the named subject, or hear an interesting but unrelated rumor.
+
+* Write a new belief or connection
+* Clear a challenged belief or connection
+
 
 ### Appraise Circumstances (Lore)
 When you take time to study the situation to see what’s really going on, roll +Lore.
 
-- **12+** Ask three questions, and either clear Heat or **write a new belief** based on your observation.
-- **10+** Ask three questions.
+- **10+** Ask one question, then ask another question OR write a connection to the neighborhood.
 - **7 - 9** Ask one question.
 
 #### Questions
@@ -84,7 +82,7 @@ When you take time to study the situation to see what’s really going on, roll 
 - Who passed through recently?
 
 ### Sample the Sights & Sounds 
-When you try something new -- for example, tasting food, listening to music, seeing artwork -- describe your experience. If someone invited you to try it, take +1 forward to your next Social Interaction with them. If not, you may **write a new belief** about the experience. You may also pick 1 Reaction to clear one Heat:
+When you try something new -- for example, tasting food, listening to music, seeing artwork -- describe your experience. If someone invited you to try it, take +1 forward to your next Social Interaction with them. If not, you may **write a new belief or connection** about the experience. You may also pick 1 Reaction to clear one Heat:
 
 **Reactions**
 - Your reaction offends the people around you
@@ -97,7 +95,6 @@ When you work your connections to get information, a service, a rare item, or ac
   
 If your efforts are focused on an individual, use Direct Someone to Act.
 
-- **12+** Get exactly what you want, or clear 1 Heat and pick 1 Compromise.
 - **10+** Mark 1 heat to get exactly what you want. Otherwise pick 1 Compromise.
 - **7 - 9** Pick 2 Compromises or mark Heat to pick 1.
 
@@ -110,11 +107,10 @@ If your efforts are focused on an individual, use Direct Someone to Act.
 - You owe someone a favor. Ask the Magistrate what they expect in return.
 
 ### Observe Someone (Network)
-When you observe a specific person’s behavior, movements, or mannerisms to learn something about them, roll +Network. If you have a Tie with them, you may roll with advantage.
+When you observe a specific person’s behavior, movements, or mannerisms to learn something about them, roll +Network. If you have a connection with them, you may ask a question before you roll.
 
-- **12+** Ask two questions, add them as a Tie. The Magistrate will tell you what Insight you know about them. If you already have a Tie with them, you may ask a third question.
-- **10+** Ask two questions. Mark Heat to add them as a Tie. If you do, the Magistrate will tell you what Insight you know about them. If you already have a Tie with them, you may mark Heat to ask another question.
-- **7 - 9** Ask one question. Mark Heat to ask another question.
+- **10+** Ask one question, and avoid attracting attention OR write a connection with them.
+- **7 - 9** Ask one question and attract attention of them or someone else.
 
 #### Questions
 - Where were they immediately before this?
@@ -125,9 +121,8 @@ When you observe a specific person’s behavior, movements, or mannerisms to lea
 - What are they really feeling right now?
 
 ### Meet Someone New (Network)
-When you explore a possible connection with someone you don't know at all or very well, describe how you size them up and roll +Network.
+When you size up someone you don't know at all or very well, describe how you do it and roll +Network.
 
-- **12+** Pick two Shared Experiences. You may take +1 forward to any Social Interaction move.
 - **10+** Pick one Shared Experience and one Doubt. If you answer one of their Questions, you may take +1 forward to any Social Interaction move.
 - **7 - 9** Pick one Shared Experience and one Doubt. If you answer two of their Questions, you may take +1 forward to any Social Interaction move.
 
@@ -152,13 +147,11 @@ When you explore a possible connection with someone you don't know at all or ver
 - Who can vouch for you?
 - Tell me something about yourself few people know.
 
-### Use Belief
-When your belief is relevant to your action, describe how it makes you more confident. You may roll with advantage. If any of the dice show a 1 or 2 – regardless of the outcome of the move – the belief is challenged. Mark it. Next time you use it, if you roll a 1 or 2, it is proven wrong. You may continue to hold the belief, but you may not use it to buff your rolls.
+### Use Connection or Belief
+When your connection or belief is relevant to your action, describe how it makes you more confident. You may roll with advantage. If any of the dice show a 1 or 2 – regardless of the outcome of the move – the belief or connection is challenged. Mark it. Next time you use it, if you roll a 1 or 2, it is proven wrong. You may continue to hold the belief or connection, but you may not use it to buff your rolls.
 
 <a id="Connection-Moves"></a>
 ## City Connection Moves
-### Recall Neighborhood Connection
-Once per session, you may mark a History to bump a die roll result one tier. By marking a history, you add that neighborhood to the list of neighborhoods your character is connected to.
 
 ### Perceive Demand
 Once per session you may mark the next available Demand to bump a die roll result one tier. Write down the demand the city makes of you. You may not take another Demand until you meet this one.
@@ -173,14 +166,20 @@ When you meet the last Demand, describe your epilogue.
 ## Social Interaction Moves
 Social Interaction Moves relate to a specific named individual. When characters interact with someone in particular, use Direct Someone to Act. When dealing with the denizens of the city more generally, use **Get Something**.
 
-You may not mark Histories or City Demands to affect this roll, but you may indicate you want to **Use a Secret** before you roll.
+You may not mark City Demands to affect this roll, but you may indicate you want to **Use a Secret** before you roll.
+
+### Confront Another
+When you express yourself with passion or conviction in the presence of another PC, they may pick one: 
+
+- they may write a new belief based on what you said if they mark 1 Heat
+- they may clear 1 Heat if they mark a belief, showing that what you said challenged it
 
 ### Direct Someone to Act
-When you demand someone *provide information* they have access to or *take an action* they are capable of taking, describe what you're demanding and whether you're offering **peril**, **value**, or **logic**.
+When you demand someone *provide information* they have access to or *take an action* they are capable of taking, describe what you're demanding. 
 
 If you demand they act against their self-interest, or reveal something that betrays their interests, they partially comply, OR pick a **strong reaction**.
 
-Otherwise, roll. NPCs will react to each offer type differently. The Magistrate will indicate whether you should roll with Sway, Heat, or flat (no modifier). If you must roll with Heat, roll minus the number of marked Heat.
+Otherwise, the Magistrate will secretly pick the type of offer -- **peril**, **value**, **passion**, or **logic** -- that holds the most sway. Then, describe your offer. The Magistrate will reveal the type of offer they selected. Then, roll +Sway. If you do not match types of offer, roll with disadvantage.
 
 On a hit, you pick a **weak reaction**. On 7-9, they pick a **consequence**.
 
@@ -203,7 +202,7 @@ If you meet any counter or demand, they comply.
 #### Consequences
 - Reveal your intentions or actions to someone else
 - Become a loyal follower, perhaps to a fault
-- Intend revenge or betrayal
+- Intend revenge
 - Disappear
 - Spread a rumor about you
 - Diminish your standing in your faction
@@ -228,7 +227,7 @@ When you use secret knowledge in your social interactions, describe how you use 
 > Says Donatella, "You think you know so much. My love for Arvel is long buried. I will tell you the location, but for your impudence, we will split the treasure 70-30."
 
 ### Reveal a Secret
-When you reveal a secret to someone, mark Heat. If the secret is about the person you're talking to, **mark the secret** and **lose the Tie** with them. 
+When you reveal a secret to someone, mark Heat. If the secret is about the person you're talking to, **mark the connection. 
 
 - With a Social Interaction Move, resolve the original move, but they may pick one additional Reaction from the list below.
 - In other circumstances, they may pick one Reaction from the list below.
@@ -247,7 +246,6 @@ Follow the fiction to determine if the secret becomes public knowledge. If it do
 ### Use Power
 When you tap into your connection to magic, technology, or other mysterious power, describe what you hope to accomplish. The Magistrate will assign a **complexity**. If the complexity is equal to or less than your max, roll normally. If it is above your max, roll with disadvantage. You may take +1 if you have a connection to the neighborhood or -2 if you do not.
 
-- **12+** You achieve your goal flawlessly.
 - **10+** Pick 1 Consequence.
 - **7-9** Pick 2 Consequences OR the power **backfires**.
 - **6-** The power **backfires**.
@@ -276,7 +274,6 @@ When the power backfires, roll +complexity. **Note**: Rolling lower is better.
 ### Take a Big Risk
 When you do something dangerous, felonious, violent, or imprudent describe the what you fear might happen, mark Heat and roll + most relevant attribute. Outcomes should align with the fiction. You probably can’t defeat a trained warrior in one-on-one combat even if you roll a **10+**.
 
-- **12+** You succeed in what you set out to do, and you may pick a second outcome from the consequences list below or clear 1 Heat.
 - **10+** You succeed in what you set out to do. You may mark Heat to pick another outcome from the consequences list below.
 - **7 - 9** You succeed but the Magistrate will tell you the cost; Or the magistrate will offer you a hard choice.
 
@@ -302,7 +299,6 @@ When you set up a scheme to regularly bring in cash or resources, describe the m
 ### Run the Scheme
 When you check in on your scheme, answer one of the questions and roll +Productivity. You may do this once per session.
 
-- **12+** Collect two assets, pick 1 Success. You may have a maximum of two assets.
 - **10+** Collect 1 asset and increase productivity (Max +3). You may have a maximum of two assets.
 - **7-9** Reduce productivity to collect an asset, or do nothing. You may have a maximum of two assets.
 

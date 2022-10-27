@@ -18,9 +18,9 @@ In your first session, add an element to the map that represents the city's bure
 At any time, you may mark Heat to add another element to the map.
 
 ## Relationship Questions
-- Who keeps me informed about part of the city?
-- Who thinks I'm up to no good?
-- Who did I betray to the authorities?
+- Which of your Ties keeps me informed about part of the city?
+- Which of your Ties thinks I'm up to no good?
+- Which of your Ties to the authorities?
 
 
 ## Moves

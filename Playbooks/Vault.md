@@ -18,9 +18,9 @@ In your first session, add an element to the map that represents the city's weal
 At any time, you may mark Heat to add another element to the map.
 
 ## Relationship Questions
-- Who knew me before I had access to my wealth?
-- Who is always pitching me investment opportunities?
-- Who took an investment from me, but hasn't made any progress?
+- Which of your Ties knew me before I had access to my wealth?
+- Which of your Ties is always pitching me investment opportunities?
+- Which of your Ties took an investment from me, but hasn't made any progress?
 
 ## Moves
 ### Wealth and Influence (Required)

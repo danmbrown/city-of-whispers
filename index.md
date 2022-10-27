@@ -13,7 +13,7 @@ City of Whispers is a fantasy roleplaying game taking place in a city invented b
 
 
 |Inspiration|[Pinterest](https://www.pinterest.com/brownorama/city-of-whispers/)|
-|Design Diary|[October](DesignDiary/Diary001)|
+|Design Diary|[October 2022](DesignDiary/Diary001)|
 
 ## Table of Contents
 

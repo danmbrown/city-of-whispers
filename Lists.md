@@ -1,4 +1,4 @@
-[Home](index.md)
+| [Home](index.md) |
 
 # Lists
 These tables give players and the Magistrate the tools for building the connective tissue of the city -- the factions that exert control, the neighborhoods that form the topography, and the rumors that fuel the entire contraption.

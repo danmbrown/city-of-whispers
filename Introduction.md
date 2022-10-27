@@ -15,13 +15,19 @@ But the city is home to thousands of interesting stories, too. The tales aren't 
 At the same time, the city boasts diversity and innovation. In the city, the characters will experience not a band of goblins protecting treasure, but a goblin cab driver haggling the price of a cross-town trip. They will see beasts and creatures not confronting them on the remotest cliffside, but (barely) domesticated for use by industry. They will experience a variety of cultures, not as they cross a political border, but as they turn a corner.
 
 ## What the players do
-In City of Whispers, players assume the role of denizens in a large fantasy city. As city-dwellers they have access to a wide variety of people and resources typical in an urban environment. Likewise, they also have limited command over a source of power -- the mystic arts, arcane technology, divine connection, and others. Finally, the characters know secrets about other people in the city -- some with great power or knowledge, and some with access. Despite these advantages, characters are not immune to the city's needs. And though they may not start out embroiled in any particular plot or scheme, the conspiracies of the city waste no time sinking their tendrils into the characters.
+In City of Whispers, players assume the role of denizens in a large fantasy city. As city-dwellers they have access to a range of people and resources typical in an urban environment. Likewise, they also have limited command over a source of power -- the mystic arts, arcane technology, divine connection, and others. Finally, the characters know secrets about other people in the city -- some with great power or knowledge, and some with access. Despite these advantages, characters are not immune to the city's needs. And though they may not start out embroiled in any particular plot or scheme, the conspiracies of the city waste no time sinking their tendrils into the characters.
 
 At the outset, characters are defined by their relationship to the city. Each playbook represents a different aspect of city living, from facilitating connections between people to providing crucial resources. In addition, through play the players define the various connections characters have to the city itself: where the character first fell in love, where they learned a life lesson, or where the city kept them safe. The players must keep their playbooks up-to-date with information about their characters -- the secrets they have, the deals they've made, the schemes they've hatched.
 
 Through the stories of their characters, the players also flesh out the city itself, establishing its geographic contours, its political and social landscape, and its history and lore. The players contribute to a map of the city, adding landmarks and neighborhoods
 
 Finally, the characters each belong to a faction, a group that maintains interests throughout the city. The characters' relationships with their factions is tenuous, but the players are responsible for determining the factions movements. The players also keep track of their factions, what schemes they have in motion and what resources they have at their disposal.
+
+### Do the characters know each other?
+
+During character creation, you'll establish relationships between the characters. Even if two of the characters do not know each other directly, they are all aware of each other, and may have some other connection.
+
+Because the game explores intrigue, schemes, and plots, the assumption is that characters may not be allies, but find each other useful or valuable. So, while not inherently caring for each other, the characters 
 
 ## Defining city, fantasy, and intrigue
 City of Whispers asks players to lean into tropes across the three main aspects of the game: city, fantasy, and intrigue.

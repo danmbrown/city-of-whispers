@@ -16,4 +16,7 @@ City of Whispers has no opinion on whether the characters work collaboratively o
 * Breaks:
 
 
+## Character Tension
+
+
 ## Safety Tools

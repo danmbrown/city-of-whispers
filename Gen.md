@@ -41,14 +41,14 @@ Determine what faction your character belongs to by rolling from or selecting fr
 ## Update the Map: Factions *(Optional)*
 Go around the table and select a neighborhood to be your faction's base of operations, and add a detail to the map related to your faction.
 
-## Write Beliefs and Secrets
+## Select Ties and Write Beliefs
 Your character starts with **two beliefs** and **two Ties**.
 
 Beliefs capture a fundamental understanding you have about the world and the people in it. They may be true, and if you rely on them too much you may  find out they're not. You can write the beliefs on your own, or use the [**beliefs tables**](Lists.md#beliefs) to inspire you.
 
 Ties are people that you know something about. When interacting with others, you can use the secret for leverage, but you may reveal the secret, and then face the consequences. Select the Ties from your playbook, and then select or roll for what [**secrets**](Lists.md#secrets) you have about the Tie.
 
-## Introduce Yourselves and Determine Relationships
+## Introduce Your Character and Note Neighborhood Connections
 Go around the table and introduce your character.
 
 When introducing your character be sure to include:
@@ -59,13 +59,13 @@ When introducing your character be sure to include:
 - Their ties
 - Their starting moves
 
+The Magistrate should make note of any **updates to the map implied by playbook moves**.
+
+Every character **starts with one neighborhood connection**. After going through introductions, each character's connection should be obvious -- their abode, base of operations, favored hangout, childhood home -- but if it isn't add a neighborhood to the map now. Write down your character's neighborhood connection.
+
+## Determine Relationships
 As you introduce your characters, the Magistrate can start the **relationship map** to capture the relationships between the PCs and their ties.
 
-Also, make note of any **updates to the map implied by playbook moves**. Before you ask the relationship questions, add these elements to the map.
-
 Then, go around the table again and ask two of your Relationship questions. As players provide responses, the Magistrate should add to the relationship map, illustrating the connections between the characters.
-
-## Note Neighborhood Connections
-Finally, every character starts with one neighborhood connection. After going through introductions, each character's connection should be obvious -- their abode, base of operations, favored hangout, childhood home -- but if it isn't add a neighborhood to the map now. Write down your character's neighborhood connection.
 
 

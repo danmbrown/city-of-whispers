@@ -18,9 +18,9 @@ In your first session, add an element to the map that represent what's unwanted 
 At any time, you may mark Heat to add another element to the map.
 
 ## Relationship Questions
-* Who sees me as a threat?
-* With whom did I experience a dangerous situation?
-* Who is considered "part of the family"?
+* Which of your Ties sees me as a threat?
+* With which of your Ties did I experience a dangerous situation?
+* Which of your Ties is considered "part of the family"?
 
 ## Moves
 

@@ -15,9 +15,9 @@ In your first session, add an element to the map that represents the city's weal
 - A retirement residence for the city's elderly
 
 ## Relationship Questions
-- Who once sought me out for my special knowledge?
-- Who introduced me to my mentor?
-- Who gave me space or resources to pursue my special knowledge?
+- Which of your Ties once sought me out for my special knowledge?
+- Which of your Ties is my mentor, or introduced me to my mentor?
+- Which of your Ties gave me space or resources to pursue my special knowledge?
 
 ## Moves
 

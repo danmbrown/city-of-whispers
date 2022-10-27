@@ -18,9 +18,9 @@ In your first session, add an element to the map that represents a place where t
 At any time, you may mark Heat to add another element to the map.
 
 ## Relationship Questions
-* Who gave me a job or commission or request I have yet to fulfill?
-* Who has worked with a competitor of mine?
-* Who introduced me to my first major client?
+* Which of your Ties gave me a job or commission or request I have yet to fulfill?
+* Which of your Ties has worked with a competitor of mine?
+* Which of your Ties introduced me to my first major client?
 
 ## Moves
 
