@@ -12,6 +12,7 @@
 
 <a id="City-Moves"></a>
 ## City Moves
+For any City Move, if you have a connection to the neighborhood you're in (or traveling to), you may roll with advantage.
 
 ### Transit (Environs)
 When you travel to another neighborhood:
@@ -22,7 +23,8 @@ When you travel to another neighborhood:
 
 Then, roll +Environs.
 
-- **10+** You arrive uneventfully, or pick 1 Consequence to add the neighborhood as a connection.
+- **12+** You arrive uneventfully, or pick 1 Consequence and clear 1 Heat.
+- **10+** Pick 1 Consequence.
 - **7 - 9** Pick 2 Consequences, or ask the Magistrate how you were diverted temporarily from your destination.
 
 #### Consequences
@@ -36,18 +38,12 @@ When you lay low or maneuver to avoid getting into a dangerous situation, descri
 
 If you’re already in a dangerous situation, or have been noticed by a threat, instead Take a Big Risk.
 
-- **10+** The situation passes but pick one.
-- **7 - 9** The situation passes but pick two, OR get swept up and take +1 forward to Take a Big Risk.
-
-* It took a while for things to die down; ask the Magistrate what you missed
-* From your hiding place you saw something that challenged one of your beliefs; ask the Magistrate what it was and mark the belief
-* Your faction stepped in to provide cover; ask the Magistrate what you owe them
+- **12+** You may either clear 1 Heat or avoid a dangerous situation
+- **10+** The situation passes, but it costs you. The Magistrate will tell you what.
+- **7 - 9** Mark Heat to let the situation pass uneventfully, or get swept up and take +1 forward to Take a Big Risk.
 
 ### Get Your Bearings
-When you take a moment to determine where you are or the right direction to go in,  the Magistrate will answer one Question you ask, then roll +Environs. If have a connection to the neighborhood, you may ask a second question.
-
-- **10+** Your assessment was correct. Take +1 forward on **Transit** or **Steer Clear**.
-- **7 - 9** Pick one: took you extra time to find your way, or you needed to ask for directions, or your assessment wasn't exactly right. Ask the Magistrate what the consequences are.
+When you take a moment to determine where you are or the right direction to go in, you may ask one Question. If you pick a Reaction or have a connection to the neighborhood, you may ask a second question. If you use anything you learn you may take +1 to either **Transit** or **Steer Clear**.
 
 #### Questions
 - Where is the best place to hide?
@@ -55,34 +51,41 @@ When you take a moment to determine where you are or the right direction to go i
 - Where is the best source of \_\_\_?
 - What direction should I avoid?
 - What is the best way through this area?
-- What does my faction control around here?
 
+#### Reactions
+- You had to ask someone for directions; ask the Magistrate what they expect in return
+- You took extra time to evaluate the situation; ask the Magistrate what happens since you’re running late
+- You had to retrace your steps; ask the Magistrate whose attention you attracted
 
 ### Ear to the Ground (Lore)
 When you listen out for interesting information, name something you’re especially interested in -- a public figure, a faction, a neighborhood, an event, etc. -- and roll +Lore. 
 
-- **10+** You hear a rumor related to the named subject. Pick one.
-- **7 - 9** Mark Heat to hear a rumor related to the named subject, or hear an interesting but unrelated rumor.
+- **12+** The Magistrate will tell you a rumor related to the named subject. Mark Heat to get a second rumor of the Magistrate’s choice.
+- **10+** You may mark Heat to hear a rumor related to the named subject, or the Magistrate will tell you an interesting but unrelated rumor.
+- **7 - 9** You hear a rumor unrelated to the named subject, but pick 1 Setback.
 
-* Write a new belief or connection
-* Clear a challenged belief or connection
-
+#### Setbacks
+- Someone notices you snooping around
+- Something about the rumor is incorrect
+- You’re stuck in this location for a while
+- You accidentally implicate your faction
 
 ### Appraise Circumstances (Lore)
 When you take time to study the situation to see what’s really going on, roll +Lore.
 
-- **10+** Ask one question, then ask another question OR write a connection to the neighborhood.
-- **7 - 9** Ask one question.
+- **12+** Ask two questions; then ask another or clear one Heat.
+- **10+** Ask two questions.
+- **7 - 9** Ask one question. Or mark Heat to ask two.
 
 #### Questions
 - What here is useful or valuable to me or my faction?
 - What is the biggest threat to me or my faction?
 - What changed here recently?
 - What here is not as it seems?
-- Who passed through recently?
+- What happened here recently?
 
 ### Sample the Sights & Sounds 
-When you try something new -- for example, tasting food, listening to music, seeing artwork -- describe your experience. If someone invited you to try it, take +1 forward to your next Social Interaction with them. If not, you may **write a new belief or connection** about the experience. You may also pick 1 Reaction to clear one Heat:
+When you try something new -- for example, tasting food, listening to music, seeing artwork -- describe your experience. If someone invited you to try it, take +1 forward to your next Social Interaction with them. If not, you may **add a belief** about the experience. You may also pick 1 Reaction to clear one Heat:
 
 **Reactions**
 - Your reaction offends the people around you
@@ -95,8 +98,9 @@ When you work your connections to get information, a service, a rare item, or ac
   
 If your efforts are focused on an individual, use Direct Someone to Act.
 
+- **12+** Get exactly what you want, or clear 1 Heat and pick 1 Compromise.
 - **10+** Mark 1 heat to get exactly what you want. Otherwise pick 1 Compromise.
-- **7 - 9** Pick 2 Compromises or mark Heat to pick 1.
+- **7 - 9** Pick 2 or mark Heat to pick 1 Compromise.
 
 #### Compromises
 - It’s not quite right. Ask the Magistrate how.
@@ -107,22 +111,25 @@ If your efforts are focused on an individual, use Direct Someone to Act.
 - You owe someone a favor. Ask the Magistrate what they expect in return.
 
 ### Observe Someone (Network)
-When you observe a specific person’s behavior, movements, or mannerisms to learn something about them, roll +Network. If you have a connection with them, you may ask a question before you roll.
+When you observe a specific person’s behavior, movements, or mannerisms to learn something about them, roll +Network. If you have a Tie with them, you may roll with advantage.
 
-- **10+** Ask one question, and avoid attracting attention OR write a connection with them.
-- **7 - 9** Ask one question and attract attention of them or someone else.
+- **12+** Ask two questions, add them as a Tie. The Magistrate will tell you what Insight you know about them. If you already have a Tie with them, you may ask a third question.
+- **10+** Ask two questions. Mark Heat to add them as a Tie. If you do, the Magistrate will tell you what Insight you know about them. If you already have a Tie with them, you may mark Heat to ask another question.
+- **7 - 9** Ask one question. Mark Heat to ask another question.
 
 #### Questions
 - Where were they immediately before this?
 - What are they planning?
-- What is their fear or weakness?
+- What are they afraid might happen?
 - What do they have that’s valuable to me?
+- What is their weakness?
 - How can I get them to `____________`?
 - What are they really feeling right now?
 
 ### Meet Someone New (Network)
-When you size up someone you don't know at all or very well, describe how you do it and roll +Network.
+When you explore a possible connection with someone you don't know at all or very well, describe how you size them up and roll +Network.
 
+- **12+** Pick two Shared Experiences. You may take +1 forward to any Social Interaction move.
 - **10+** Pick one Shared Experience and one Doubt. If you answer one of their Questions, you may take +1 forward to any Social Interaction move.
 - **7 - 9** Pick one Shared Experience and one Doubt. If you answer two of their Questions, you may take +1 forward to any Social Interaction move.
 
@@ -147,14 +154,16 @@ When you size up someone you don't know at all or very well, describe how you do
 - Who can vouch for you?
 - Tell me something about yourself few people know.
 
-### Use Connection or Belief
-When your connection or belief is relevant to your action, describe how it makes you more confident. You may roll with advantage. If any of the dice show a 1 or 2 – regardless of the outcome of the move – the belief or connection is challenged. Mark it. Next time you use it, if you roll a 1 or 2, it is proven wrong. You may continue to hold the belief or connection, but you may not use it to buff your rolls.
+### Use Belief
+When your belief is relevant to your action, describe how it makes you more confident. You may roll with advantage. If any of the dice show a 1 or 2 – regardless of the outcome of the move – the belief is challenged. Mark it. Next time you use it, if you roll a 1 or 2, it is proven wrong. You may continue to hold the belief, but you may not use it to buff your rolls.
 
 <a id="Connection-Moves"></a>
 ## City Connection Moves
+### Recall Neighborhood Connection
+Once per session, you may mark a History to bump a die roll result one tier. By marking a history, you add that neighborhood to the list of neighborhoods your character is connected to.
 
-### Perceive Demand
-Once per session you may mark the next available Demand to get a 10+ result on a move. You may mark it before or after you roll. Write down the demand the city makes of you. You may not take another Demand until you meet this one.
+### Hear Demand
+Once per session you may mark the next available Demand to bump a die roll result one tier. Write down the demand the city makes of you. You may not take another Demand until you meet this one.
 
 ### Meet Demand
 When you meet a Demand made by the city, take an Advance.
@@ -166,20 +175,18 @@ When you meet the last Demand, describe your epilogue.
 ## Social Interaction Moves
 Social Interaction Moves relate to a specific named individual. When characters interact with someone in particular, use Direct Someone to Act. When dealing with the denizens of the city more generally, use **Get Something**.
 
-You may not mark City Demands to affect this roll, but you may indicate you want to **Use a Secret** before you roll.
-
-### Confront Another
-When you express yourself with passion or conviction in the presence of another PC, they may pick one: 
-
-- they may write a new belief based on what you said if they mark 1 Heat
-- they may clear 1 Heat if they mark a belief, showing that what you said challenged it
+You may not mark Histories or City Demands to affect this roll, but you may indicate you want to **Use a Secret** before you roll.
 
 ### Direct Someone to Act
-When you demand someone *provide information* they have access to or *take an action* they are capable of taking, describe what you're demanding. 
+When you demand someone *provide information* they have access to or *take an action* they are capable of taking, describe what you're demanding and whether you're offering **peril**, **value**, or **logic**.
 
-If you demand they act against their self-interest, or reveal something that betrays their interests, they partially comply, OR pick a **strong reaction**.
+If you demand they act against their self-interest, or reveal something that betrays their interests, they pick a **strong reaction**.
 
-Otherwise, the Magistrate will secretly pick the type of offer -- **peril**, **value**, **passion**, or **logic** -- that holds the most sway. Then, describe your offer. The Magistrate will reveal the type of offer they selected. Then, roll +Sway. If you do not match types of offer, roll with disadvantage.
+If you demand they act against or betray another's interest, roll based on your offer of peril, value, or logic.
+
+NPCs will react to each offer type differently. The Magistrate will indicate whether you should roll with Sway, Heat, or flat (no modifier).
+
+If you must roll with Heat, roll minus the number of marked Heat.
 
 On a hit, you pick a **weak reaction**. On 7-9, they pick a **consequence**.
 
@@ -188,6 +195,7 @@ On a hit, you pick a **weak reaction**. On 7-9, they pick a **consequence**.
 - They demand proof of your offer (Do you follow through?)
 - They demand something of greater value (Do you give it to them?)
 - They demand a favor (Do you agree?)
+- Comply, but partially or maliciously
 
 If you meet any counter or demand, they comply.
 
@@ -202,7 +210,7 @@ If you meet any counter or demand, they comply.
 #### Consequences
 - Reveal your intentions or actions to someone else
 - Become a loyal follower, perhaps to a fault
-- Intend revenge
+- Intend revenge or betrayal
 - Disappear
 - Spread a rumor about you
 - Diminish your standing in your faction
@@ -227,7 +235,7 @@ When you use secret knowledge in your social interactions, describe how you use 
 > Says Donatella, "You think you know so much. My love for Arvel is long buried. I will tell you the location, but for your impudence, we will split the treasure 70-30."
 
 ### Reveal a Secret
-When you reveal a secret to someone, mark Heat. If the secret is about the person you're talking to, **mark the connection. 
+When you reveal a secret to someone, mark Heat. If the secret is about the person you're talking to, **mark the secret** and **lose the Tie** with them. 
 
 - With a Social Interaction Move, resolve the original move, but they may pick one additional Reaction from the list below.
 - In other circumstances, they may pick one Reaction from the list below.
@@ -246,6 +254,7 @@ Follow the fiction to determine if the secret becomes public knowledge. If it do
 ### Use Power
 When you tap into your connection to magic, technology, or other mysterious power, describe what you hope to accomplish. The Magistrate will assign a **complexity**. If the complexity is equal to or less than your max, roll normally. If it is above your max, roll with disadvantage. You may take +1 if you have a connection to the neighborhood or -2 if you do not.
 
+- **12+** You achieve your goal flawlessly.
 - **10+** Pick 1 Consequence.
 - **7-9** Pick 2 Consequences OR the power **backfires**.
 - **6-** The power **backfires**.
@@ -272,50 +281,44 @@ When the power backfires, roll +complexity. **Note**: Rolling lower is better.
 - Implicate your faction: How does this connect to them?
 
 ### Take a Big Risk
-When you risk physical harm, break the law, challenge social norms, or make a scene describe your objective and what you're prepared to give up to succeed, mark Heat and roll + most relevant attribute. Outcomes should align with the fiction. You probably can’t defeat a trained warrior in one-on-one combat even if you roll a **10+**.
+When you do something dangerous, felonious, violent, or imprudent describe the what you fear might happen, mark Heat and roll + most relevant attribute. Outcomes should align with the fiction. You probably can’t defeat a trained warrior in one-on-one combat even if you roll a **10+**.
 
-- **10+** You succeed in what you set out to do. You may mark Heat to pick an additional outcome from the list below.
+- **12+** You succeed in what you set out to do, and you may pick a second outcome from the consequences list below or clear 1 Heat.
+- **10+** You succeed in what you set out to do. You may mark Heat to pick another outcome from the consequences list below.
 - **7 - 9** You succeed but the Magistrate will tell you the cost; Or the magistrate will offer you a hard choice.
 
-PCs who are present must also pick one:
-* Challenge beliefs: Mark a belief
-* Suffer blowback: Mark Heat
-* Open eyes: Add a belief based on your actions
-* Incur cost: Lose 1 asset
-
-#### Additional Outcomes
-- **Knowledge**: Learn something about someone or something, or someone learns something about you
-- **Attention**: Attract attention or remain hidden
-- **Harm**: Avoid harm or cause an opponent temporary harm
-- **Reputation**: Word gets around about you
-- **Acquisition**: Gain something from someone
+#### Consequences
+- Learn something about someone or something
+- Escape the scene or remain hidden
+- Avoid attracting attention
+- Cause an opponent temporary harm or force them to hesitate
+- Change a detail about the scene
+- Create an opportunity for an ally
+- Impress one or more people
+- Take something from someone
 
 <a id="Scheme-Moves"></a>
 ## Scheme Moves
 ### Set Up a Scheme (Network)
-When you set up a scheme to regularly bring in cash or resources, describe the montage for setting it up and what you expect it to produce. The scheme starts with a Productivity equal to your Network attribute. Subtract 1 for each scheme you already have going.
+When you set up a scheme to regularly bring in cash or resources, describe the montage for setting it up and what you expect it to produce. Roll +Network. Subtract 1 for each scheme you already have going.
+
+- On a hit, the scheme’s Productivity starts at -1.
+- **7-9** Mark Heat or start Productivity at -2.
+- **6-** You fail to get the scheme off the ground or mark Heat to start the scheme’s Productivity at -3; either way, someone catches wind of your little operation.
 
 ### Run the Scheme
-When you check in on your scheme, answer one of the questions and roll +Productivity. You may do this once per session.
+When you check in on your scheme, roll +Productivity. You may do this once per session.
 
+- **12+** Collect two assets, pick 1 Success. You may have a maximum of two assets.
 - **10+** Collect 1 asset and increase productivity (Max +3). You may have a maximum of two assets.
 - **7-9** Reduce productivity to collect an asset, or do nothing. You may have a maximum of two assets.
 
-#### Questions
-* Who is your most trusted employee, worker, or collaborator?
-* Who is your most difficult employee, worker, or collaborator?
-* How do you collect the revenue or value generated by the scheme?
-* What aspect of the scheme do you check on first?
-* What aspect of the scheme is riskiest?
-* What aspect of the scheme produces the best results?
-
 #### Success
-- A local crime lord demands protection
+- Your business is noticed by a local crime lord who demands protection
 - Competition enters the market
 - An investor wants to buy you out
-- Authorities threaten to neutralize the (real or concocted) criminal aspects
+- The law takes notice of the operation and attempts to neutralize the criminal aspects
 - An employee is embezzling funds
-- The employees organize
 - Your faction takes an interest
 
 ### Use Asset
@@ -370,10 +373,10 @@ When a faction sends out agents and spies to a neighborhood to gather informatio
 - **7-** The faction may ask one question if they take a complicating aspect.
 
 #### Questions
-* Where can we find \[resource]?
-* Who is the real power in \[neighborhood]?
-* What is happening in \[neighborhood]?
-* What should we be on the look out for in \[neighborhood]?
+* Where can we find [resource]?
+* Who is the real power in [neighborhood]?
+* What is happening in [neighborhood]?
+* What should we be on the look out for in [neighborhood]?
 
 *Update the map to show what was learned.*
 
