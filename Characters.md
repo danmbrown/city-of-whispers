@@ -9,8 +9,7 @@ The playbooks define different types of characters, each representing a differen
 * Playbook Moves
 * Heat
 * Power
-* Beliefs
-* Ties & Secrets
+* Beliefs and Connections
 * Schemes
 * Deals
 * Neighborhood Connections
@@ -37,10 +36,11 @@ In addition to a mechanical impact, marking Heat should influence the direction 
 
 When directed to roll -Heat, subtract the total number of Heat marked from your roll.
 
+- **Pressure from Peers**: You may not use Connections to buff rolls
 - **Pressure from Rivals**: If you roll a 1 on either die any move, the Magistrate introduces an additional complication
-- **Pressure from Superiors**: Roll with disadvantage on Playbook Moves
-- **Suspicion of Friends**: Roll with disadvantage on City Moves
-- **Suspicion of Authorities**: Roll with disadvantage on Risky Moves
+- **Pressure from Superiors**: -2 on Playbook Moves
+- **Suspicion of Friends**: -2 on City Moves
+- **Suspicion of Authorities**: -2 on Risky Moves
 
 <a name="Power"></a>
 ## Power
@@ -59,8 +59,12 @@ When you apply your connection with magic, deity, or technology, the Magistrate 
 - **Occult Connection**: Deep knowledge of the mystic arts
 - **Planar Sorcery**: Drawing power from other planes of existence
 
-## Ties and Secrets
-If the trade of goods, services, and information is the city's lifeblood, then its soul is the connections between people. Your character's connections are represented by their Network attribute, but they also have Ties to specific individuals. A Tie is a person who holds a unique place in the character's life, whether they are known intimately to each other. Your character knows something about their Ties, a secret that can give them a bit of leverage or help them out of a bind.
+## Connections
+If the trade of goods, services, and information is the city's lifeblood, then its soul is the connections between people and to the neighborhoods. Your character's connections are represented by their Network attribute, but they also have connections to specific individuals and to the city's districts. 
+
+> When you use a Connection to a person or neighborhood, you can roll with advantage. But rolling a 1 or a 2 reveals that the connection is not a strong as you thought.
+
+A Connection to a person represents the unique relationship in the character's life, regardless of whether they are known intimately to each other. Your character knows something about their Connections, a secret that can give them a bit of leverage or help them out of a bind.
 
 Secrets are defined by Areas of Insight -- the aspect of the Tie's life that you know something about.
 
@@ -98,26 +102,8 @@ Stay in the city long enough and you'll set up a scheme for generating a bit of 
 > Schemes are measured by their Productivity. They produce Assets, currency you can spend to grease the wheels in your favor.
 
 
-## Neighborhood Connections
-Surroundings define a person as much as their personality or family history. A person in a new neighborhood or among strangers does not have the confidence they do in familiar environs. 
+## Demands of the City
 
-> Some moves indicate that having a neighborhood connection lets you roll with advantage or some other bonus.
-
-Every character starts out with a connection to a neighborhood in the city. Throughout the game, however, you will forge connections to additional neighborhoods through flashbacks or demands.
-
-> After rolling poorly, mark a History or Demand to bump your result to the next tier. 
-
-
-**Histories**
-You may mark these in any order.
-
-Narrate a flashback showing how in this neighborhood you...
-- learned a valuable life lesson
-- lost something important, valuable, or sentimental
-- sought comfort or refuge from something dangerous
-- fell into or out of love
-
-**Demands**
 These must be marked in order. You may not mark a Demand until you have fulfilled the previous one. When you mark the last one, the city has taken too much from you, and your character must retire.
 
 Describe what the city demands that you do to... 

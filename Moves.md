@@ -91,7 +91,7 @@ When you try something new -- for example, tasting food, listening to music, see
 - You interrupt someone nearby to urge them to try it
 
 ### Get Something (Network)
-When you work your connections to get information, a service, a rare item, or access to a restricted location, say what you need and roll +Network.
+When you work your network to get information, a service, a rare item, or access to a restricted location, say what you need and roll +Network.
   
 If your efforts are focused on an individual, use Direct Someone to Act.
 
@@ -243,26 +243,32 @@ Follow the fiction to determine if the secret becomes public knowledge. If it do
 
 <a id="Risky-Moves"></a>
 ## Risky Moves
-### Use Power
-When you tap into your connection to magic, technology, or other mysterious power, describe what you hope to accomplish. The Magistrate will assign a **complexity**. If the complexity is equal to or less than your max, roll normally. If it is above your max, roll with disadvantage. You may take +1 if you have a connection to the neighborhood or -2 if you do not.
 
-- **10+** Pick 1 Consequence.
-- **7-9** Pick 2 Consequences OR the power **backfires**.
-- **6-** The power **backfires**.
+When you tap into your connection to magic, technology, or other mysterious power, describe what you hope to accomplish or how it enhances your Move. Mark a use, then follow the direction. Use either the attribute of the Move you're enhancing OR if you're not enhancing a Move, whichever attribute is most appropriate.
 
-#### Consequences
-- Lesser effect (in area, duration, scale, or intensity)
-- The power affects targets beyond the one intended
-- The power has an unexpected temporary side effect
-- The power has an unexpected cost
-- The power has the opposite effect (if you pick this, you do not need to roll Backfire)
 
-### Backfire (lower is better)
-When the power backfires, roll +complexity. **Note**: Rolling lower is better.
+* Roll with Advantage
+* Roll with your highest attribute instead of the one specified
+* Cancel any disadvantage from Heat
+* Mark Heat
+* Mark another Use (without following direction)
 
-- **10+** Pick 1 Outcome and mark two Heat.
+If you roll a 1 or 2 on any die, the Power has an unexpected side effect.
+If you roll a 1 on any die, the Power also backfires.
+
+**Side Effects**
+- Lasts longer or shorter than desirable
+- Affects more than the desired target
+- Attracts unwanted attention
+- Larger or smaller effect than desirable
+- Leaves visible evidence on you
+
+### Backfire
+When the power backfires, roll.
+
+- **10+** It took extra effort to contain it, requiring some rest. Ask the Magistrate what you missed.
 - **7 - 9** Pick 2 Outcomes.
-- **6-** The power dissipates harmlessly.
+- **6-** Pick 1 Outcome and mark two Heat.
 
 #### Outcomes
 - Take yourself out of the scene: How do you become incapacitated?
