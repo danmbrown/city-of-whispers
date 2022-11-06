@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Moves.md",
+                "file": "Characters.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Moves.md",
+                "file": "Characters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +112,15 @@
   },
   "active": "dfb0ca77a78b2626",
   "lastOpenFiles": [
-    "MoveExplorations.md",
-    "MovesRevised.md",
-    "Moves.md",
+    "Introduction.md",
+    "index.md",
     "Gen.md",
-    "FirstSession.md",
-    "city-of-whispers-map-templates.pdf",
     "City.md",
+    "city-of-whispers-map-templates.pdf",
+    "FirstSession.md",
     "Characters.md",
-    "Moves - October Backup.md",
-    "Lists.md"
+    "Advancement.md",
+    "Moves.md",
+    "MoveExplorations.md"
   ]
 }

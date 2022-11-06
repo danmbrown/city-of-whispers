@@ -7,9 +7,9 @@ City of Whispers is a game of medieval-style fantasy that takes place entirely i
 
 City of Whispers is a fantasy roleplaying game taking place in a city invented by the players. It emphasizes three aspects of the genre:
 
--   **Connection to the city**: Your characters establish connections with individual neighborhoods and factions and people. As you encounter threats and undertake risky actions, the greater the connection to the city, the more effective you will be.
--   **Intrigue between the characters**: Characters are entrenched in city politics and know secrets about their fellow citizens. The lengths they go to preserve those secrets can have an impact on their relationships and interactions.
--   **Zooming in and out between faction-level and street-level action**: There are distinct moves for factions. Players control not only their characters at the street level, but also make decisions for their factions to affect the contours of city politics.
+- **Connection to the city**: Your characters establish connections with individual neighborhoods and factions and people. As you encounter threats and undertake risky actions, the greater the connection to the city, the more effective you will be.
+- **Intrigue between the characters**: Characters are entrenched in city politics and know secrets about their fellow citizens. The lengths they go to preserve those secrets can have an impact on their relationships and interactions.
+- **Zooming in and out between faction-level and street-level action**: There are distinct moves for factions. Players control not only their characters at the street level, but also make decisions for their factions to affect the contours of city politics.
 
 
 |Inspiration|[Pinterest](https://www.pinterest.com/brownorama/city-of-whispers/)|

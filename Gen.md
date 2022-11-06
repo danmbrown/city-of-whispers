@@ -6,6 +6,27 @@
 *The heart of the game is the map of the city. Throughout the game you'll add to the map. To get started, the group will add some key neighborhoods and landmarks.*
 
 Take a [**city map template**](city-of-whispers-map-templates.pdf) and add one of the listed elements. Cross out the element and pass the page to the next player. After everyone has taken a turn with the map, pass the paper around one more time so players may optionally add another element.
+
+**Neighborhoods** (occupies an entire district)
+* Where the original city started
+* A commercial district ()
+* A green space or park
+* An industrial district (What is produced here?)
+* A residential area (What social class lives here?)
+
+**Features** (along the borders)
+* A major thoroughfare
+* The river that runs through the city
+* A coastline 
+* Walls around all or part of the city
+* An ancient aqueduct or track
+
+**Landmarks**
+* An old fort/keep that first stood here
+* A famous sculpture or fountain
+* A plaza
+* A preserved ancient ruin 
+* The seat of government
  
 ## Determine the Backdrop *(Optional)*
 *The backdrop establishes the overarching events or circumstances. The characters may be embroiled in these events, or they may simply feel the repercussions of them.*
@@ -41,12 +62,12 @@ Determine what faction your character belongs to by rolling from or selecting fr
 ## Update the Map: Factions *(Optional)*
 Go around the table and select a neighborhood to be your faction's base of operations, and add a detail to the map related to your faction.
 
-## Select Ties and Write Beliefs
-Your character starts with **two beliefs** and **two Ties**.
+## Select Connections and Write Beliefs
+Your character starts with **two beliefs** and **two personal connections**.
 
 Beliefs capture a fundamental understanding you have about the world and the people in it. They may be true, and if you rely on them too much you may  find out they're not. You can write the beliefs on your own, or use the [**beliefs tables**](Lists.md#beliefs) to inspire you.
 
-Ties are people that you know something about. When interacting with others, you can use the secret for leverage, but you may reveal the secret, and then face the consequences. Select the Ties from your playbook, and then select or roll for what [**secrets**](Lists.md#secrets) you have about the Tie.
+Personal connections are people that you know something about. When interacting with others, you can use the secret for leverage, but you may reveal the secret, and then face the consequences. Select the connections from your playbook, and then select or roll for what [**secrets**](Lists.md#secrets) you have about them.
 
 ## Introduce Your Character and Note Neighborhood Connections
 Go around the table and introduce your character.
@@ -56,7 +77,7 @@ When introducing your character be sure to include:
 - Your character's name and pronouns
 - The overarching concept, if any
 - Their beliefs
-- Their ties
+- Their personal connections
 - Their starting moves
 
 The Magistrate should make note of any **updates to the map implied by playbook moves**.

@@ -13,6 +13,7 @@ The playbooks define different types of characters, each representing a differen
 * Schemes
 * Deals
 * Neighborhood Connections
+
 <a name="Attributes"></a>
 ## Attributes
 Like most PbtA games, characters have essential attributes represented by a score between -3 and +3. These attributes capture how the character navigates various aspects of the city.
