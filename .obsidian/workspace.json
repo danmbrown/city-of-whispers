@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dfb0ca77a78b2626",
+            "id": "255b1fd10e132f12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters.md",
+                "file": "Version 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c71b7f4d0566a901",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Moves.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters.md",
+                "file": "Version 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,17 +122,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "dfb0ca77a78b2626",
+  "active": "255b1fd10e132f12",
   "lastOpenFiles": [
-    "Introduction.md",
-    "index.md",
-    "Gen.md",
-    "City.md",
-    "city-of-whispers-map-templates.pdf",
-    "FirstSession.md",
-    "Characters.md",
-    "Advancement.md",
     "Moves.md",
-    "MoveExplorations.md"
+    "Version 2.md",
+    "ListofMoves.md",
+    "DesignDiary/Diary001.md",
+    "index.md",
+    "Untitled 1.md",
+    "Introduction.md",
+    "Diary002.md",
+    "Playbooks/Crossroads.md",
+    "Playbooks/Conduit.md"
   ]
 }

@@ -18,9 +18,15 @@ In your first session, add an element to the map that represents a hide-away or 
 At any time, you may mark Heat to add another element to the map.
 
 ## Relationship Questions
-* Which of your Ties has never been able to find respite or relief in my care?
-* Which of your Ties works for me or is related to someone who does?
-* Which of your Ties asked me to show someone a good time so they were easier to manipulate?
+First ask the table one of these questions:
+
+* Which of you asked me to show someone a good time so they were easier to manipulate?
+* Which of you has publicly disparaged the services I offer?
+
+Then ask the table one of these questions
+
+* Who among your connections has never been able to find respite or relief in my care?
+* Who among your ties works for me or is related to someone who does?
 
 
 ## Moves

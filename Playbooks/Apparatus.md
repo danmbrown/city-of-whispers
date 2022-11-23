@@ -2,6 +2,7 @@
 
 # Apparatus
 ## The Sustainer
+
 Favored Attribute: Lore
 
 >*The city is a great machine, an intricate connection of cogs and wheels ever ticking through infinite calculations. But every machine, even the great ones, need occasional winding, lubricating, and de-bugging.*
@@ -18,9 +19,15 @@ In your first session, add an element to the map that represents the city's bure
 At any time, you may mark Heat to add another element to the map.
 
 ## Relationship Questions
-- Which of your Ties keeps me informed about part of the city?
-- Which of your Ties thinks I'm up to no good?
-- Which of your Ties to the authorities?
+First, ask the table one of these questions: 
+
+* Which of you doesn't trust my skill in my area of expertise?
+* Which of you relied on me to help them out of a jam related to my expertise?
+
+Then, ask the table one of these questions:
+
+- Who among your connections keeps me informed about part of the city?
+- Who among your connections thinks I'm up to no good?
 
 
 ## Moves
@@ -58,8 +65,9 @@ You manage or work with a crew responsible for the Municipal Works. Their respon
 ### Tune the Machine
 When you **Use Power** to locate objects, landmarks, or people, roll with +2.
 
-## Ties & Secrets
-Pick two people with whom you have a Tie. For each, pick what you know about them from the [[Lists#Area of Insight]]
+## Connections
+Pick two people with whom you have a connection. For each, pick what you know about them from the [[Lists#Secrets]]
+
 - Thirrik, a corrupt colleague
 - Kymil, a former apprentice
 - Hokula, a city skulk

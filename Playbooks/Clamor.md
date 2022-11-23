@@ -18,9 +18,15 @@ In your first session, add an element to the map that represents the city's dive
 At any time, you may mark Heat to add another element to the map.
 
 ## Relationship Questions
-- Which of your Ties gave me a problem I could not solve or a question I could not answer?
-- Which of your Ties thinks my work is frivolous?
-- Which of your Ties connects me with supplies and sources I could not get on my own?
+First ask the table one of these questions: 
+
+* Which of you publicly ridiculed my work?
+* Which of you sought me out to consult on a difficult problem?
+
+Then ask the table one of these questions:
+
+- Who among your connections gave me a problem I could not solve or a question I could not answer?
+- Who among your connections finds me supplies and sources I could not get on my own?
 
 
 ## Moves

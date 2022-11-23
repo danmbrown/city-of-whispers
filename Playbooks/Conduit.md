@@ -19,9 +19,15 @@ In your first session, add an element to the map that represents a place where p
 At any time, you may mark Heat to add another element to the map.
 
 ## Relationship Questions
-* For which of your Ties did I make an introduction that ended badly?
-* Which of your Ties knows someone who refuses to interact with me?
-* Which of your Ties attended an event I hosted?
+First ask the table one of these questions:
+
+* Which of you is a regular at events I host?
+* Which of you met one of your connections through me?
+
+Then ask the table one of these questions
+
+* Who among your connections has acted as a go-between for me?
+* Who among your connections refuses to interact with me?
 
 ## Moves
 

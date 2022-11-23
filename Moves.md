@@ -71,7 +71,7 @@ When you listen out for interesting information, name something you’re especia
 ### Appraise Circumstances (Lore)
 When you take time to study the situation to see what’s really going on, roll +Lore.
 
-- **10+** Ask one question, then ask another question OR write a connection to the neighborhood.
+- **10+** Ask one question; then ask another question OR write a connection to the neighborhood.
 - **7 - 9** Ask one question.
 
 #### Questions
@@ -212,7 +212,7 @@ If you meet any counter or demand, they comply.
 ## Secrets Moves
 
 ### Use a Secret
-When you use secret knowledge in your social interactions, describe how you use the secret without revealing it, then roll with advantage. But if any of the dice show 1 or 2, then you **Reveal a Secret**.
+When you use secret knowledge in your social interactions, describe how you use the secret without revealing it, then roll with advantage (or cancel disadvantage). But if any of the dice show 1 or 2, then you **Reveal a Secret**.
 
 > **Example of _Use a Secret_**
 >
@@ -244,6 +244,7 @@ Follow the fiction to determine if the secret becomes public knowledge. If it do
 <a id="Risky-Moves"></a>
 ## Risky Moves
 
+### Use Power
 When you tap into your connection to magic, technology, or other mysterious power, describe what you hope to accomplish or how it enhances your Move. Mark a use, then follow the direction. Use either the attribute of the Move you're enhancing OR if you're not enhancing a Move, whichever attribute is most appropriate.
 
 
